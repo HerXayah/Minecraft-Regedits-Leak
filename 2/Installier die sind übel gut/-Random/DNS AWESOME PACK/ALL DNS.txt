@@ -1,0 +1,109 @@
+Dns
+ 
+Funcraft :
+ 
+Vietnam : 210.211.125.19 (no kb)
+Funcraft reach : 37.187.90.145 (reach op)
+Danemark : 87.104.24.148 (reach op)
+Strafe : 190.202.81.115 / 201.248.251.45 / 81.18.251.35 / 81.18.151.41 (reach +, kb - & spam z op)
+Latence : 181.29.38.22 / 200.69.193.2
+Venezuela : 186.167.16.187 (no kb)
+Ziblacking no kb : 192.34.38.14 / 198.50.145.155 (no kb & str8line)
+Boost co (download ou autre) : 208.67.222.222 / 208.67.220.220 / 8.8.8.8 / 8.8.4.4
+Chine : 58.17.104.67 (kb forwards, vers l'avant)
+Corée : 59.24.210.2 (no kb)
+Afghanistan : 117.55.193.135 (no kb)
+Brésil : 177.23.32.133 (reach op semi latence)
+Suède: 81.170.236.56 (no kb)
+PORTUGAL: 89.153.203.159 (reach)
+Liban : 194.126.13.18 (no kb)
+Madagascar : 197.158.66.21 (reach op)
+Grèce : 213.16.245.138 (no kb + reach)
+Jamaïque : 72.27.221.242 (moins de kb)
+Kosovo : 194.54.181.90 (juste wtf no kb)
+Macédoine : 92.55.108.94 (no kb)
+Bahreïn : 94.79.196.51 (no kb & latence)
+Israel : 84.95.200.9 (no kb)
+Uruguay : 200.40.115.74 (no kb, latence)
+Népal : 202.166.211.67 (no kb)
+Costa rica : 201.198.254.84 (high kb, vers le haut)
+Lichtenstein : 80.72.58.173 (no kb)
+Sri Lanka : 123.231.23.192 (no kb)
+Kyrgyzstan : 92.245.100.182 (no kb)
+Qatar : 213.130.112.181 (no kb :))
+Seychelles 197.158.242.26 (kb en arriere)
+Youbiiiii : 94.23.193.139 : No kb
+94.23.215.98 : No kb
+188.165.229.91 : Reach +
+167.114.112.117 + 188.165.229.91 + 46.105.121.61 : Latence kb + No Kb + Reach op
+37.187.90.145: No Kb
+37.187.90.145 : No Kb
+Canada : 206.172.48.131 (no kb)
+dns NoKB  : 186.167.16.187/ 200.62.11.198
+dns much reach noKB: 186.190.135.43/ 186.190.152.67
+nothing kb: 208.76.50.50/ 208.76.51.51
+moins kb: 208.76.50.50/ 208.76.51.51
+dns de feeroz (dns russe) : 176.100.125.22
+ 
+ 
+
+ 
+
+ 
+dns : ctlserv : 94.23.1.152 / 93.17.89.246
+Latence : 181.29.38.22 / 200.69.193.2
+Ziblacking no kb : 192.34.38.14 / 198.50.145.155 (no kb & str8line)
+Strafe : 190.202.81.115 / 201.248.251.45 / 81.18.251.35 / 81.18.151.41 (reach +, kb - & spam z op)
+dns NoKB  : 186.167.16.187/ 200.62.11.198
+dns much reach noKB: 186.190.135.43/ 186.190.152.67
+some kB: 192.34.38.14
+nothing kb: 208.76.50.50/ 208.76.51.51
+dns eu: 187.174.132.130
+moins kb: 208.76.50.50/ 208.76.51.51
+best dns eu host (orange) : 80.10.246.2/ 80.10.246.129
+ 
+
+ 
+Dns : No Kb :
+51.254.49.221
+51.254.49.215
+51.254.49.217
+51.254.49.219
+51.254.49.216
+92.222.234.189
+92.222.234.190
+51.254.49.220
+ 
+Latency kb :
+158.69.57.23
+158.69.57.22
+167.114.112.117
+158.69.57.28
+158.69.57.24
+167.114.112.117
+ 
+Strafe : 190.202.81.115 / 201.248.251.45 / 81.18.251.35 / 81.18.151.41 (reach +, kb - & spam z op)
+Latence : 181.29.38.22 / 200.69.193.2
+kohi : 192.95.48.17 / 192.99.5.38
+Venezuela : 186.167.16.187 (no kb)
+dns us-Nice reach : 186.125.131.18/ 200.110.156.18
+dns NoKB  : 186.167.16.187/ 200.62.11.198
+dns much reach noKB: 186.190.135.43/ 186.190.152.67
+some kB: 192.34.38.14
+nothing kb: 208.76.50.50/ 208.76.51.51
+dns LA some kb: 208.69.222.22/ 200.69.193.2
+Dns CA : 192.34.38.14/ 198.50.145.155
+Stafe all servers: 190.202.81.115/ 201.248.251.45
+stafe dns: 81.18.251.35/ 81.18.251.41
+dns eu: 187.174.132.130
+no take kb CA: 59.11.140.26/ 211.54.151.129
+moins kb: 208.76.50.50/ 208.76.51.51
+best dns eu host (orange) : 80.10.246.2/ 80.10.246.129
+Us Ste8line ca: 192.95.48.17/ 192.99.5.38
+Stimpay Verzide: 186.167.16.187/ 200.8.65.30
+186.125.131.18/ 200.110.156.18
+ 
+Autres :
+Boost co : Boost co (download ou autre) : 208.67.222.222 / 208.67.220.220 / 8.8.8.8 / 8.8.4.4
+ipv6 : 2620:74:1b::1:1 / 2620:74:1c::2:2 (no kb)
+2001:1608:10:25::1c04:b12f / 2001:1608:10:25::9249:d69b (eu, kohi)

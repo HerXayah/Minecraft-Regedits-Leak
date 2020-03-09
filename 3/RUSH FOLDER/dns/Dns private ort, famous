@@ -1,0 +1,48 @@
+--== KNOCKBACKS ==--
+
+      [IPV4]
+
+- PRIMARY : 81.253.149.2 -
+
+- SECONDARY : 80.10.246.132 -
+
+- TERTIARY : 192.168.0.254 -
+
+      [IPV6]
+
+- DISABLED -
+
+
+
+--== REACH ==--
+
+      [IPV4]
+
+- PRIMARY : 8.8.8.8 -
+
+- SECONDARY : 4.4.4.4 -
+
+- TERTIARY : 4.4.2.2 -
+
+      [IPV6]
+
+- PRIMARY : 2001:4860:4860::8888 -
+
+- SECONDARY : 2001:4860:4860::8844 -
+
+- TERTIARY : 2a00:5881:81:81:8100:1000::3 -
+
+
+--== HITDETECTION ==--
+
+      [IPV4]
+
+- PRIMARY : 207.14.235.234 -
+
+- SECONDARY : 67.238.98.162 -
+
+- TERTIARY : 74.4.19.187 -
+
+      [IPV6]
+
+- DISABLED -

@@ -1,0 +1,19 @@
+REGEDIT Enjoy Miniboost V5
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpDelAckTicks"=dword:00000000
+"Tcp1323Opts"=dword:00000001
+"MaxUserPort"=dword:00065534
+"DefaultTTL"=dword:0000001
+"TcpAckFrequency"=dword:2000fff
+"TcpTimedWaitDelay"=dword:30
+"MaxHashTableSize"=dword:00065535
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"

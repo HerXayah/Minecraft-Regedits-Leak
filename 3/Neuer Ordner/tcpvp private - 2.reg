@@ -1,0 +1,23 @@
+REGEDIT4
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+ 
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="2"
+"HungAppTimeout"="1050"
+"MenuShowDelay"="8"
+"LowLevelHooksTimeout"="3400"
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="9"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000045
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:000000fff7
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000034
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="5000"

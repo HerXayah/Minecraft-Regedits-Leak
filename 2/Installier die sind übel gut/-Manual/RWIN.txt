@@ -1,0 +1,9 @@
+How to calculate RWIN:
+Example: MSS is 1460, RTTavg is 125ms and advertised download speed is 1500kbps.
+125 x 1.5 = 187.5
+187.5 x 1500kbps = 281250
+281250 divide by 8 = 35156
+35156 divide by 1460 (MSS) = 24.07
+Round up to next even number = 26
+26 x 1460 = 37960 (optimal RWIN)
+This is for Regedit users.

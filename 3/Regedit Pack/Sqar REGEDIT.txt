@@ -1,0 +1,5 @@
+TCPNoDelay = 1288fff
+TcpAckFrequency = 1288fff
+TcpDelAckTicks = 0
+MTU = 1500
+MSS = 1460

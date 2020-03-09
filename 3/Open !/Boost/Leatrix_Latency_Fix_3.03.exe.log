@@ -1,0 +1,10 @@
+Traceback (most recent call last):
+  File "Leatrix_Latency_Fix_3.03.pyw", line 179, in <module>
+  File "Tkinter.pyc", line 1685, in __init__
+_tkinter.TclError: Can't find a usable init.tcl in the following directories: 
+    {C:/Users/Oberneder/Desktop/iAuzztim Kb/lib/tcl8.5} {C:/Users/Oberneder/Desktop/iAuzztim Kb/lib/tcl8.5} C:/Users/Oberneder/Desktop/lib/tcl8.5 {C:/Users/Oberneder/Desktop/iAuzztim Kb/library} C:/Users/Oberneder/Desktop/library C:/Users/Oberneder/Desktop/tcl8.5.2/library C:/Users/Oberneder/tcl8.5.2/library
+
+
+
+This probably means that Tcl wasn't installed properly.
+
