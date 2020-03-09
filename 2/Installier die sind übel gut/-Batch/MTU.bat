@@ -1,1 +1,0 @@
-netsh interface ipv4 set subinterface "1" mtu=1472 store=persistent

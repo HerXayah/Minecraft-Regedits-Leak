@@ -1,6 +1,0 @@
-REGEDIT:
-TCPNoDelay = 1
-TcpAckFrequency = 1
-TcpDelAckTicks = 0
-MTU = 1500
-MSS = 1460

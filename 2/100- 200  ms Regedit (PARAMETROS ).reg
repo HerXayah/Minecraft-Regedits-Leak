@@ -1,7 +1,0 @@
-REGEDIT4       (FixerPvP)
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
-"TCPNoDelay"=dword:00000650
-"TcpAckFrequency"=dword:00000650
-"TcpDelAckTicks"=dword:00000000
-"MTU"=dword:00001500
-"MSS"=dword:00001460

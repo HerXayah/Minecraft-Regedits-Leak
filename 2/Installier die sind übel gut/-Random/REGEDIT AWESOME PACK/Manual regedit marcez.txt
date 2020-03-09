@@ -1,5 +1,0 @@
-Regedit:
-TcpAckFrequency: 630fff or 1288fff
-TCPNoDelay: 630fff or 1288fff
-TcpDelAckTicks: 0
-TcpWindowSize: 630fff or 1288fff

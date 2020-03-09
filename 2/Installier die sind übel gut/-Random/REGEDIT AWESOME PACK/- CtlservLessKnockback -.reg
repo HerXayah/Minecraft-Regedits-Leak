@@ -1,9 +1,0 @@
-REGEDIT_IAUZZTIMPRIVATE
-[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
-"TcpNoDelay"=dword:99999999
-"TCPDelAckTicks"=dword:9df
-"TcpAckFrequency"=dword:99999999
-"MSS" dword:1430	
-"MTU" dword:1430
-
-

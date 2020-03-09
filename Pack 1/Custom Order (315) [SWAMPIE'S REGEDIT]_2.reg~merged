@@ -1,0 +1,18 @@
+REGEDIT_Swampie
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:650
+"TcpNoDelay"=dword:650
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:1288fff
+"TCPDelAckTicks"=dword:1288fff
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"TcpWindowSize"=dword:0005ae4c
+"Tcp1323Opts"=dword:00000003
+"DefaultTTL"=dword:7fff
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:0005ae4c
+"TcpTimedWaitDelay" dword:30

@@ -1,0 +1,121 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters]
+
+"DefaultTTL"=dword:00000064
+"KeepAliveTime"=dword:180000
+"ServerInfoTimeout"=dword:180000
+"QualifyingDestinationThreshold"=dword:00000003
+"SynAttackProtect"=dword:00000001
+"Tcp1323Opts"=dword:00000001
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"TcpMaxDataRetransmissions"=dword:00000005
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+
+"TCPNoDelay"=dword:0000001
+"TcpNoDelay"=dword:0000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000001
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Latency Sensitive"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000002
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="True"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000002
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000005
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Reliability]
+
+"TimeStampInterval"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cdrom]
+
+"AutoRun"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+
+"IRQ8Priority"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+
+"Class"=dword:00000008
+"DnsPriority"=dword:00000006
+"HostsPriority"=dword:00000005
+"LocalPriority"=dword:00000004
+"NetbtPriority"=dword:00000007
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+
+"EnableDCA"=dword:00000001
+"EnableWsd"=dword:00000000
+"EnableTCPA=dword:00000001
+"DefaultTTL"=dword:00000064
+"DisableLargeMTU"=dword:00000000
+"DisableTaskOffload"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"TCPMaxDataRetransmissions"=dword:00000005
+"TcPMaxDataRetransmissions"=dword:00000005
+"Tcp1323Opts"=dword:00000001
+"TcpNumConnections"=dword:00000500
+"TcpTimedWaitDelay"=dword:00000019
+"SynAttackProtect"=dword:00000001
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LanmanServer\Parameters]
+
+"SizReqBuf"=dword:00006300
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\LanmanWorkstation\Parameters]
+
+"DisableBandwidthThrottling"=dword:00000001
+"DisableLargeMtu"=dword:00000000
+"MaxCmds"=dword:00000064
+"MaxThreads"=dword:00000064
+"MaxCollectionCount"=dword:0000020
+"KeepConn"=dword:00015180
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
