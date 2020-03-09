@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"extension"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,\
+  00,6e,00,73,00,65,00,78,00,74,00,2e,00,64,00,6c,00,6c,00,00,00
+"ServiceDll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  64,00,6e,00,73,00,72,00,73,00,6c,00,76,00,72,00,2e,00,64,00,6c,00,6c,00,00,\
+  00
+"ServiceDllUnloadOnStop"=dword:00000001
+"MaxNegativeCacheTtl"=dword:00000000
+"AdapterTimeoutCacheTime"=hex(b):2c,01,00,00,00,00,00,00
+"CacheHashTableBucketSize"=hex(b):0a,00,00,00,00,00,00,00
+"CacheHashTableSize"=hex(b):d3,00,00,00,00,00,00,00
+"MaxCacheEntryTtlLimit"=hex(b):80,51,01,00,00,00,00,00
+"MaxSOACacheEntryTtlLimit"=hex(b):78,00,00,00,00,00,00,00
+"NegativeCacheTime"=hex(b):2c,01,00,00,00,00,00,00
+"NegativeSOACacheTime"=hex(b):78,00,00,00,00,00,00,00
+"NetFailureCacheTime"=hex(b):1e,00,00,00,00,00,00,00

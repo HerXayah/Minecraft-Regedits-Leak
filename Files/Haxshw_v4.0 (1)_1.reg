@@ -1,0 +1,54 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Priority"=dword:00000008
+"TcpNoDelay"=dword:2200fff
+"TCPDelAckTicks"=dword:20000fff
+"TcpAckFrequency"=dword:20000fff
+"MSS" dword:1460	
+"MTU" dword:1460
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00004410
+"Size"=dword:00000003
+"MaxMpxCt"=dword:0000007d
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00004410
+"Size"=dword:00000003
+"MaxMpxCt"=dword:0000007d
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"TcpMaxDupAcks"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:0000ffff
+"MTU "=dword:000005dc
+"MSS"=dword:000005b4
+"MaxUserPort"=dword:00065534
+"MaxHashTableSize"=dword:00001000
+"TcpTimedWaitDelay"=dword:0000001e
+"DisableTaskOffload"=dword:00000001
+"EnableWsd"=dword:00000000

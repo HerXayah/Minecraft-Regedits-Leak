@@ -1,0 +1,23 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultReceiveWindow"=hex(b):ff,ff,ff,ff,ff,ff,ff,ff
+"DefaultSendWindow"=hex(b):ff,ff,ff,ff,ff,ff,ff,ff
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="200"
+"AutoRepeatRate"="15"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="0"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026

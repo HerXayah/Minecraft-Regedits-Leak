@@ -1,0 +1,31 @@
+!i! DNS PRIVATE ORT NOKNOCKBACK !i!
+
+
+ORT Ctlserv Low Knockback
+81.253.149.2
+80.10.246.132
+
+-=-=-=-=-=-=
+
+ORT Funcraft BigReach/Low Knockback
+85.214.43.157
+200.69.193.2
+
+-=-=-=-=-=-=
+
+Dns de latence 
+8.8.8.8
+8.8.4.4
+
+-=-=-=-=-=-=
+
+ORT ALL NO KB Frosty
+158.69.57.22
+200.13.137.78
+
+INEDIT :
+Dns ipv6
+
+2001:4860:4860::8888
+
+2620:0:ccd::2

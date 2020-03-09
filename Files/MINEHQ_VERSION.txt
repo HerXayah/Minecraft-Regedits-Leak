@@ -1,0 +1,101 @@
+--------------------------------------------------------------
+All credits to @Ziblacking 
+The best for the servers style like : MineHQ
+Improuve your game smooth / make your pot go faster so less potlag and advantage in the most other FPS games
+Make you take less knoockback / make you biggest reach useless 8blocking combos 
+a little demonstration + proof im legit : https://www.youtube.com/watch?v=FvYMZEIpqiM&t=
+
+
+-------------------------------------------------------------
+
+
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+---> HAD WORK WAS DONE FOR FIND ALL THAT TIPS AND SO MUCH RANKED RAGE AND POTLAGS BEFORE GET TOPELO <---
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+--------------------------------------------------------------
+
+
+!!!!!!!!!!!!!!!!!!!!IMPORTANT[advice factory reset your computer before do all things for BETTER experience]IMPORTANT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+--------------------------------------------------------------
+
+
+-Regedit
+Put a regedit simple as possible is the best not bullshit like orilation or other trash
+Mine : http://prntscr.com/isag3h http://prntscr.com/isagdb
+Not every complicate things are the best =)
+sometimes something simple is the best one
+
+
+--------------------------------------------------------------
+
+
+Softwares to download :
+ProcessHacker (installer) https://processhacker.sourceforge.io/downloads.php
+BITS v2 : http://www.mediafire.com/file/ap8epvai97m5ubc/BITS%20v2.bat
+
+-How to use them
+
+BITS v2 :
+IMPORTANT ---> [open it as adminitrator every time when you start your pc] <--- IMPORTANT
+1. http://prntscr.com/isa2z4
+2. do nothing just let it open when you play and don't close it, it wanna improuve ur performance alot
+
+
+
+ProcessHacker :
+IMPORTANT ---> [open as administrator every time when you start your pc] <--- IMPORTANT
+
+1. Install it -> Close it -> Open it as administrator http://prntscr.com/isa397
+2. Search Javaw.exe and right click on it and follow the screens http://prntscr.com/isa51m http://prntscr.com/isa58z
+3. Look for an svchost.exe (whatever can be good) right click on it and follow the screens http://prntscr.com/isa6mj http://prntscr.com/isa6r2
+4. Let the program open(open as ADMIN) everytime when you play or it's don't work 
+
+
+--------------------------------------------------------------
+
+-Enthernet .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/6habra8rxr6r99x/enthernet.bat
+
+1. Open as ADMIN http://prntscr.com/isapxk only one tiime
+2. done
+
+--------------------------------------------------------------
+
+-BITS .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/869ry1ywculkno0/BITS.bat
+
+1. Open as administrator every time you play and keep it open http://prntscr.com/isaqf2
+2. https://youtu.be/_IA4b2Hb8nQ
+3. Done enjoy your game :)
+
+
+
+--------------------------------------------------------------
+
+
+
+SOFTWARE PART
+
+
+NetLimiter : 
+
+It's the most OP application for make y ou took LESS kb and a FUCKING AMAZING REACH
+
+Download : https://www.netlimiter.com/
+
+1. Install NetLimiter
+2. Open it and set that settings http://prntscr.com/k5uxws
+3. When you see a shit application opend just close it (every shit application let ONLY minecraft use ENTHERNET on your pc) http://prntscr.com/isz3cz
+4. Enjoy =)
+
+
+
+
+
+

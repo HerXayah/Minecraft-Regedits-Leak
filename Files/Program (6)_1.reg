@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+"OpenGL_texture_bit_rate_bits_per_frame"=dword:01479306

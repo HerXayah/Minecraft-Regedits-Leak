@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Executive]
+"AdditionalCriticalWorkerThreads"=hex(b):64,00,00,00,00,00,00,00
+"AdditionalDelayedWorkerThreads"=hex(b):16,00,00,00,00,00,00,00
+"WorkerFactoryThreadIdleTimeout"=hex(b):58,02,00,00,00,00,00,00
+"UuidSequenceNumber"=hex(b):a4,fe,12,00,00,00,00,00

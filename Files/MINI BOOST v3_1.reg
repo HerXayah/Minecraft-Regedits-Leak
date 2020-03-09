@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"EnableDCA"=dword:00000001
+"EnableTCPA"=dword:1
+"DisableTaskOffload"=dword:0
+"SystemResponsiveness"dword=0

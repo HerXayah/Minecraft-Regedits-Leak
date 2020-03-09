@@ -1,0 +1,20 @@
+{
+  "name": "Breadcrumbs",
+  "enabled": true,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Line Width": 1.5,
+    "Line Alpha": 0.85,
+    "Sand Line Red": 1.0,
+    "Sand Line Green": 1.0,
+    "Sand Line Blue": 0.0,
+    "Minimum Displacement": 0.1,
+    "Expiration Seconds": 15.0,
+    "Display lines through walls": true
+  }
+}

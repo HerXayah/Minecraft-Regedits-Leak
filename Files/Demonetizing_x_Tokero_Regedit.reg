@@ -1,0 +1,1567 @@
+REGEDIT BY Jitter !!!!
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="200"
+"AutoRepeatRate"="15"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="0"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:1288fff
+"TCPDelAckTicks"=dword:1288fff
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"TcpWindowSize"=dword:0005ae4c
+"Tcp1323Opts"=dword:00000003
+"DefaultTTL"=dword:7fff
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:0005ae4c
+"TcpTimedWaitDelay" dword:30
+"TcpAckFrequency"=dword:650
+"TcpNoDelay"=dword:650
+"TcpNoDelay"=dword:-1
+"TcpNoDelay"=dword:75
+"TcpAckFrequency"=dword:75
+"TcpAckFrequency"=dword:1
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+"TcpNoDelay"=dword:7fff
+"TcpNoDelay"=dword:00000040
+"TcpDelAckTicks"=dword:00000000
+"TcpAckFrequency"=dword:00000012
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"DisableTaskOffload"=dword:00000000
+"DnsPriority"=dword:000005bd
+"HostsPriority"=dword:0000023c
+"LocalPriority"=dword:0000005b
+"NetbtPriority"=dword:0000002d
+"QualifyingDestinationThreshold"=dword:00000003
+"DisableTaskOffload"=dword:00000001
+"IPEnableRouter"=dword:00000000
+"EnableICMPRedirect"=dword:00000001
+"KeepAliveTime"=dword:006ddd00
+"KeepAliveInterval"=dword:000003e8
+"TcpMaxDupAcks"=dword:00000002
+"DefaultTTL"=dword:00000064
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"EnableTCPA"=dword:00000001
+"TCPMaxDataRetransmissions"=dword:00000007
+"SynAttackProtect"=dword:00000001
+"EnableDCA"=dword:00000001
+"TcpWindowSize"=dword:00000001
+"MTU"=dword:1464
+"MSS"=dword:1424
+[HKEY_LOCAL_MACHINE\SOFTWARE\OfficialHawk\Minecraft]
+"Version"="1.9.4"
+"Path"="C:\Users\Owner\AppData\Roaming\.minecraft\"
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"GlobalMaxTcpWindowSize"=dword:00017520
+"TCPNoDelay"=dword:00000001
+"DefaultRCVWindow"=dword:00017032
+"MaxConnectionsPerServer"=dword:00000016
+"MaxConnectionsPer1_0Server"=dword:00000016
+"GlobalMaxTcpWindowSize"=dword:00065535
+"MaxConnectionsPerServer"=dword:00000006
+"MaxConnectionsPer1_0Server"=dword:00000006
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheEntryTtlLimit"=dword:0000fa00
+"MaxSOACacheEntryTtlLimit"=dword:0000012d
+"NegativeCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"NegativeSOACacheTime"=dword:00000000
+"TcpNoDelay"=dword:000250ff
+"DefaultTTL"=dword:00000040
+"GlobalMaxTcpWindowSize"=dword-:0005ae4c
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00017424
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"IRPStackSize"=dword:00000040
+"Version"="1.7.10"
+"Path"="C:\\USER\\AppData\\Roaming\\.minecraft\\versions\\"
+"TcpAckFrequency"=dword:00000000
+"MTU"=dword:00001457
+"MSS"=dword:00000539
+"TcpNumConnections" dword:7fff
+"TcpMaxDupAcks" dword:2
+"TcpWindowSize" dword:7fff
+"WorldMaxTcpWindowsSize" dword:7
+"TCPInitialRtt" dword:7fff
+"IRPStackSize" dword:50
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultReceiveWindow"=dword:0036005f
+"DefaultSendWindow"=dword:00000001
+"EnablePMTUDiscovery"=dword:00000000
+"TcpMaxDupAcks"=dword:00000003
+"GlobalMaxTcpWindowSize"=dword:0036005f
+"MTU"=dword:000005dc
+"MSS"=dword:000005b4
+"MaxHashTableSize"=dword:00001000
+"TcpTimedWaitDelay"=dword:0000001e
+"EnableWsd"=dword:00000000
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"AlwaysUnloadDll"=dword:00000001
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}\Shell\Open\Command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,72,00,65,00,67,00,65,00,64,00,69,00,74,00,2e,00,65,00,78,00,65,00,\
+  00,00
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseSensitivity"="10"
+"SmoothMouseXCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	C0,CC,0C,00,00,00,00,00,\
+	80,99,19,00,00,00,00,00,\
+	40,66,26,00,00,00,00,00,\
+	00,33,33,00,00,00,00,00
+"SmoothMouseYCurve"=hex:\
+	00,00,38,00,00,00,00,00,\
+	00,00,70,00,00,00,00,00,\
+	00,00,A8,00,00,00,00,00,\
+	00,00,E0,00,00,00,00,00
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"MaxCmds"=dword:0000001e
+"MaxThreads"=dword:0000001e
+"MaxCollectionCount"=dword:00000020
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000000
+"IoPageLockLimit"=dword:000f0000
+"Priority"=dword:00000008
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Winsock]
+"HelperDllName"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,77,00,73,00,68,00,74,00,63,00,70,00,69,00,70,00,2e,00,64,00,6c,00,6c,00,\
+"MaxSockAddrLength"=dword:00000010
+"MinSockAddrLength"=dword:00000010
+"Mapping"=hex:08,00,00,00,03,00,00,00,02,00,00,00,01,00,00,00,06,00,00,00,02,\
+  00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,00,00,00,06,00,00,00,02,00,\
+  00,00,02,00,00,00,11,00,00,00,02,00,00,00,02,00,00,00,00,00,00,00,02,00,00,\
+  00,00,00,00,00,11,00,00,00,02,00,00,00,03,00,00,00,ff,00,00,00,02,00,00,00,\
+  03,00,00,00,00,00,00,00
+"UseDelayedAcceptance"=dword:00000000
+"Tcp1323Opts"=dword:00000001
+"MSS"=dword:00001460
+"MTU"=dword:00001460
+"MaxMTU"=dword:00001460
+"MaxMSS"=dword:00001460
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000001
+"EnableDynamicBacklog"=dword:00000001
+"KeepAliveInterval"=dword:00000001
+"TCPInitialRtt"=dword:00007fff
+"EnableICMPRedirect"=-
+"EnableTCPA"dword:00000001
+"IPEnableRouter":00000000
+"DontAddDefaultGatewayDefault"dword:00000000
+"OverrideDefaultAddressSelection"dword:00000001
+"WorldMaxTcpWindowsSize"=dword:00328890
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000001
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpGatewayHardware"=hex:c0,a8,00,01,06,00,00,00,c4,6e,1f,4d,2d,ea
+"DhcpGatewayHardwareCount"=dword:0000000123
+"ICSDomain"="mshome.net"
+"SyncDomainWithMembership"=dword:00000001
+"NV Hostname"="Internet"
+"DataBasePath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  64,00,72,00,69,00,76,00,65,00,72,00,73,00,5c,00,65,00,74,00,63,00,00,00
+"Hostname"="URIEL-PC"
+"SearchList"=""
+"UseDomainNameDevolution"=dword:00000001
+"OverrideDefaultAddressSelection"=dword:00000001
+"TcpMaxDupAcks"=dword:0
+"SizReqBuf"=dword:00004410
+"Size"=dword:00000003
+"MaxMpxCt"=dword:0000007d
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{2C7B2EE4-D141-4A1C-97DA-E7C9EC9B9B3F}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.1.1"
+"Lease"=dword:0000a8c0
+"LeaseObtainedTime"=dword:5784a64b
+"T1"=dword:5784faab
+"T2"=dword:578539f3
+"LeaseTerminatesTime"=dword:57854f0b
+"IPAddress"=hex(7):00,00
+"SubnetMask"=hex(7):00,00
+"DefaultGateway"=hex(7):00,00
+"DefaultGatewayMetric"=hex(7):00,00
+"DhcpIPAddress"="192.168.1.36"
+"DhcpSubnetMask"="255.255.255.0"
+"NameServer"="190.202.81.115,192.95.48.17"
+"TcpAckFrequency"=dword:00630fff
+"TcpWindowSize"=dword:00630fff
+"MTU"=dword:00001500
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,0b,\
+  4f,85,57,c0,a8,01,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,0b,4f,\
+  85,57,c0,a8,01,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,0b,4f,85,\
+  57,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,0b,4f,85,57,\
+  c0,a8,01,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,0b,4f,85,57,05,\
+  00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,4e,a6,84,57,01,00,\
+  00,00,00,00,00,00,00,00,00,00,01,00,00,00,4e,a6,84,57,0c,00,00,00,00,00,00,\
+  00,0b,00,00,00,00,00,00,00,0b,4f,85,57,47,49,47,41,42,59,54,45,2d,50,43,00,\
+  33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,0b,4f,85,57,00,00,a8,c0
+"DhcpGatewayHardware"=hex:c0,a8,01,01,06,00,00,00,b0,c5,54,a7,63,ee
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.1.1"
+"DhcpDefaultGateway"=hex(7):31,00,39,00,32,00,2e,00,31,00,36,00,38,00,2e,00,31,\
+  00,2e,00,31,00,00,00,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,00,35,00,35,00,2e,00,32,00,35,00,35,00,2e,00,32,\
+  00,35,00,35,00,2e,00,30,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{DB1E6086-EF74-4B62-8D23-BFC915F7C19F}]
+"DhcpIPAddress"="192.168.1.102"
+"DhcpServer"="192.168.1.254"
+"Lease"=dword:00015180
+"LeaseObtainedTime"=dword:4e0f2833
+"T1"=dword:4e0fd0f3
+"T2"=dword:4e104f83
+"LeaseTerminatesTime"=dword:4e1079b3
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"DhcpInterfaceOptions"=hex:2e,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,b3,\
+  79,10,4e,01,00,00,00,0f,00,00,00,00,00,00,00,11,00,00,00,00,00,00,00,b3,79,\
+  10,4e,67,61,74,65,77,61,79,2e,32,77,69,72,65,2e,6e,65,74,00,00,00,01,00,00,\
+  00,00,00,00,00,04,00,00,00,00,00,00,00,b3,79,10,4e,ff,ff,ff,00,03,00,00,00,\
+  00,00,00,00,04,00,00,00,00,00,00,00,b3,79,10,4e,c0,a8,01,fe,06,00,00,00,00,\
+  00,00,00,04,00,00,00,00,00,00,00,b3,79,10,4e,c0,a8,01,fe,36,00,00,00,00,00,\
+  00,00,04,00,00,00,00,00,00,00,b3,79,10,4e,c0,a8,01,fe,35,00,00,00,00,00,00,\
+  00,01,00,00,00,00,00,00,00,b3,79,10,4e,05,00,00,00,fc,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,79,28,0f,4e,3b,00,00,00,00,00,00,00,04,00,00,00,00,\
+  00,00,00,b3,79,10,4e,00,01,27,50,3a,00,00,00,00,00,00,00,04,00,00,00,00,00,\
+  00,00,b3,79,10,4e,00,00,a8,c0,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,\
+  00,b3,79,10,4e,00,01,51,80
+"DhcpGatewayHardware"=hex:c0,a8,01,fe,06,00,00,00,00,24,56,0f,e3,99
+"DhcpDomain"="gateway.2wire.net"
+  00,2e,00,32,00,35,00,34,00,00,00,00,00
+"DhcpNameServer"="192.168.1.254"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Adapters\{DB1E6086-EF74-4B62-8D23-BFC915F7C19F}]
+"LLInterface"=""
+"IpConfig"=hex(7):54,00,63,00,70,00,69,00,70,00,5c,00,50,00,61,00,72,00,61,00,\
+  6d,00,65,00,74,00,65,00,72,00,73,00,5c,00,49,00,6e,00,74,00,65,00,72,00,66,\
+  00,61,00,63,00,65,00,73,00,5c,00,7b,00,44,00,42,00,31,00,45,00,36,00,30,00,\
+  38,00,36,00,2d,00,45,00,46,00,37,00,34,00,2d,00,34,00,42,00,36,00,32,00,2d,\
+  00,38,00,44,00,32,00,33,00,2d,00,42,00,46,00,43,00,39,00,31,00,35,00,46,00,\
+  37,00,43,00,31,00,39,00,46,00,7d,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{01042ACD-4CEF-4700-8E63-486B18A06653}]
+"VPNInterface"=dword:00000001
+"DhcpSubnetMask"="0.0.0.0"
+"RegistrationEnabled"=dword:00000000
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,93,\
+  ec,45,57,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,93,ec,45,57,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,93,ec,45,57,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,93,ec,45,57,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,93,ec,45,57,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,93,\
+  ec,45,57
+"MTU"=dword:00000001
+"TcpAckFrequency"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{020D8964-A7D8-46F9-ABE1-E0115985E325}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,30,\
+  61,78,57,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,30,61,78,57,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,30,61,78,57,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,30,61,78,57,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,30,61,78,57,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,30,\
+  61,78,57
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{0885640E-49ED-4833-BD6A-245D955DB29F}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,c4,\
+  5d,fd,56,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,c4,5d,fd,56,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,c4,5d,fd,56,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,c4,5d,fd,56,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,c4,5d,fd,56,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,c4,\
+  5d,fd,56
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{11F8A404-72E7-4E66-9A7C-55D90F1AB305}]
+"NameServer"="104.197.191.4"
+"DhcpIPAddress"="172.20.10.3"
+"DhcpSubnetMask"="255.255.255.240"
+"DhcpServer"="172.20.10.1"
+"Lease"=dword:00014e20
+"LeaseObtainedTime"=dword:52458040
+"T1"=dword:52462750
+"T2"=dword:5246a49c
+"LeaseTerminatesTime"=dword:5246ce60
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,08,00,00,00,00,00,00,00,60,\
+  ce,46,52,ac,14,02,0a,ac,14,02,27,03,00,00,00,00,00,00,00,04,00,00,00,00,00,\
+  00,00,60,ce,46,52,ac,14,0a,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,\
+  00,60,ce,46,52,ff,ff,ff,f0,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,\
+  60,ce,46,52,ac,14,0a,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,60,\
+  ce,46,52,05,00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,81,8c,\
+  45,52,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,60,ce,46,52,00,01,4e,\
+  20
+"DhcpGatewayHardware"=hex:ac,14,0a,01,06,00,00,00,ba,03,d8,da,fe,00
+"DhcpNameServer"="172.20.2.10 172.20.2.39"
+"DhcpDefaultGateway"=hex(7):31,00,37,00,32,00,2e,00,32,00,30,00,2e,00,31,00,30,\
+  00,35,00,35,00,2e,00,32,00,34,00,30,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{17397C8A-56E6-4309-A7A7-F136385D9613}]
+"T1"=dword:00000000
+"T2"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}]
+"NameServer"="8.8.8.8,8.8.4.4"
+"DhcpIPAddress"="192.168.0.14"
+"DhcpServer"="192.168.0.254"
+"Lease"=dword:000d2f00
+"LeaseObtainedTime"=dword:57785d03
+"T1"=dword:577ef483
+"T2"=dword:5783e623
+"LeaseTerminatesTime"=dword:57858c03
+"DhcpNetworkHint"="6627565626F687F5B41495"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,08,00,00,00,00,00,00,00,03,\
+  8c,85,57,d4,1b,28,f1,d4,1b,28,f0,03,00,00,00,00,00,00,00,04,00,00,00,00,00,\
+  00,00,03,8c,85,57,c0,a8,00,fe,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,\
+  00,03,8c,85,57,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,\
+  03,8c,85,57,c0,a8,00,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,03,\
+  8c,85,57,05,00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,dd,89,\
+  78,57,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,03,8c,85,57,00,0d,2f,\
+  00
+"DhcpGatewayHardware"=hex:c0,a8,00,fe,06,00,00,00,00,24,d4,b1,65,89
+"DhcpNameServer"="212.27.40.241 212.27.40.240"
+"DhcpDefaultGateway"=hex(7):31,00,39,00,32,00,2e,00,31,00,36,00,38,00,2e,00,30,\
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\24F6579776575637024556C65636F6D6027596D26496]
+"DhcpIPAddress"="94.238.154.142"
+"DhcpSubnetMask"="255.255.224.0"
+"DhcpServer"="94.238.159.254"
+"Lease"=dword:0000012c
+"LeaseObtainedTime"=dword:56c5c6c5
+"T1"=dword:56c5c75b
+"T2"=dword:56c5c7cb
+"LeaseTerminatesTime"=dword:56c5c7f1
+"DhcpNetworkHint"="24F6579776575637024556C65636F6D6027596D26496"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,ca,\
+  c6,c5,56,06,00,00,00,00,00,00,00,08,00,00,00,00,00,00,00,f1,c7,c5,56,c2,9e,\
+  7a,0a,c2,9e,7a,0f,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f1,c7,c5,\
+  56,5e,ee,9f,fe,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f1,c7,c5,56,\
+  ff,ff,e0,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f1,c7,c5,56,00,\
+  00,01,2c,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,f1,c7,c5,56,5e,ee,\
+  9f,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,f1,c7,c5,56,05,00,00,\
+"DhcpNameServer"="194.158.122.10 194.158.122.15"
+"DhcpDefaultGateway"=hex(7):39,00,34,00,2e,00,32,00,33,00,38,00,2e,00,31,00,35,\
+  00,39,00,2e,00,32,00,35,00,34,00,00,00,00,00
+  00,32,00,34,00,2e,00,30,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\6427565626F687D2241314736363]
+"DhcpIPAddress"="192.168.1.30"
+"LeaseObtainedTime"=dword:575849cc
+"T1"=dword:57589e2c
+"T2"=dword:5758dd74
+"LeaseTerminatesTime"=dword:5758f28c
+"DhcpNetworkHint"="6427565626F687D2241314736363"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7d,\
+  f6,58,57,c0,a8,01,fe,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7d,f6,\
+  58,57,c0,a8,01,fe,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7d,f6,58,\
+  57,ff,ff,ff,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7d,f6,58,57,\
+  00,00,a8,c0,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7d,f6,58,57,c0,\
+  a8,01,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,7d,f6,58,57,05,00,\
+  00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bb,4d,58,57
+"DhcpGatewayHardware"=hex:c0,a8,01,fe,06,00,00,00,14,0c,76,b1,a7,66
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\6427565675966696]
+"DhcpIPAddress"="10.49.225.216"
+"DhcpSubnetMask"="255.248.0.0"
+"DhcpServer"="10.55.255.254"
+"Lease"=dword:00000082
+"LeaseObtainedTime"=dword:57575006
+"T1"=dword:57575047
+"T2"=dword:57575077
+"LeaseTerminatesTime"=dword:57575088
+"DhcpNetworkHint"="6427565675966696"
+"DhcpInterfaceOptions"=hex:52,00,00,00,00,00,00,00,06,00,00,00,00,00,00,00,88,\
+  50,57,57,01,04,0a,13,3e,ab,00,00,06,00,00,00,00,00,00,00,08,00,00,00,00,00,\
+  00,00,88,50,57,57,d4,1b,28,f1,d4,1b,28,f0,03,00,00,00,00,00,00,00,04,00,00,\
+  00,00,00,00,00,88,50,57,57,0a,37,ff,fe,01,00,00,00,00,00,00,00,04,00,00,00,\
+  00,00,00,00,88,50,57,57,ff,f8,00,00,33,00,00,00,00,00,00,00,04,00,00,00,00,\
+  00,00,00,88,50,57,57,00,00,00,82,36,00,00,00,00,00,00,00,04,00,00,00,00,00,\
+  00,00,88,50,57,57,0a,37,ff,fe,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,\
+  00,88,50,57,57,05,00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+  42,50,57,57
+"DhcpGatewayHardware"=hex:0a,37,ff,fe,06,00,00,00,00,07,cb,00,01,00
+"DhcpDefaultGateway"=hex(7):31,00,30,00,2e,00,35,00,35,00,2e,00,32,00,35,00,35,\
+"DhcpSubnetMaskOpt"=hex(7):32,00,35,00,35,00,2e,00,32,00,34,00,38,00,2e,00,30,\
+  00,2e,00,30,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\8405D2052796E647D29344D2F46666963656A656470243633303]
+"DhcpIPAddress"="192.168.223.106"
+"DhcpServer"="192.168.223.1"
+"LeaseObtainedTime"=dword:5757503e
+"T1"=dword:5757f8fe
+"T2"=dword:5758778e
+"LeaseTerminatesTime"=dword:5758a1be
+"DhcpNetworkHint"="8405D2052796E647D29344D2F46666963656A656470243633303"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,42,\
+  50,57,57,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,be,a1,58,57,c0,a8,\
+  df,01,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,be,a1,58,57,00,01,51,\
+  80,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,be,a1,58,57,ff,ff,ff,00,\
+  35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,be,a1,58,57,05,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{708573E3-B871-4F8A-9447-EC9F706F7DCE}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bd,\
+  42,63,53,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bd,42,63,53,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,bd,42,63,53,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,bd,42,63,53,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,bd,42,63,53,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,bd,\
+  42,63,53
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{74CE9FE5-FCB4-4CA7-A2E2-F4826A481FC4}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,35,\
+  6c,e0,4f,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,35,6c,e0,4f,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,35,6c,e0,4f,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,35,6c,e0,4f,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,35,6c,e0,4f,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,35,\
+  6c,e0,4f
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{846ee342-7039-11de-9d20-806e6f6e6963}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{9430F82A-33AD-4805-A245-036425D9039E}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a2,\
+  4c,06,50,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a2,4c,06,50,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,a2,4c,06,50,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,a2,4c,06,50,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,a2,4c,06,50,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a2,\
+  4c,06,50
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{99609B11-2461-4FD2-A038-99485FE71D1F}]
+"EnableDHCP"=dword:00000000
+"NameServer"="82.163.142.7,95.211.158.134"
+"Lease"=dword:01e13380
+"LeaseObtainedTime"=dword:5703f1e1
+"T1"=dword:57f48ba1
+"T2"=dword:58a8fef1
+"LeaseTerminatesTime"=dword:58e52561
+"IPAddress"=hex(7):31,00,36,00,39,00,2e,00,32,00,35,00,34,00,2e,00,31,00,32,00,\
+  33,00,2e,00,31,00,35,00,39,00,00,00,00,00
+"SubnetMask"=hex(7):32,00,35,00,35,00,2e,00,32,00,35,00,35,00,2e,00,30,00,2e,\
+  00,30,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{9ED4BEA7-7355-4294-8900-ACC345D7445A}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{A53106E4-5D00-4CBC-B405-F74C1584EFB1}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,\
+  b7,f2,56,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,b7,f2,56,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,b7,f2,56,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,11,b7,f2,56,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,11,b7,f2,56,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,11,\
+  b7,f2,56
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{C877250D-4B7C-4E9E-AD35-73C3D5766384}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a1,\
+  f5,ef,56,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a1,f5,ef,56,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,a1,f5,ef,56,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,a1,f5,ef,56,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,a1,f5,ef,56,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,a1,\
+  f5,ef,56
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{C8D5E406-E62F-426A-9F54-55AA78E263CF}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{E07146A0-CE89-4A25-8A05-0B2B065E66AA}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,74,\
+  ea,b9,4f,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,74,ea,b9,4f,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,74,ea,b9,4f,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,74,ea,b9,4f,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,74,ea,b9,4f,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,74,\
+  ea,b9,4f
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{F2033375-981A-4837-9B79-886C0C8DDA09}]
+"DhcpInterfaceOptions"=hex:0f,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,e0,\
+  64,01,57,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,e0,64,01,57,01,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,e0,64,01,57,2b,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,e0,64,01,57,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,e0,64,01,57,06,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,e0,\
+  64,01,57
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{F73B9E00-323A-451D-B553-FEB28BFCC91E}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\45563747]
+"NameServer"="192.34.38.14"
+"DhcpIPAddress"="192.168.43.148"
+"DhcpServer"="192.168.43.1"
+"Lease"=dword:00000e10
+"LeaseObtainedTime"=dword:56b75c86
+"T1"=dword:56b7638e
+"T2"=dword:56b768d4
+"LeaseTerminatesTime"=dword:56b76a96
+"DhcpNetworkHint"="45563747"
+"Nuevo valor #1"=hex(b):00,00,00,00,00,00,00,00
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,\
+  6a,b7,56,c0,a8,2b,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,6a,\
+  b7,56,c0,a8,2b,01,1c,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,6a,b7,\
+  56,c0,a8,2b,ff,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,6a,b7,56,\
+  ff,ff,ff,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,6a,b7,56,00,\
+  00,0e,0c,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,a0,6a,b7,56,c0,a8,\
+  2b,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,a0,6a,b7,56,05,00,00,\
+  00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,94,5c,b7,56,51,00,00,00,\
+  00,00,00,00,08,00,00,00,00,00,00,00,96,6a,b7,56,03,ff,ff,50,43,2d,50,43,3b,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,96,6a,b7,56,00,00,0c,4e,3a,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,96,6a,b7,56,00,00,07,08
+"DnsJumper"="8.8.8.8,8.8.4.4"
+"DhcpGatewayHardware"=hex:c0,a8,2b,01,06,00,00,00,b0,47,bf,79,77,19
+"DhcpNameServer"="192.168.43.1"
+"DhcpDefaultGateway"=hex(7):31,00,39,00,32,00,2e,00,31,00,36,00,38,00,2e,00,34,\
+  00,33,00,2e,00,31,00,00,00,00,00
+"TcpAckFrequency"=dword:00328890
+"TcpDelAckTicks"=dword:00000075
+"MTU"=dword:00001480
+"MSS"=dword:00001480
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\64163657]
+"NameServer"="199.85.126.10,199.85.127.10"
+"LeaseObtainedTime"=dword:571aa270
+"T1"=dword:571aa978
+"T2"=dword:571aaebe
+"LeaseTerminatesTime"=dword:571ab080
+"DhcpNetworkHint"="64163657"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,\
+  b0,1a,57,c0,a8,2b,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,b0,\
+  1a,57,c0,a8,2b,01,1c,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,b0,1a,\
+  57,c0,a8,2b,ff,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,b0,1a,57,\
+  ff,ff,ff,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,b0,1a,57,00,\
+  00,0e,0a,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,7e,b0,1a,57,c0,a8,\
+  2b,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,7e,b0,1a,57,05,00,00,\
+  00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,73,a2,1a,57,51,00,00,00,\
+  00,00,00,00,08,00,00,00,00,00,00,00,80,b0,1a,57,03,ff,ff,50,43,2d,50,43,3b,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,80,b0,1a,57,00,00,0c,4e,3a,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,80,b0,1a,57,00,00,07,08
+"Nuevo valor #2"=dword:00000000
+"Nuevo valor #3"=dword:00000000
+"DhcpGatewayHardware"=hex:c0,a8,2b,01,06,00,00,00,b0,47,bf,79,6e,09
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\D4F4659435451425027594649483235313]
+"LeaseObtainedTime"=dword:571aa21e
+"T1"=dword:571aa926
+"T2"=dword:571aae6c
+"LeaseTerminatesTime"=dword:571ab02e
+"DhcpNetworkHint"="D4F4659435451425027594649483235313"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,\
+  b0,1a,57,c0,a8,2b,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,\
+  1a,57,c0,a8,2b,01,1c,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,\
+  57,c0,a8,2b,ff,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,57,\
+  ff,ff,ff,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,57,00,\
+  00,0e,0d,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,57,c0,a8,\
+  2b,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,2e,b0,1a,57,05,00,00,\
+  00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,21,a2,1a,57,51,00,00,00,\
+  00,00,00,00,08,00,00,00,00,00,00,00,2e,b0,1a,57,03,ff,ff,50,43,2d,50,43,3b,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,57,00,00,0c,4e,3a,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,2e,b0,1a,57,00,00,07,08
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{dfc110e0-a73c-4fd3-8777-d13d5c31e585}]
+"DhcpIPAddress"="192.168.2.106"
+"DhcpServer"="192.168.2.1"
+"Lease"=dword:001baf80
+"LeaseObtainedTime"=dword:57fdfae5
+"T1"=dword:580bd2a5
+"T2"=dword:58163475
+"LeaseTerminatesTime"=dword:5819aa65
+"DhcpNetworkHint"="75C414E4D2458344C42515"
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,\
+  4c,ff,57,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,4c,ff,57,2f,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,4c,ff,57,2e,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,65,4c,ff,57,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,65,4c,ff,57,2b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,\
+  4c,ff,57,21,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,4c,ff,57,1f,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,65,4c,ff,57,0f,00,00,00,00,00,00,\
+  00,26,00,00,00,00,00,00,00,65,aa,19,58,53,70,65,65,64,70,6f,72,74,5f,57,5f,\
+  37,32,34,56,5f,54,79,70,5f,41,5f,30,35,30,31,31,36,30,33,5f,30,30,5f,30,30,\
+  39,00,00,06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,c0,a8,\
+  02,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,c0,a8,02,\
+  01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,ff,ff,ff,00,\
+  3b,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,00,18,39,90,3a,\
+  00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,00,0d,d7,c0,33,00,\
+  00,00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,00,1b,af,80,36,00,00,\
+  00,00,00,00,00,04,00,00,00,00,00,00,00,65,aa,19,58,c0,a8,02,01,35,00,00,00,\
+  00,00,00,00,01,00,00,00,00,00,00,00,65,aa,19,58,05,00,00,00
+"DnsJumper"="158.69.57.22,190.202.81.115"
+"DhcpDomain"="Speedport_W_724V_Typ_A_05011603_00_009"
+"DhcpNameServer"="192.168.2.1"
+"DhcpDefaultGateway"=hex(7):31,00,39,00,32,00,2e,00,31,00,36,00,38,00,2e,00,32,\
+"DhcpGatewayHardware"=hex:c0,a8,02,01,06,00,00,00,ac,cf,85,30,da,41
+"TcpDelAckTicks"=dword:00007fff
+"MTU"=dword:00001470
+"MSS"=dword:00001470
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\0]
+"0200"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"1700"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+-Made by Polskeh.
+Any form of copyright will be highly distributed.
+"TcpNoDelay"=dword:0000030001ff
+"TCPDelAckTicks"=dword:0000003000
+"TcpMaxDataRetransmissions"=dword:000000003
+[-HEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace{D6277990-4C6A-11CF-8D87-00AA0060F5BF}]
+[-KEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace{2227A280-3AEA-1069-A2DE-08002B30309D}]
+[HKEY_CURRENT_USER\Control Panel\Mouse] 
+"SmoothMouseXCurve"=hex:00,00,00,00,00,00,00,00,00,a0,00,00,00,00,00,00,00,40,\ 
+01,00,00,00,00,00,00,80,02,00,00,00,00,00,00,00,05,00,00,00,00,00 
+"SmoothMouseYCurve"=hex:00,00,00,00,00,00,00,00,66,a6,02,00,00,00,00,00,cd,4c,\ 
+05,00,00,00,00,00,a0,99,0a,00,00,00,00,00,38,33,15,00,00,00,00,00 
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="2"
+"HungAppTimeout"="1050"
+"MenuShowDelay"="8"
+"LowLevelHooksTimeout"="3400"
+"MouseHoverTime"="8"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000045
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:000000fff7
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000034
+-Made by Polskeh
+If you have any questions, contact Polskeh on discord.
+Polskeh : Polskeh#5394
+Enjoy my Regedit!
+"MaxMTU"=dword:00001500
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"KeepAliveTime"=dword:180000
+[HKEY_CURRENT_USER\SOFTWARE\Mojang]
+"NumTcbTablePartitions"=dword:0000000F
+"TcpWindowSize"=dword:00100000 
+"TcpMaxDataRetransmissions"=dword:00000002
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpRecSegmentSize"=dword:00255552
+"GlobalMaxTcpWindowSize"=dword:EEEEFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:EEEEFFFF
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x249f0
+"ForwardBufferMemory"=dword:0x249f0
+"NumForwardPackets"=dword:0x249
+"MaxNumForwardPackets"=dword:0x249
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Mojang\Minecraft Launcher]
+"upgrade_id"=dword:36d34c28
+"launcher_pos"=hex:bd,01,00,00,73,00,00,00,68,02,00,00,92,02,00,00,00,00,00,00
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Games]
+"FpsAll"=dword:0000001
+"GameFluidity"=dword:0000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM]
+"DedicatedSegmentSize"=dword:00000512
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000000
+"EnableSuperfetch"=dword:00000000
+"SfTracingState"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"VsyncIdleTimeout"=dword:00000000
+[HKEY_CURRENT_USER\System\GameConfigStore]
+"GameDVR_Enabled"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\GameDVR]
+"AppCaptureEnabled"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\GameDVR]
+"AllowgameDVR"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+"LocalPriority"=dword:00000001
+"HostsPriority"=dword:00000002
+"DnsPriority"=dword:00000003
+"NetbtPriority"=dword:00000004
+"NoLowDiskSpaceChecks"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows]
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft]
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NetBT\Parameters]
+"BcastNameQueryCount"=dword:00000003
+"BcastQueryTimeout"=dword:000002ee
+"CacheTimeout"=dword:000927c0
+"EnableLMHOSTS"=dword:00000001
+"NameServerPort"=dword:00000089
+"NameSrvQueryCount"=dword:00000003
+"NameSrvQueryTimeout"=dword:000005dc
+"NbProvider"="_tcp"
+"SessionKeepAlive"=dword:0036ee80
+"Size/Small/Medium/Large"=dword:00000001
+"TransportBindName"="\Device\"
+"UseNewSmb"=dword:00000001
+"EnableProxy"=dword:00000001
+"EnableProxyRegCheck"=dword:00000001
+"EnableDns"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio]
+"Background Only"="True"
+"Priority"=dword:00000001
+"GPU Priority"=dword:00000002
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture]
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+"Priority"=dword:00000005
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution]
+"Priority"=dword:00000004
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\OCMsetup]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\Security]
+"SecureDSCommunication"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ADF\Parameters]
+"MinimumDynamicBacklog"=dword:00000200
+"MaximumDynamicBacklog"=dword:20000
+"DynamicBacklogGrowthDelta"=dword:0000100
+"SizReqBuf"=dword:4410
+"IRPStackSize"=dword:00000020
+"MaxWorkItems"=dword:002000
+"MaxMpxCt"=dword:000800
+"DisableStrictNameChecking"=dword:00000001
+"DisablePagingExecutive"=dword:00000001
+"SystemPages"=dword:FFFFFFFF
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Executive]
+"AdditionalCriticalWorkerThreads"=dword:00000000
+"AdditionalDelayedWorkerThreads"=dword:00000000
+"WorkerFactoryThreadIdleTimeout"=dword:00000258
+"UuidSequenceNumber"=dword:00295beb
+"AdditionalDelayedWorkerThreads"=dword:0000010
+"AdditionalCriticalWorkerThreads"=dword:00000010
+"MaxCmds"=dword:000800
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NTFSDisable8dot3NameCreation"=dword:00000001
+"DontVerifyRandomDrivers"=dword:00000001
+"NTFSDisableLastAccessUpdate"=dword:00000001
+"ContigFileAllocSize"=dword:00000040
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ MSMQ\Parameters]
+"IgnoreOSNameValidation"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\SControl\SecurityProviders\SCHANNEL]
+"ServerCacheTime"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa]
+"DisableStrictNameChecking"=dword:000001
+"DisableLoopbackCheck"=dword:000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\Connections\StatMon]
+"ShowLanErrors"=dword:00000001
+"DefaultSendWindow"=dword:00100000
+"DefaultReceiveWindow"=dword:00100000
+"FastSendDatagramThreshold"=dword:00004000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\HomeGroup]
+"DisableHomeGroup"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\DnsClient]
+"EnableMulticast"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NDIS\Parameters]
+"RssBaseCpu"=dword:00000001
+"MaxNumRssCpus"=dword:00000002
+"FastCopyReceiveThreshold"=dword:000005dc
+"FastSendDatagramThreshold"=dword:000005dc
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\00xx]
+"SpeedDuplex"="0"
+"FlowControl"="3"
+"RSS"="1"    
+"TCPConnectionOffloadIPv4"="1"  
+"TCPConnectionOffloadIPv6"="1" 
+"IPChecksumOffloadIPv4"="3" 
+"TCPChecksumOffloadIPv4"="3"  
+"TCPChecksumOffloadIPv6"="3"  
+"UDPChecksumOffloadIPv4"="3" 
+"UDPChecksumOffloadIPv6"="3"
+"LsoV1IPv4"="1"              
+"LsoV2IPv4"="1"         
+"LsoV2IPv6"="1"
+"TCPUDPChecksumOffloadIPv4"="3"
+"TCPUDPChecksumOffloadIPv6"="3"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"CopyBufferSize"=dword:00010000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
+"CopyFileBufferedSynchronousIo"=dword:00000001
+"CopyFileChunkSize"=dword:00004000
+"CopyFileOverlappedCount"=dword:00000010
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NlaSvc\Parameters]
+"ShowDomainEndpointInterfaces"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NlaSvc\Parameters\Internet]
+"EnableActiveProbing"=dword:00000000
+"EnableNoGatewayLocationDetection"=dword:00000001
+"CorpLocationProbeTimeout"=dword:0000001E
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"EnablePrefetcher"=dword:00000002
+"MapAllocationFragment"=dword:00020000 
+"PhysicalAddressExtension"=dword:00000001
+"SystemCacheLimit"=dword:00000400
+"SystemPages"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\rdyboost]
+"Start"=dword:00000000
+"ClearPageFileAtShutdown"=hex(b):00,00,00,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT]
+"GPU Priority"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Playback]
+"Priority"=dword:00000003
+"BackgroundPriority"=dword:00000004
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Window Manager]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control]
+"BootDriverFlags"=dword:0000001c
+"CurrentUser"="USERNAME"
+"EarlyStartServices"=hex(7):52,00,70,00,63,00,53,00,73,00,00,00,50,00,6f,00,77,\ 
+00,65,00,72,00,00,00,42,00,72,00,6f,00,6b,00,65,00,72,00,49,00,6e,00,66,00,\ 
+72,00,61,00,73,00,74,00,72,00,75,00,63,00,74,00,75,00,72,00,65,00,00,00,53,\ 
+00,79,00,73,00,74,00,65,00,6d,00,45,00,76,00,65,00,6e,00,74,00,73,00,42,00,\ 
+72,00,6f,00,6b,00,65,00,72,00,00,00,44,00,63,00,6f,00,6d,00,4c,00,61,00,75,\ 
+00,6e,00,63,00,68,00,00,00,52,00,70,00,63,00,45,00,70,00,4d,00,61,00,70,00,\ 
+70,00,65,00,72,00,00,00,4c,00,53,00,4d,00,00,00,41,00,70,00,70,00,49,00,64,\ 
+00,53,00,76,00,63,00,00,00,00,00 
+"PreshutdownOrder"=hex(7):55,00,73,00,6f,00,53,00,76,00,63,00,00,00,44,00,65,\ 
+00,76,00,69,00,63,00,65,00,49,00,6e,00,73,00,74,00,61,00,6c,00,6c,00,00,00,\ 
+67,00,70,00,73,00,76,00,63,00,00,00,74,00,72,00,75,00,73,00,74,00,65,00,64,\ 
+00,69,00,6e,00,73,00,74,00,61,00,6c,00,6c,00,65,00,72,00,00,00,00,00 
+"SvcHostSplitThresholdInKB"=dword:00380000
+"SystemStartOptions"=" NOEXECUTE=OPTIN"
+"SystemBootDevice"="multi(0)disk(0)rdisk(0)partition(2)"
+"FirmwareBootDevice"="multi(0)disk(0)rdisk(0)partition(1)"
+"LastBootSucceeded"=dword:00000001
+"LastBootShutdown"=dword:00000001
+"DirtyShutdownCount"=dword:00000025
+"AutoEndTasks"=hex(b):01,00,00,00,00,00,00,00
+"WaitToKillAppTimeout"=hex(b):f4,01,00,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\EMDMgmt]
+"GroupPolicyDisallowCaches"=dword:00000001
+"AllowNewCachesByDefault"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SysMain]
+"Start"=dword:00000004
+"ReconnectTimeout"=dword:00000005
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\SharedAccessConnection]
+"EnableControl"=dword:00000001
+"DeviceTimeout"=dword:000003e8
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"NetLinkTimeout"=dword:000003e8
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"devmgr_show_nonpresent_devices"="1"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\NetworkProvider]
+"RestoreConnection"=dword:00000001
+"RestoreTimeout"=dword:00000014
+"DeferConnection"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\VSSVC.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000003
+"IoPriority"=dword:00000003
+"PagePriority"=dword:00000005
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\<GUID>]
+"PerformRouterDiscovery"=dword:00000000
+"InterfaceMetric"=dword:00000000
+"MTU"=dword:0x5dc
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services]
+"TcpWindowSize"=dword:0000ffff
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{846ee342-7039-11de-9d20-806e6f6e6963}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\64163657]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\8405D2052796E647D29344D2F46666963656A656470243633303]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{f2661e82-e030-4002-9ecb-d5f8f7362d7d}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\D4F4659435451425027594649483235313]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{dfc110e0-a73c-4fd3-8777-d13d5c31e585}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{20e1643e-4d21-4870-969b-5c2225b8e8bf}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{5ac321d9-9fc0-4da8-bcd1-399fabf040e5}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{db28d8a5-ccd1-11e7-a7a7-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{20e1643e-4d21-4870-969b-5c2225b8e8bf}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{5ac321d9-9fc0-4da8-bcd1-399fabf040e5}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{db28d8a5-ccd1-11e7-a7a7-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{fb9bd920-cc57-11e7-8d09-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{f6e9bce3-b304-11e6-b9e8-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{cc422d35-5090-4ef7-9d54-d98c6920f824}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{9C1E752A-B125-4651-A60A-2620EDABB7D8}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{18d65aae-48f4-4b26-927f-67eafbd2d41f}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{b61039cf-81b5-11e6-995d-806e6f6e6963}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{f2661e82-e030-4002-9ecb-d5f8f7362d7d}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{f082b213-f3b7-44d1-b7da-4ad0227f7c76}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{2C7B2EE4-D141-4A1C-97DA-E7C9EC9B9B3F}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{DB1E6086-EF74-4B62-8D23-BFC915F7C19F}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Adapters\{DB1E6086-EF74-4B62-8D23-BFC915F7C19F}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{01042ACD-4CEF-4700-8E63-486B18A06653}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{020D8964-A7D8-46F9-ABE1-E0115985E325}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{0885640E-49ED-4833-BD6A-245D955DB29F}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{11F8A404-72E7-4E66-9A7C-55D90F1AB305}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{17397C8A-56E6-4309-A7A7-F136385D9613}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\24F6579776575637024556C65636F6D6027596D26496]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\6427565626F687D2241314736363]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{4B60CC79-0175-4BDC-8B2D-5CA4AA06F32A}\6427565675966696]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{708573E3-B871-4F8A-9447-EC9F706F7DCE}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{74CE9FE5-FCB4-4CA7-A2E2-F4826A481FC4}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{9430F82A-33AD-4805-A245-036425D9039E}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{99609B11-2461-4FD2-A038-99485FE71D1F}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{9ED4BEA7-7355-4294-8900-ACC345D7445A}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{A53106E4-5D00-4CBC-B405-F74C1584EFB1}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{C877250D-4B7C-4E9E-AD35-73C3D5766384}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{C8D5E406-E62F-426A-9F54-55AA78E263CF}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{E07146A0-CE89-4A25-8A05-0B2B065E66AA}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{F2033375-981A-4837-9B79-886C0C8DDA09}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{F73B9E00-323A-451D-B553-FEB28BFCC91E}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}\45563747]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{fb9bd920-cc57-11e7-8d09-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{f6e9bce3-b304-11e6-b9e8-806e6f6e6963}]
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{cc422d35-5090-4ef7-9d54-d98c6920f824}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{9C1E752A-B125-4651-A60A-2620EDABB7D8}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{18d65aae-48f4-4b26-927f-67eafbd2d41f}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters\Interfaces\{b61039cf-81b5-11e6-995d-806e6f6e6963}]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\services\Tcpip\Parameters\Interfaces\{f082b213-f3b7-44d1-b7da-4ad0227f7c76}]
+[HKEY_CURRENT_USER\SOFTWARE\Mojang\Minecraft]
+"TcpACKFrequency"=dword:00000004
+"MTU"=dword:00001420
+"MSS"=dword:00001380
+"TcpMaxDupAcks"=dword:00000001
+"TcpTimedWaitDelay"=dword:00000030
+"Tcp123Opts"=dword:00000000
+"MaxConnectionsPerServer"=dword:00000008
+"MaxConnectionsPer1_0Server"=dword:00000008
+"EnableTCPA"=dword:00000000
+"EnableRSS"=dword:00000001
+"EnableDynamicBacklog"=dwordd:00000001	
+"MinimumDynamicBacklog"=dwordd:00000020
+"MaximumDynamicBacklog"=dwordd:00001000
+"DynamicBacklogGrowthDelta"=dwordd:00000020
+"KeepAliveInterval"=dwordd:00000001
+"MaxMpxCt"=dword:00000800
+[HKEY_CURRENT_USER\Software\Microsoft\CurrentVersion\Internet Settings]
+"DnsCacheEnabled"=dword:00000001
+"DnsCacheEntries"=dword:00000200
+"DnsCacheTimeout"=dword:00000060
+"IoPageLockLimit"=dword:0000000
+REGEDIT_IAUZZTIMPRIVATE
+"TcpNoDelay"=dword:430f
+"TCPDelAckTicks"=dword:6
+"GlobalMaxTcpWindowSize"=dword­:0005ae4c
+"MSS" dword:1460	
+"MTU" dword:1460
+Windows Registry Editor Version 5.00 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\iaStor\Parameters\Port0]
+"LPM"=dword:00000000
+"LPMDSTATE"=dword:00000000
+"DIPM"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\iaStor\Parameters\Port1]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\iaStor\Parameters\Port2]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\iaStor\Parameters\Port3]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\iaStor\Parameters\Port4]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nsi{eb004a03-9b1a-11d4-9123-0050047759bc}\0]
+"0200"=hex:00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,?\
+00,00,00,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,?\
+"1700"=hex:00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power]
+"HibernateEnabled"=dword:00000000
+"EnableBoottrace"=dword:00000000
+"MaximumUdpPacketSize"=dword:00001300
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace{D6277990-4C6A-11CF-8D87-00AA0060F5BF}]
+"TcpNoDelay"=dword:0000001
+"EnableMulticast"=dword:0000001
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:a
+"MaxConnectionsPer1_0Server"=dword:a
+"DefaultReceiveWindow=dword:0x14fa00
+"DefaultSendWindow"=dword:0x2ce700
+"MaxNumRssCpus"=dword:4
+"GlobalMaxTcpWindowSize"=dword:0xf0a0
+"TcpSendSegmentSize"=dword:0x56c
+"TcpRecvSegmentSize"=dword:0x56c
+"ForwardBufferMemory"=dword:0x22dd0
+"MaxForwardBufferMemory"=dword:0x22dd0
+"NumForwardPackets"=dword:0x22d
+"MaxNumForwardPackets"=dword:0x22d
+"NumTcbTablePartitions"=dword:10
+"DefaultTTL"=dword:40
+"MTU"=dword:0x594
+"MaxMTU"=dword:0x594
+"TcpWindowSize"=dword:0xf0a0
+"MSS"=dword:0x56c
+"MaxMSS"=dword:0x56c
+"TcpAckFrequency"=dword:0000000d
+"StrictTimeWaitSeqCheck"=dword:00000001
+"*SpeedDuplex"="0"
+"*FlowControl"="3"
+"*RSS"="1"
+"*TCPConnectionOffloadIPv4"="1"
+"*TCPConnectionOffloadIPv6"="1"
+"*IPChecksumOffloadIPv4"="3"
+"*TCPChecksumOffloadIPv4"="3"
+"*TCPChecksumOffloadIPv6"="3"
+"*UDPChecksumOffloadIPv4"="3"
+"*UDPChecksumOffloadIPv6"="3"
+"*LsoV1IPv4"="1"
+"*LsoV2IPv4"="1"
+"*LsoV2IPv6"="1"
+"*TCPUDPChecksumOffloadIPv4"="3"
+"*TCPUDPChecksumOffloadIPv6"="3"
+"DnsCacheEnabled"=dword:0x1
+"DnsCacheEntries"=dword:0x200
+"DnsCacheTimeout"=dword:0x15180
+[HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main]
+"EnablePreBinding"=dword:0x0
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_GPU_RENDERING]
+"*"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\MAIN\FeatureControl\FEATURE_GPU_CACHE]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Update]
+"AutoUpdateCheckPeriodMinutes"=dword:00000000
+"InstallDefault"=dword:00000000
+"UpdateDefault"=dword:00000000
+"Install{F69EABDD-A4BB-4555-BE7E-1EA5F59BBA24}"=dword:00000000
+"Update{F69EABDD-A4BB-4555-BE7E-1EA5F59BBA24}"=dword:00000000
+@="{C2FBB630-2971-11D1-A18C-00C04FD75D13}"
+@="{C2FBB631-2971-11D1-A18C-00C04FD75D13}"
+"GlobalMaxTcpWindowSize"=dword:0000ffff
+"MaxFreeTcbs"=dword:0000ffff
+"MaxUserPort"=dword:0000fffe
+"MTU"=dword:0x578
+"MSS"=dword:0x550
+"NumTcbTablePartitions"=dword:0x10
+"TcpMaxSendFree"=dword:0000ffff
+"TcpNumConnections"=dword:00fffffe
+"TcpWindowSize"=dword:0x30D4
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\QoS]
+"Do not use NLA"="1"
+[HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Psched]
+"MaxWorkItems"=dword:00002000
+"MaxCmds"=dword:00000800
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\0cc5b647-c1df-4637-891a-dec35c318583]
+"ValueMin"=dword:00000000
+"ValueMax"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\0cc5b647-c1df-4637-891a-dec35c318583]
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control\Power\PowerSettings\54533251-82be-4824-96c1-47b60b740d00\0cc5b647-c1df-4637-891a-dec35c318583]
+"IRQ8Priority"=dword:00000001
+"IRQ16Priority"=dword:00000002
+ECHO is off.
+"MenuShowDelay"="0"
+"WaitToKillAppTimeout"="5000"
+"WaitToKillServiceTimeout"="1000"
+"HungAppTimeout"="4000"
+"ForegroundLockTimeout"="150000"
+"FpsAll"=dword:00000001
+"GameFluidity"=dword:00000001
+"FpsStatusGames"=dword:00000010
+"FpsStatusGamesAll"=dword:00000004
+"Latency Sensitive"="True"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD\BIOS]
+"CPUPriority"=dword:00000001
+"FastDRAM"=dword:00000001
+"PCIConcur"=dword:00000001
+"AGPConcur"=dword:00000001
+"MaxFreeTcbs"=dword:65536
+"MaxUserPort"=dword:65534
+"GlobalMaxTcpWindowSize"=dword:65535
+"Tcp1323Opts"=dword:1
+"DefaultTTL"=dword:64
+“IRPStackSize”=dword:32
+"SizReqBuf"=dword:4356
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Psched]
+"NonBestEffortLimit"=dword:0
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+"StartupDelayInMSec"=dword:0
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"EnableBlurBehind"=dword:1
+"CacheHashTableBucketSize"=dword:1
+"CacheHashTableSize"=dword:384
+"MaxCacheEntryTtlLimit"=dword:64000
+"MaxSOACacheEntryTtlLimit"=dword:301
+“NetworkThrottlingIndex”=dword:ffffffff
+“SystemResponsiveness”=dword:00000000
+“GPU Priority”=dword:8
+"Priority"=dword:6
+ computer will see or process your data input/output.
+[Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\Current\Version\Explorer\Advanced]
+"DisallowShaking"=dword:1
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\Current\ControlSet\Control\Session Manager\Memory Management]
+“ClearPageFileAtShutDown”=dword:1
+“MenuShowDelay”=dword:100
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"LastActiveClick"=dword:1
+"HungAppTimeout'=dword:1000
+'WaitToKillAppTimeout"=dword:1000
+"AutoEndTasks"=dword:1
+ 
+"TcpNoDelay"=dword:99999999
+"TCPDelAckTicks"=dword:9df
+"TcpAckFrequency"=dword:99999999
+"MSS" dword:1430	
+"MTU" dword:1430
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:4
+"TcpNoDelay"=dword:255fff
+"TCPDelAckTicks"=dword:255fff
+"TcpAckFrequency"=dword:255fff
+"TcpAckFrequency"=dword:0000134f
+"TcpNoDelay"=dword:2d
+"TcpAckFrequency"=dword:2d
+#Optimisation DNS
+#Bande passante maxi
+#Réseau plus rapide
+"SizReqBuf"=dword:0000ffff
+"MaxCmds"=dword:00000064
+"MaxThreads"=dword:00000064
+"GlobalMaxTcpWindowSize"=Dword:00255552
+"KeepAliveTime"=Dword:00060000
+"TcpWindowSize"=Dword:00255552
+REGEDIT_0RILATION
+REGEDIT.PRIVATE.DUMBOOH
+"TCPNoDelay"=dword:00000650
+"TcpAckFrequency"=dword:00000650
+REGEDIT_13_CPS
+"TcpNoDelay"=dword:430fff
+"TCPDelAckTicks"=dword:4
+REGEDIT4
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Paramet ers\setup]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Setup]
+REGEDIT ItsFreezy 
+"TCPNoDelay"=dword:0000245f
+"TcpDelAckTricks"=dword:00000006
+"TcpWindowSize"=dword:00000773
+"GlobalMaxTcpWindowSize"=dword:00000773
+"ForwardBroadcasts"=dword:00000000
+"NV Hostname"="DESKTOP-43IHF7V"
+"Hostname"="DESKTOP-43IHF7V"
+"EnableDeadGWDetect"=dword:00000000
+"MaxConnectionsPerServer"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\NUMERO A METTRE AVEC LES {} ]
+REGEDIT_DQMNSWEAZPRIVATE
+"TcpNoDelay"=dword:999999999
+"LeaseObtainedTime"=dword:57b56e73
+"T1"=dword:57b5c2d3
+"T2"=dword:57b6021b
+"LeaseTerminatesTime"=dword:57b61733
+"DhcpIPAddress"="192.168.1.35"
+"NameServer"="208.67.222.222,208.67.220.220,200.63.155.71,200.63.155.199,200.51.211.7,200.51.212.7,200.45.191.35,200.45.191.40,200.49.156.3,200.49.159.69,200.49.156.8,200.49.156.7,200.69.193.1,200.69.193.2,200.43.2.6,200.43.31.6,4.4.4.4,4.4.2.2"
+"TCPNoDelay"=dword:999999
+"TcpAckFrequency"=dword:999999
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,\
+  17,b6,57,c0,a8,01,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,\
+  b6,57,c0,a8,01,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,\
+  57,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,57,\
+  c0,a8,01,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,33,17,b6,57,05,\
+  00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,6f,98,b5,57,0c,00,\
+  00,00,00,00,00,00,0b,00,00,00,00,00,00,00,33,17,b6,57,47,49,47,41,42,59,54,\
+  45,2d,50,43,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,57,\
+  00,00,a8,c0,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,6c,98,b5,57
+"TCPNoDelay"=dword:0000400f
+"TcpAckFrequency"=dword:0000400f
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{B8D7BE13-3B77-42FB-ADC0-BB6C478248F2}]
+"TCPNoDelay"=dword:00630fff
+"TcpWindowSize"=dword:999999
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{8718928D-CBEB-45EA-A621-800A9249001D}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{44BC3A22-9660-4D1E-BAB9-9F5C93F2C5B4}]
+"TcpDelAckTicks"=dword:00000006
+"TcpWindowSize"=dword:01288fff
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{6C7ED0F7-0427-455A-A90C-2169CA0FADD5}]
+"NameServer"="156.154.126.70,75.75.76.76,186.167.16.187,200.8.65.30,8.8.8.8,8.8.4.4,208.67.222.220,158.69.57.22"
+"LeaseObtainedTime"=dword:57730592
+"T1"=dword:5773ae52
+"T2"=dword:57742ce2
+"LeaseTerminatesTime"=dword:57745712
+"DhcpNetworkHint"="D4F69716E6F6"
+"DhcpIPAddress"="192.168.1.40"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,08,00,00,00,00,00,00,00,12,\
+  57,74,57,c0,a8,01,01,00,00,00,00,03,00,00,00,00,00,00,00,04,00,00,00,00,00,\
+  00,00,12,57,74,57,c0,a8,01,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,\
+  00,12,57,74,57,ff,ff,ff,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,\
+  12,57,74,57,00,01,51,80,3b,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,\
+  57,74,57,00,01,27,50,3a,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,57,\
+  74,57,00,00,a8,c0,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,57,74,\
+  57,c0,a8,01,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,12,57,74,57,\
+  05,00,00,00
+"DhcpGatewayHardware"=hex:c0,a8,01,01,06,00,00,00,90,67,1c,72,74,74
+"DhcpNameServer"="192.168.1.1 0.0.0.0"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{AB6ED26C-C490-4785-8610-2BDE3F579DDC}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{D03CC8C7-902B-4AFD-BA18-8011502488F6}]
+"Nuevo valor #1"=dword:00000000
+"EnableTCPA"=dword:1
+"DisableTaskOffload"=dword:0
+"SystemResponsiveness"dword=0
+REGEDIT_MINI_v2_BY_ELFLY_ALL_CREDIT_TO_HIM
+"Tcp1323Opts"=dword:00000000
+REGEDIT_SHARKYE
+"TcpNoDelay"=dword:630fff
+"TcpAckFrequency"=dword:630fff
+"IRPStackSize" dword:00000032
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip]
+"BootFlags"=dword:00000001
+"DisplayName"="@%SystemRoot%\\system32\\tcpipcfg.dll,-50003"
+"Group"="PNP_TDI"
+"ImagePath"=hex(2):53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,00,\
+  72,00,69,00,76,00,65,00,72,00,73,00,5c,00,74,00,63,00,70,00,69,00,70,00,2e,\
+  00,73,00,79,00,73,00,00,00
+"ErrorControl"=dword:00000001
+"Tag"=dword:00000003
+"Type"=dword:00000001
+"NdisMajorVersion"=dword:00000006
+"NdisMinorVersion"=dword:00000014
+"Description"="@%SystemRoot%\\system32\\tcpipcfg.dll,-50003"
+"MTU"=dword:00001472
+"MSS"=dword:00001452
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Linkage]
+"Bind"=hex(7):5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,00,7b,00,39,00,43,\
+  00,31,00,45,00,37,00,35,00,32,00,41,00,2d,00,42,00,31,00,32,00,35,00,2d,00,\
+  34,00,36,00,35,00,31,00,2d,00,41,00,36,00,30,00,41,00,2d,00,32,00,36,00,32,\
+  00,30,00,45,00,44,00,41,00,42,00,42,00,37,00,44,00,38,00,7d,00,00,00,5c,00,\
+  44,00,65,00,76,00,69,00,63,00,65,00,5c,00,7b,00,32,00,43,00,37,00,42,00,32,\
+  00,45,00,45,00,34,00,2d,00,44,00,31,00,34,00,31,00,2d,00,34,00,41,00,31,00,\
+  43,00,2d,00,39,00,37,00,44,00,41,00,2d,00,45,00,37,00,43,00,39,00,45,00,43,\
+  00,39,00,42,00,39,00,42,00,33,00,46,00,7d,00,00,00,00,00
+"Route"=hex(7):22,00,7b,00,39,00,43,00,31,00,45,00,37,00,35,00,32,00,41,00,2d,\
+  00,42,00,31,00,32,00,35,00,2d,00,34,00,36,00,35,00,31,00,2d,00,41,00,36,00,\
+  30,00,41,00,2d,00,32,00,36,00,32,00,30,00,45,00,44,00,41,00,42,00,42,00,37,\
+  00,44,00,38,00,7d,00,22,00,00,00,22,00,7b,00,32,00,43,00,37,00,42,00,32,00,\
+  45,00,45,00,34,00,2d,00,44,00,31,00,34,00,31,00,2d,00,34,00,41,00,31,00,43,\
+  00,2d,00,39,00,37,00,44,00,41,00,2d,00,45,00,37,00,43,00,39,00,45,00,43,00,\
+  39,00,42,00,39,00,42,00,33,00,46,00,7d,00,22,00,00,00,00,00
+"Export"=hex(7):5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,00,54,00,63,00,70,\
+  00,69,00,70,00,5f,00,7b,00,39,00,43,00,31,00,45,00,37,00,35,00,32,00,41,00,\
+  2d,00,42,00,31,00,32,00,35,00,2d,00,34,00,36,00,35,00,31,00,2d,00,41,00,36,\
+  00,30,00,41,00,2d,00,32,00,36,00,32,00,30,00,45,00,44,00,41,00,42,00,42,00,\
+  37,00,44,00,38,00,7d,00,00,00,5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,\
+  00,54,00,63,00,70,00,69,00,70,00,5f,00,7b,00,32,00,43,00,37,00,42,00,32,00,\
+  39,00,42,00,39,00,42,00,33,00,46,00,7d,00,00,00,00,00
+"NV Hostname"="GIGABYTE-PC"
+"Hostname"="GIGABYTE-PC"
+"TcpNumConnections"=dword:00000500
+"TcpWindowSize"=dword:0003ebc0
+"Tcp1323Opts"=dword:00000002
+"ReservedPorts"=hex(7):35,00,35,00,30,00,30,00,30,00,2d,00,35,00,35,00,35,00,\
+  35,00,35,00,00,00,00,00
+"EnableIPAutoConfigurationLimits"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Adapters]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Adapters\{2C7B2EE4-D141-4A1C-97DA-E7C9EC9B9B3F}]
+  00,61,00,63,00,65,00,73,00,5c,00,7b,00,32,00,43,00,37,00,42,00,32,00,45,00,\
+  45,00,34,00,2d,00,44,00,31,00,34,00,31,00,2d,00,34,00,41,00,31,00,43,00,2d,\
+  00,39,00,37,00,44,00,41,00,2d,00,45,00,37,00,43,00,39,00,45,00,43,00,39,00,\
+  42,00,39,00,42,00,33,00,46,00,7d,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Adapters\{9C1E752A-B125-4651-A60A-2620EDABB7D8}]
+  00,61,00,63,00,65,00,73,00,5c,00,7b,00,39,00,43,00,31,00,45,00,37,00,35,00,\
+  32,00,41,00,2d,00,42,00,31,00,32,00,35,00,2d,00,34,00,36,00,35,00,31,00,2d,\
+  00,41,00,36,00,30,00,41,00,2d,00,32,00,36,00,32,00,30,00,45,00,44,00,41,00,\
+  42,00,42,00,37,00,44,00,38,00,7d,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\DNSRegisteredAdapters]
+"LeaseObtainedTime"=dword:580098a2
+"T1"=dword:5800ed02
+"T2"=dword:58012c4a
+"LeaseTerminatesTime"=dword:58014162
+"DhcpIPAddress"="192.168.1.38"
+"NameServer"="8.8.4.4,2.2.1.1"
+"DnsJumper"="8.8.8.8,8.8.4.4,200.63.155.71,200.63.155.199,200.51.211.7,200.51.212.7,200.45.191.35,200.45.191.40,200.49.156.3,200.49.159.69,200.49.156.8,200.49.156.7,200.69.193.1,200.69.193.2,200.43.2.6,200.43.31.6,4.4.4.4,4.4.2.2"
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,62,\
+  41,01,58,c0,a8,01,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,62,41,\
+  01,58,c0,a8,01,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,62,41,01,\
+  58,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,62,41,01,58,\
+  c0,a8,01,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,62,41,01,58,05,\
+  00,00,00,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,22,9b,00,58,01,00,\
+  00,00,00,00,00,00,00,00,00,00,01,00,00,00,32,9b,00,58,0c,00,00,00,00,00,00,\
+  00,0b,00,00,00,00,00,00,00,62,41,01,58,47,49,47,41,42,59,54,45,2d,50,43,00,\
+  33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,62,41,01,58,00,00,a8,c0
+"MTU "=dword:00001500
+"DnsJumper"=""
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\PersistentRoutes]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Performance]
+"Close"="CloseTcpIpPerformanceData"
+"Collect"="CollectTcpIpPerformanceData"
+"Library"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,50,\
+  00,65,00,72,00,66,00,63,00,74,00,72,00,73,00,2e,00,64,00,6c,00,6c,00,00,00
+"Open"="OpenTcpIpPerformanceData"
+"Object List"="502 510 546 548 582 638 658 1530 1532 1534"
+"Class"=dword:00000008
+"DnsPriority"=dword:000007d0
+"HostsPriority"=dword:000001f4
+"LocalPriority"=dword:000001f3
+"Name"="TCP/IP"
+"NetbtPriority"=dword:000007d1
+"ProviderPath"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  77,00,73,00,6f,00,63,00,6b,00,33,00,32,00,2e,00,64,00,6c,00,6c,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Enum]
+"0"="Root\\LEGACY_TCPIP\\0000"
+"Count"=dword:00000001
+"NextInstance"=dword:00000001
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+[-HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+"MouseHoverTime"="9"
+"WaitToKillServiceTimeout"="5000"
+REGEDIT_VERZIDE
+"TCPNoDelay"=dword:1250fef
+"TcpAckFrequency"=dword:251fef
+"TCPNoDelay"=dword:2000fff
+"TcpAckFrequency"=dword:2000fff
+# Optimise le déchargement de la mémoire dll
+# Ajout de Régedit dans le panneau de configuration
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}]
+@="Éditeur du Registre"
+"InfoTip"="Lancer l'Éditeur du Registre"
+"System.ControlPanel.Category"="5"
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}\DefaultIcon]
+@="%SYSTEMROOT%\\regedit.exe"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\ControlPanel\NameSpace\{77708248-f839-436b-8919-527c410f48b9}]
+@="Ajouter l'Éditeur du Registre au Panneau de configuration"
+REGEDITMC
+"Win32PrioritySeparation"=dword:00000023
+"DisplayName"="@%SystemRoot%\\system32\\drivers\\tcpip.sys,-10001"
+"NdisMinorVersion"=dword:00000028
+"DriverMajorVersion"=dword:00000000
+"DriverMinorVersion"=dword:00000000
+  00,69,00,70,00,5f,00,7b,00,46,00,32,00,36,00,36,00,31,00,45,00,38,00,32,00,\
+  2d,00,45,00,30,00,33,00,30,00,2d,00,34,00,30,00,30,00,32,00,2d,00,39,00,45,\
+  00,43,00,42,00,2d,00,44,00,35,00,46,00,38,00,46,00,37,00,33,00,36,00,32,00,\
+  44,00,37,00,44,00,7d,00,00,00,5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,\
+  00,54,00,63,00,70,00,69,00,70,00,5f,00,7b,00,31,00,38,00,44,00,36,00,35,00,\
+  41,00,41,00,45,00,2d,00,34,00,38,00,46,00,34,00,2d,00,34,00,42,00,32,00,36,\
+  00,2d,00,39,00,32,00,37,00,46,00,2d,00,36,00,37,00,45,00,41,00,46,00,42,00,\
+  44,00,32,00,44,00,34,00,31,00,46,00,7d,00,00,00,00,00
+"Bind"=hex(7):5c,00,44,00,65,00,76,00,69,00,63,00,65,00,5c,00,7b,00,46,00,32,\
+  00,36,00,36,00,31,00,45,00,38,00,32,00,2d,00,45,00,30,00,33,00,30,00,2d,00,\
+  34,00,30,00,30,00,32,00,2d,00,39,00,45,00,43,00,42,00,2d,00,44,00,35,00,46,\
+  00,38,00,46,00,37,00,33,00,36,00,32,00,44,00,37,00,44,00,7d,00,00,00,5c,00,\
+  44,00,65,00,76,00,69,00,63,00,65,00,5c,00,7b,00,31,00,38,00,44,00,36,00,35,\
+  00,41,00,41,00,45,00,2d,00,34,00,38,00,46,00,34,00,2d,00,34,00,42,00,32,00,\
+  36,00,2d,00,39,00,32,00,37,00,46,00,2d,00,36,00,37,00,45,00,41,00,46,00,42,\
+  00,44,00,32,00,44,00,34,00,31,00,46,00,7d,00,00,00,00,00
+"Route"=hex(7):22,00,7b,00,46,00,32,00,36,00,36,00,31,00,45,00,38,00,32,00,2d,\
+  00,45,00,30,00,33,00,30,00,2d,00,34,00,30,00,30,00,32,00,2d,00,39,00,45,00,\
+  43,00,42,00,2d,00,44,00,35,00,46,00,38,00,46,00,37,00,33,00,36,00,32,00,44,\
+  00,37,00,44,00,7d,00,22,00,00,00,22,00,7b,00,31,00,38,00,44,00,36,00,35,00,\
+  44,00,32,00,44,00,34,00,31,00,46,00,7d,00,22,00,00,00,00,00
+"HostName"="PC-PANTALON"
+"NV HostName"="PC-PANTALON"
+"TcpWindowSize"=dword:00251680
+"GlobalMaxTcpWindowSize"=dword:00251680
+"TcpMaxConnectRetransmissions"=dword:00000003
+"DhcpDomain"="home"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Adapters\{18d65aae-48f4-4b26-927f-67eafbd2d41f}]
+  00,61,00,63,00,65,00,73,00,5c,00,7b,00,31,00,38,00,44,00,36,00,35,00,41,00,\
+  41,00,45,00,2d,00,34,00,38,00,46,00,34,00,2d,00,34,00,42,00,32,00,36,00,2d,\
+  00,39,00,32,00,37,00,46,00,2d,00,36,00,37,00,45,00,41,00,46,00,42,00,44,00,\
+  32,00,44,00,34,00,31,00,46,00,7d,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Adapters\{f2661e82-e030-4002-9ecb-d5f8f7362d7d}]
+  00,61,00,63,00,65,00,73,00,5c,00,7b,00,46,00,32,00,36,00,36,00,31,00,45,00,\
+  38,00,32,00,2d,00,45,00,30,00,33,00,30,00,2d,00,34,00,30,00,30,00,32,00,2d,\
+  00,39,00,45,00,43,00,42,00,2d,00,44,00,35,00,46,00,38,00,46,00,37,00,33,00,\
+  36,00,32,00,44,00,37,00,44,00,7d,00,00,00,00,00
+"TcpDelAckTricks"=dword:00000000
+"MaxMTU"=dword:00001472
+"NameServer"="207.14.235.234,67.238.98.162,74.4.19.187,8.8.4.4,4.4.2.2"
+"LeaseObtainedTime"=dword:57fa4692
+"T1"=dword:57faef52
+"T2"=dword:57fb6de2
+"LeaseTerminatesTime"=dword:57fb9812
+"DhcpInterfaceOptions"=hex:fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,\
+  ef,fa,57,79,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,ef,fa,57,2f,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,ef,fa,57,2e,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,00,52,ef,fa,57,2c,00,00,00,00,00,00,00,00,00,00,00,\
+  00,00,00,00,52,ef,fa,57,2b,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,\
+  ef,fa,57,21,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,ef,fa,57,1f,00,\
+  00,00,00,00,00,00,00,00,00,00,00,00,00,00,52,ef,fa,57,7d,00,00,00,00,00,00,\
+  00,29,00,00,00,00,00,00,00,12,98,fb,57,00,00,0d,e9,24,04,06,32,34,37,46,32,\
+  30,05,0f,4c,4b,31,36,31,37,35,44,50,39,39,37,37,33,38,06,09,4c,69,76,65,62,\
+  6f,78,20,34,00,00,00,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,\
+  fb,57,c0,a8,01,01,06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,\
+  57,c0,a8,01,01,0f,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,\
+  68,6f,6d,65,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,ff,\
+  ff,ff,00,3b,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,00,01,\
+  27,50,3a,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,00,00,a8,\
+  c0,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,00,01,51,80,\
+  36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,12,98,fb,57,c0,a8,01,01,35,\
+  00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,12,98,fb,57,05,00,00,00
+"EnablePMTUBHDiscovery"=dword:00000001
+"Tcp1323"=dword:00000003
+"DhcpGatewayHardware"=hex:c0,a8,01,01,06,00,00,00,24,7f,20,17,11,30
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\NsiObjectSecurity]
+"ProviderGUID"=hex:a0,1a,0f,e7,8b,ab,cf,11,8c,a3,00,80,5f,48,a1,92
+"OfflineCapable"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Winsock\0]
+"Version"=dword:00000002
+"AddressFamily"=dword:00000002
+"SocketType"=dword:00000001
+"Protocol"=dword:00000006
+"ProtocolMaxOffset"=dword:00000000
+"ByteOrder"=dword:00000000
+"MessageSize"=dword:00000000
+"szProtocol"=hex(2):40,00,25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,\
+  00,6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,\
+  5c,00,6d,00,73,00,77,00,73,00,6f,00,63,00,6b,00,2e,00,64,00,6c,00,6c,00,2c,\
+  00,2d,00,36,00,30,00,31,00,30,00,30,00
+"ProviderFlags"=dword:00000008
+"ServiceFlags"=dword:00020066
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Winsock\1]
+"SocketType"=dword:00000002
+"Protocol"=dword:00000011
+"MessageSize"=dword:0000fff7
+  00,2d,00,36,00,30,00,31,00,30,00,31,00
+"ServiceFlags"=dword:00020609
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Winsock\2]
+"SocketType"=dword:00000003
+"Protocol"=dword:00000000
+"ProtocolMaxOffset"=dword:000000ff
+"MessageSize"=dword:00008000
+  00,2d,00,36,00,30,00,31,00,30,00,32,00
+"ProviderFlags"=dword:0000000c
+"Object List"="502 510 546 548 582 638 658 1530 1532 1534 1820"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Security]
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+"StartupDelayInMSec"=dword:0
+
+[Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\Current\Version\Explorer\Advanced]
+"DisallowShaking"=dword:1
+
+
+[Computer\HKEY_LOCAL_MACHINE\SYSTEM\Current\ControlSet\Control\Session Manager\Memory Management]
+“ClearPageFileAtShutDown”=dword:1
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+“MenuShowDelay”=dword:100
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"LastActiveClick"=dword:1
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"HungAppTimeout'=dword:1000
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+'WaitToKillAppTimeout"=dword:1000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"=dword:1
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+
+"MaxFreeTcbs"=dword:65536
+"MaxUserPort"=dword:65534
+"GlobalMaxTcpWindowSize"=dword:65535
+"Tcp1323Opts"=dword:1
+"DefaultTTL"=dword:64
+"TCPDelAckTicks"=dword:00000000
+"GlobalMaxTcpWindowSize"=dword:00065535
+"TcpMaxDataRetransmissions"=dword:00000003
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"NumTcbTablePartitions"=dword:10
+"SackOpts"=dword:00000001
+"TcpTimedWaitDelay"=dword:0000001e
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+“IRPStackSize”=dword:32
+"SizReqBuf"=dword:4356
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Psched]
+"NonBestEffortLimit"=dword:0
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+@="{C2FBB630-2971-11D1-A18C-00C04FD75D13}"
+ 
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+@="{C2FBB631-2971-11D1-A18C-00C04FD75D13}"
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="8"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Serialize]
+"StartupDelayInMSec"=dword:0
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Themes\Personalize]
+"EnableBlurBehind"=dword:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Psched]
+"NonBestEffortLimit"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\DNScache\Parameters]
+"CacheHashTableBucketSize"=dword:1
+"CacheHashTableSize"=dword:384
+"MaxCacheEntryTtlLimit"=dword:64000
+"MaxSOACacheEntryTtlLimit"=dword:301
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+“NetworkThrottlingIndex”=dword:ffffffff
+“SystemResponsiveness”=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+“GPU Priority”=dword:8
+"Priority"=dword:6
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Games]
+"FpsAll"=dword:0000001
+"GameFluidity"=dword:0000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000023
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:A
+"MaxConnectionsPer1_0Server"=dword:A
+[HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:A
+"MaxConnectionsPer1_0Server"=dword:A
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:A
+"MaxConnectionsPer1_0Server"=dword:A
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:1
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007

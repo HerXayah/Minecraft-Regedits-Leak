@@ -1,0 +1,447 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+"CPU_Processor_CORE_LEVELS"=hex(b):ff,67,5f,51,00,00,00,00
+"x64_aRM_Level"=hex(b):00,00,70,00,00,00,00,00
+"MaxLOM_Channels"=hex(b):d4,30,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\HARDWARE]
+"PCI_Express/Physical_Layer"=hex(b):f4,ff,f2,7f,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=hex(b):ff,ff,ff,ff,00,00,00,00
+"SystemResponsiveness"=hex(b):00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio]
+"Affinity"=dword:00000000
+"Background Only"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture]
+"Affinity"=dword:00000000
+"Background Only"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\DisplayPostProcessing]
+"Affinity"=dword:00000000
+"Background Only"="True"
+"BackgroundPriority"=dword:00000008
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution]
+"Affinity"=dword:00000000
+"Background Only"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"Clock Rate"=dword:00002710
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Playback]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"BackgroundPriority"=dword:00000004
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Window Manager]
+"Affinity"=dword:00000000
+"Background Only"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=hex(b):08,00,00,00,00,00,00,00
+"Priority"=hex(b):08,00,00,00,00,00,00,00
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SYSTEM]
+"CPU_Bitrate"=hex(b):00,90,6f,4a,00,00,00,00
+"GPU_Level"=hex(b):00,90,7f,4a,00,00,00,00
+"HDD_Bitrate"=hex(b):00,94,7a,2f,00,00,00,00
+"html_olescript"=hex(b):00,90,3f,00,00,00,00,00
+"Memory"=hex(b):00,90,7f,4a,00,00,00,00
+"mhtml_olescript"=hex(b):00,90,3f,00,00,00,00,00
+"xml_olescript"=hex(b):00,90,3f,c8,29,63,75,98
+"Freemem"=hex(b):24,00,00,00,00,00,00,00
+"Ram"=hex(b):00,00,19,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control]
+"AutoEndTasks"=hex(b):01,00,00,00,00,00,00,00
+"WaitToKillAppTimeout"=hex(b):f4,01,00,00,00,00,00,00
+"WaitToKillServiceTimeout"=hex(b):f4,01,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"ConvertibleSlateMode"=dword:00000000
+"Win32PrioritySeparation"=hex(b):26,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Power\PowerSettings\0012ee47-9041-4b5d-9b77-535fba8b1442\51dea550-bb38-4bc4-991b-eacf37be5ec8]
+"ValueMin"=dword:00000000
+"ValueMax"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="200"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"ClearPageFileAtShutdown"=hex(b):01,00,00,00,00,00,00,00
+"NonPagedPoolQuota"=hex(b):00,00,00,00,00,00,00,00
+"NonPagedPoolSize"=hex(b):00,00,00,00,00,00,00,00
+"PagedPoolSize"=hex(b):00,00,00,00,00,00,00,00
+"PagedPoolQuota"=hex(b):00,00,00,00,00,00,00,00
+"PagingFiles"=hex(7):63,00,3a,00,5c,00,70,00,61,00,67,00,65,00,66,00,69,00,6c,\
+  00,65,00,2e,00,73,00,79,00,73,00,20,00,32,00,34,00,35,00,37,00,36,00,20,00,\
+  32,00,34,00,35,00,37,00,36,00,00,00,00,00
+"SessionViewSize"=hex(b):30,00,00,00,00,00,00,00
+"SessionPoolSize"=hex(b):04,00,00,00,00,00,00,00
+"SystemPages"=hex(b):00,00,00,00,00,00,00,00
+"PhysicalAddressExtension"=hex(b):01,00,00,00,00,00,00,00
+"GranularitySize"="AUTO"
+"144BitDdrChannelsEnabled"=hex(b):01,00,00,00,00,00,00,00
+"IncreaseDataQueueSizeEnabled"=hex(b):01,00,00,00,00,00,00,00
+"AllocatingInOutBuffersEnabled"=hex(b):01,00,00,00,00,00,00,00
+"ChunkSizeCachingEnabled"=hex(b):01,00,00,00,00,00,00,00
+"ThirdLevelDataCacheSharedBetweenThemProcessors"=hex(b):01,00,00,00,00,00,00,\
+  00
+"InterleavingModeFromBiosEnabled"=hex(b):01,00,00,00,00,00,00,00
+"SDRAM_DEVICES_ID"=hex(b):01,00,00,00,00,00,00,00
+"CLFLUSH"=hex(b):01,00,00,00,00,00,00,00
+"EnablePageCache"=hex(b):01,00,00,00,00,00,00,00
+"SupportToMoreAccessesToEachBankForMoreIndependentsThreads"="TRUE"
+"DataBufferSize"=hex(b):00,00,01,00,00,00,00,00
+"PageCacheSize"=hex(b):00,00,01,00,00,00,00,00
+"EnableQueueRate"=hex(b):01,00,00,00,00,00,00,00
+
+"IoPageLockLimit"=hex(b):00,00,00,08,00,00,00,00
+"DisablePagingExecutive"=hex(b):01,00,00,00,00,00,00,00
+"LargeSystemCache"=hex(b):01,00,00,00,00,00,00,00
+"ExistingPageFiles"=hex(7):5c,00,3f,00,3f,00,5c,00,43,00,3a,00,5c,00,70,00,61,\
+  00,67,00,65,00,66,00,69,00,6c,00,65,00,2e,00,73,00,79,00,73,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"BootId"=dword:0000007a
+"BaseTime"=dword:1e730c84
+"EnablePrefetcher"=hex(b):02,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"%CPU_TEMP%"=hex(2):2f,00,25,00,43,00,50,00,55,00,5f,00,54,00,45,00,4d,00,50,\
+  00,25,00,3d,00,34,00,30,00,5f,00,4d,00,65,00,67,00,61,00,62,00,79,00,74,00,\
+  65,00,73,00,5f,00,50,00,65,00,72,00,5f,00,50,00,69,00,63,00,6f,00,73,00,65,\
+  00,63,00,6f,00,6e,00,64,00,00,00
+"%GPU_TEMP%"=hex(2):2f,00,25,00,47,00,50,00,55,00,5f,00,54,00,45,00,4d,00,50,\
+  00,25,00,3d,00,34,00,30,00,5f,00,4d,00,65,00,67,00,61,00,62,00,79,00,74,00,\
+  65,00,73,00,5f,00,50,00,65,00,72,00,5f,00,50,00,69,00,63,00,6f,00,73,00,65,\
+  00,63,00,6f,00,6e,00,64,00,00,00
+"%m%"="CPU/GPU"
+"%RAM_Frequency%"="2520_Mhz"
+"%ROOT%/AGP_BUS/CHANNELS"="/1600_AGP_BUS_CHANNELS"
+"%ROOT%/C:"="/C:=,C:"
+"%ROOT%/CPU/Clipboard"="/160_Kilobytes_Per_Nanosecond"
+"%ROOT%/CPU/DATA_QUEUE"="/8000_Mbps"
+"%ROOT%/CPU/FILE_RUN"="/128_CHANNELS,/ 8 Megabytes_Per_Channel"
+"%ROOT%/CPU/INSTRUCTIONS"="/$MMX,SSE,SSE,SSE3,SE4.1,SSE4.2,EM64T,VT-x$=200000_Kbps"
+"%ROOT%/CPU/LOG"=hex(2):2f,00,25,00,6d,00,25,00,5f,00,4b,00,69,00,6c,00,6f,00,\
+  62,00,79,00,74,00,65,00,73,00,5f,00,50,00,65,00,72,00,5f,00,50,00,69,00,63,\
+  00,6f,00,73,00,65,00,63,00,6f,00,6e,00,64,00,00,00
+"%ROOT%/CPU/PROCESSOR_NUMBER(#)_Of_DATA_STRINGS"="240000"
+"%ROOT%/CPU/VARIABLES"="/hidparse.sys=80_Kilobytes_Per_Nanosecond"
+"%ROOT%/display.sys/Motherboard_Resources"="/Motherboard_Resources=32_Channels"
+"%ROOT%/Memory/IO_RANGE"="/2934-2944"
+"%ROOT/CPU/Clusters"="/512_CLUSTERS,/24,200_Kilobyte_Per_Cluster"
+"%Temp%"="A:\\Temp"
+"%Tmp%"="A:\\Temp"
+"/"="/1_Gbps"
+"/.exe,.EXE"="/RAM.exe"
+"/.exe/STRINGS"="/7ff47ff6"
+"/.exe_PATHS"="/200,000,000_BITS_PER_SECOND"
+"/C:/disk.inf:GenDisk,disk_install.NT"="/COM_3"
+"/CPU/PATHS"="/cpuhandlethreads.bat"
+"/CPU_CLASSPATH"="/8,000_Kbps_Bindings"
+"/CPU_IDE_PATHS"="/16,000_BIT_PATHS"
+"/CPU_PREFETCH_FIELDS"="1800_Fields, 500,000_bits_per_field"
+"/D:/disk.inf:GenDisk,disk_install.NT"="/COM_3"
+"/E:/disk.inf:GenDisk,disk_install.NT"="/COM_3"
+"/explore.exe"="/SHA-1,CRC32,MD5=100_Mbps"
+"/ISP_SERVER"="/17,000_Kbps"
+"/render.dll_PATHS"="/24,000_BIT_PATHS"
+"\\\\.\\Global/CPU/Objects"="/12,800_Objects_Per_Nanosecond"
+"\\\\.\\Global\\amdsata.sys/GATE"="/90,000,000_bits_per_second"
+"\\\\.\\Global\\CPU/PATH_TIMEOUT"="/PATH_TIMEOUT_BREAK=0_Nanoseconds"
+"\\\\.\\Global\\CPU\\PROCESSOR_TIME"="/800_Megabytes_Per_Millisecond"
+"\\\\.\\Global\\CPU\\reference_memory"="/reference_memory=0x0000019057C61C60-0x0000019057C61C61"
+"\\\\.\\Global\\csrss.exe/BANDWIDTH"="/250_Mbps"
+"\\\\.\\Global\\Debug_port/COM_4/CHANNELS"="/5000_CHANNELS"
+"\\\\.\\Global\\Debug_port/COM_4/CHANNELS/BANDWIDTH"="/12000_Kilobytes_Per_Channel"
+"\\\\.\\Global\\display.dll"="/45,200,000_bits_per_second"
+"\\\\.\\Global\\input\\decode"="/input_(0x64a423ac),/decoder_subdec=0x47a4545c,/75,000_Bits_Per_Millisecond"
+"\\\\.\\Global\\INTERFACE"="/Interface=win32_0x4ffa73fa"
+"\\\\.\\Global\\Internet Connection \\HTTP PREFETCH"="/10_Megabytes_Per_Milliseconds"
+"\\\\.\\Global\\Internet Connection/HTTP"="/10_Megabytes_Per_Milliseconds"
+"\\\\.\\Global\\Internet Connection\\UDP Throttle"="/Word-32_Bits, 60,000,000_Bits_Per_Second"
+"\\\\.\\Global\\Motherboard Resources"="/0x9ffa4fff"
+"\\\\.\\Global\\MyString"="/0x0000144657c64c63"
+"\\\\.\\Global\\ntoskrnl.exe"="/4_Gbps"
+"\\\\.\\Global\\OpenGL"="/Hardware_Resources/DMA/I2c_Controller/Channel_0,Channel_1,Channel_2,Channel_3"
+"\\\\.\\Global\\reference_memory\\0x0000019057C61C60\\PREFETCH"="/REFERENCE_MEMORY/PREFETCH=1_Gbps"
+"\\\\.\\Global\\refererence_memory"="/REFERENCE_MEMORY@0x00000019057C61C60=2_Gbps"
+"\\\\.\\Global\\svchost.exe/BANDWIDTH"="/1_Gbps"
+"\\\\.\\Global\\svchost.exe/SERVER"="/SERVER:250_Mbps"
+"1000OPS/PATHS"="/128,000 1000OPS/PATHS"
+"A:\\drivers\\monitor.sys"="/4820_vertical_rows"
+"A:\\Google\\Chrome\\Application\\chrome.exe --disk-cache-dir"="16384_Mbps"
+"A:\\Mozilla Firefox\\firefox.exe  /prefetch:1"="8192_Mbps"
+"AI_KERNEL"="20k_Batch:12_Picoseconds"
+"AssignTheCorrectedThreadsToProcessors"="YES"
+"attrib.exe"="/1_Gbps"
+"basicrender.dll"="/128,000 bits per second, /32 bit colors, /use 3820 vertical rows"
+"batchfield.bat"="40,000_Cells_Per_Field, 1000,000_bit_Per_Cell"
+"bitsperf.dll/PATHS"="/2,000,000 Bit Block"
+"BOOT_TYPE"="FAST"
+"bootsect.exe"="/2_Gbps"
+"C:\\Program Files (x86)"="3000_Mbps"
+"C:\\Windows\\Prefetch"="/36_Kilobytes_Per_Nanosecond"
+"Cache.sys"="16384000 Megabytes"
+"CachingBranchPredictionTableToL1L2L3"="YES"
+"CHANNEL 4/PATHS"="/16,000_BIT_PATHS"
+"Chipset/Width"="/128 Bits,/64_CHANNELS"
+"CLASSPATH"="CPU_THREAD=80,000_bits_per_12_Picoseconds"
+"ComSpec"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,73,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,63,\
+  00,6d,00,64,00,2e,00,65,00,78,00,65,00,00,00
+"ConservativeSwapFile Usage"="1"
+"CPU 1k Cycles"="CPU 1k set:1 Picosecond, 16000_1k_Sets_Per_Cycle"
+"CPU 8k batch"="CPU 8k Batch:30 Picoseconds"
+"CPU DATA RATE"="/90 SECTORS PER PICOSECOND"
+"CPU IDE PATH"="/24,000_BIT_PATHS"
+"CPU NC CODE"="REG BINARY:0xffffffff, 8k_Node"
+"CPU Range"="USE 4740 Mhz - 5050 Mhz"
+"CPU RL CACHE"="64k_Per_Picosecond"
+"cpu.inf"="/virtdisk.dll"
+"CPU/Cores"="A7/2_Gbps"
+"CPU/DATA SET"="4_Gbps"
+"CPU/FACTORS"="/12100 FACTOR SENDS"
+"CPU/STRINGS/REG BINARY"="7ff45ff6"
+"CPU_BATCH_QUEING_LAYER"="420_LAYERS"
+"CPU_BINARY"="Binary_Unit=64k, binary_sets=512Mbps"
+"CPU_CLOCK_PIN"="360_sectors:1_Picosecond"
+"CPU_DIRECTORY_SERVER"="CPU/DS:245-SECTORS_PER_PICOSECOND"
+"CPU_EFFORT"=hex(2):38,00,30,00,30,00,25,00,00,00
+"CPU_GRID_PIN_ARRAY<SET>"="144_Active_Pins\\RATE_96x"
+"CPU_IDE_PIN"="4096_CHANNELS"
+"CPU_IDE_PIN_GATE"="GATE_24_Nh"
+"CPU_IDE_STATE"="OPEN"
+"CPU_MAIN"="A7,LEVEL_213"
+"CPU_MD5_HASH_CACHES"="0x000499ff"
+"CPU_PREFETCH_FIELDS"="1800_Field, 500,000_bits_per_field"
+"CPU_PREFETECH"="/PREFETCH_1"
+"CPU_STRINGS_1"="/120,000_STRINGS, 16 Kilobytes_Per_String"
+"CPU_STRINGS_2"="/160,000_STRINGS, 8 Kilobytes_Per_String"
+"CPU_STRINGS_3"="/200,000_STRINGS, 4 Kilobytes_Per_String"
+"CPU_STRINGS_4"="/240,000_STRINGS, 2 Kilobytes_Per_String"
+"CPU_SYSTEM"="KERNEL_128k"
+"CPU_USE"="/LOCAL USE ONLY"
+"CPU0,CPU1,CPU2,CPU3"="/RAM.exe"
+"CPUID_ISA"="TRUE"
+"ddptrace.dll"="/400_Mbps"
+"Default Gateway"="/1_Gbps"
+"Default Gateway/Bandwidth"="/1_Gbps"
+"Default Gateway/Bandwidth/Receive"="/1_Gbps"
+"Default Gateway/Receive/URL Bandwidth"="/100_Mbps"
+"Default Gateway/URL Prefetch"="/200 Mbps"
+"display.dll"="/4820 Vertical rows"
+"display.dll/IDE"="/1.22 Mbps"
+"display.dll/Partition"="/28490_Bit_Partitions"
+"display.sys"="/2_Gbps"
+"DXSDK_DIR"=hex(2):43,00,3a,00,5c,00,50,00,72,00,6f,00,67,00,72,00,61,00,6d,00,\
+  20,00,46,00,69,00,6c,00,65,00,73,00,20,00,28,00,78,00,38,00,36,00,29,00,5c,\
+  00,4d,00,69,00,63,00,72,00,6f,00,73,00,6f,00,66,00,74,00,20,00,44,00,69,00,\
+  72,00,65,00,63,00,74,00,58,00,20,00,53,00,44,00,4b,00,20,00,28,00,4a,00,75,\
+  00,6e,00,65,00,20,00,32,00,30,00,31,00,30,00,29,00,5c,00,00,00
+"ENABLE_DUAL_DCT_ID"="TRUE"
+"ENABLE_FLEXIBLE_KERNEL_ADAPTIVE"="TRUE"
+"ENABLE_PARALLELS_FPUs"="TRUE"
+"EnableCpuBusInterconnecting"="TRUE"
+"EnableInterleavingThreadings"="TRUE"
+"EnablingPeerToPeerTrafficAccesses"="YES"
+"First Level Data Cache"="/256_Ko"
+"Generic PnP Monitor"="/4280_vertical_Pixels"
+"Generic PnP Monitor /Bandwidth"="/120_Mbps"
+"GPU_MAX_ALLOC_PERCENT"="309"
+"GPUID_FEATURE_SETS"="TRUE"
+"hal.dll"="/2_Gbps"
+"Hard_ Disk_64k_Batch"="64_K=30_Picoseconds"
+"HARD_DRIVE_RAM_USE"="9000_Gigabytes_Per_Second"
+"HARDWARE RESERVED"="/24,000_bit_paths"
+"HDD PARTITION"="LEVEL 3, 3000_Kbps_Per_SECTOR, SmS/45 Mbps"
+"HSS_SATA"="GEN_4x4,IDE_7"
+"HTML5 PLAYER/PREFETCH"="/128_Mbps"
+"iexplore.exe"="0x000249FF"
+"iexplore.exe/prefetch"="/iexplore.exe:prefetch:512_Mbps"
+"iexplorer.exe_/CLASSPATH"="1_Picosecond"
+"INTERNAL_1024_BIT_ARCH_PATHS"="TRUE"
+"INTERNAL_128_BIT_ARCH_PATHS"="TRUE"
+"INTERNAL_256_BIT_ARCH_PATHS"="TRUE"
+"INTERNAL_512_BIT_ARCH_PATHS"="TRUE"
+"Internet Connection"="/3_Gbps"
+"Internet Connection Receive"="/570000_Megabytes_Per_Second"
+"Internet Connection/DNS PREFETCH"="/2_Gbps"
+"Internet Connection/DNS SERVER"="/2_Gbps"
+"Internet Connection/PATHS"="/SERVER_PATHS_1_Gbps,/Wave32_40_Mbps"
+"Internet Connection/URL PREFETCH"="/2_Gbps"
+"Internet Connection/URL RESOLUTION"="/2_Gbps"
+"L1 (1st Level) Code Cache"="cpu1,cpu2"
+"MaxTCPWindowsSize"="/16384_Mbps"
+"Memory Slots"="/382_16_Mbps_CHANNELS"
+"monitor.sys"="/1_Gbps"
+"Motherboard Cycle"="/800,000 Batches per cycle"
+"Motherboard_Resources"=hex(2):25,00,6d,00,25,00,5f,00,43,00,68,00,61,00,6e,00,\
+  6e,00,65,00,6c,00,73,00,ff,fe,00,00
+"NB_DEVICE_ID"="TRUE"
+"netbios.sys"="/1_Gbps"
+"NEW_URL_PREFETCH"="/80,000 Kbps"
+"NUMBER_OF_PROCESSORS"="4"
+"OnlineServices"="Default_Gateway"
+"OS"="Windows_NT"
+"OS_NUMA_SUPPORT"="YES"
+"PROCESSOR_PREDECODE_CACHES"="TRUE"
+"PROCESSOR_REVISION"="9e09"
+"PROCESSORS_DATA_PREFETCHERS"="TRUE"
+"ProcessorsCodeOnSuperscalarExecution"="TRUE"
+"Qubit_Size"="128 bits"
+"RAM CHANNELS"="16 CHANNELS"
+"RAM_64K_Batch"="64_K=70_Picoseconds"
+"RAM_SECTORS"="16384_RAM_Sectors"
+"SB_DEVICE_ID"="TRUE"
+"Second Level Data Cache"="/1024_Ko"
+"SERVER_CLASSPATH"="/8,000_Kbps"
+"sfcache.FILE"="/2048_Mbps"
+"SheduleByOsAlgorithm"="TRUE"
+"Stream Type https"="/1.22 Gbps"
+"STRING_BUFFER"="/1_Gbps"
+"SupportToMoreCombiningsThreadsAllAtOnce"="TRUE"
+"SupportToMoreIndividualsTasksSingly"="TRUE"
+"SYSTEM_PROPERTIES"="1024_Mbps"
+"SystemDrive"="C:"
+"SystemRoot"="C:\\Windows"
+"TEMP"="A:\\Temp"
+"TMP"="A:\\Temp"
+"URL_CONTROLS"="/CONTROLS:4096_Mbps"
+"URL_PREFETCH"="/128_Mbps"
+"URL_VIDEO_BUFFER"="/64_Mbps"
+"USERNAME"="SYSTEM, /1_Gbps"
+"windir"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,\
+  00,25,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"extension"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,\
+  74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,64,\
+  00,6e,00,73,00,65,00,78,00,74,00,2e,00,64,00,6c,00,6c,00,00,00
+"ServiceDll"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,\
+  00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,00,\
+  64,00,6e,00,73,00,72,00,73,00,6c,00,76,00,72,00,2e,00,64,00,6c,00,6c,00,00,\
+  00
+"ServiceDllUnloadOnStop"=dword:00000001
+"MaxNegativeCacheTtl"=dword:00000000
+"AdapterTimeoutCacheTime"=hex(b):2c,01,00,00,00,00,00,00
+"CacheHashTableBucketSize"=hex(b):0a,00,00,00,00,00,00,00
+"CacheHashTableSize"=hex(b):d3,00,00,00,00,00,00,00
+"MaxCacheEntryTtlLimit"=hex(b):80,51,01,00,00,00,00,00
+"MaxSOACacheEntryTtlLimit"=hex(b):78,00,00,00,00,00,00,00
+"NegativeCacheTime"=hex(b):2c,01,00,00,00,00,00,00
+"NegativeSOACacheTime"=hex(b):78,00,00,00,00,00,00,00
+"NetFailureCacheTime"=hex(b):1e,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters\Probe\{25aa16d5-73d9-4cd8-91ff-0683b3bcd05a}]
+"LastProbeTime"=dword:59757fd1
+"NetworkPerformsHijacking"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters\Probe\{e97ca175-e5e7-4580-895e-91be966166ba}]
+"LastProbeTime"=dword:59757d82
+"NetworkPerformsHijacking"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Executive]
+"AdditionalCriticalWorkerThreads"=hex(b):64,00,00,00,00,00,00,00
+"AdditionalDelayedWorkerThreads"=hex(b):16,00,00,00,00,00,00,00
+"WorkerFactoryThreadIdleTimeout"=hex(b):58,02,00,00,00,00,00,00
+"UuidSequenceNumber"=hex(b):a4,fe,12,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\DirectDraw]
+"ForceRefreshRate"=hex(b):4d,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\DirectDraw]
+"ForceRefreshRate"=hex(b):4d,00,00,00,00,00,00,00
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+"ADDRESS_CACHE:HEX_Address"=dword:1f
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\VideoAdapterBusses\PCIBus\0000]
+"basicrender.sys:image_frame:ADDRESS"=dword:f0003a01
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\VideoAdapterBusses\PCIBus]
+"PCIBus:32_Bit_Hex"=dword:7000e001
+
+[HKEY_LOCAL_MACHINE\HARDWARE\ACPI]
+"mci.sys:ADDRESS"=dword:e001
+
+[HKEY_CURRENT_USER\Network]
+"mci.sys: xml_ADDRESS"=dword:a001e400
+"mci.sys:MHTML_ADDRESS"=dword:f000c001
+"Network_Environment:TCP_ADDRESS"=dword:e1
+[HKEY_CLASSES_ROOT]
+"%Intel.ppm_CLOCK_STEPPING%_Bits_Per_Picosecond"=dword:00000428
+"%ROOT%/CPU/Paged_Pool_Mbp"=hex(b):00,05,00,00,00,00,00,00
+"basicrender.sys_Mbps"=dword:00002000
+"Freemem_dmp_"=hex(b):24,00,00,00,00,00,00,00
+"intelppm.sys_Bandwidth"=hex(b):00,00,12,00,00,00,00,00
+"intelppm.sys_Break"=hex(b):00,00,00,00,00,00,00,00
+"Internet Connection%Host-LocalHost_Bandwidth_Stepping_Bits_Per_Picosecond%"=dword:00000316
+"Internet Connection/CHAP"=hex(b):1c,23,00,00,00,00,00,00
+"Internet Connection/DELAY"=hex(b):00,00,00,00,00,00,00,00
+"Internet Connection/http_Mbps"=hex(b):80,00,00,00,00,00,00,00
+"Internet Connection/Stream Host_Start_Milliseconds"=hex(b):01,00,00,00,00,00,\
+  00,00
+"kernel32.dll/8_Bit"=hex(b):99,99,99,99,00,00,00,00
+"Memory"=hex(b):fa,6f,f4,7f,00,00,00,00
+"monitor.sys"=hex(b):00,40,02,00,00,00,00,00
+"monitor.sys_Bandwidth"=hex(b):00,00,16,00,00,00,00,00
+"monitor.sys_Mbps"=hex(b):00,40,00,00,00,00,00,00
+"Monitor_DPI"=hex(b):40,07,49,17,00,00,00,00
+"NBsetting"=hex(b):00,00,08,00,00,00,00,00
+"PCI Express ROOT COMPLEX/DELAY_Nanoseconds"=hex(b):02,00,00,00,00,00,00,00
+"SATA 300/600"=hex(b):90,ff,a6,ff,09,00,00,00
+"Task_Commands"=hex(b):00,09,00,00,00,00,00,00
+"Users"=hex(b):22,ac,f8,48,00,00,00,00﻿
+ [HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+
+"CentralProcessor:Interrupt:Vector=00:Level=16:Affinity=CPU:Type=buffer"=dword:00002000
+
+

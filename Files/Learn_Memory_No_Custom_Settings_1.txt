@@ -1,0 +1,16 @@
+Go in
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
+
+You need to have:
+
+--------------------
+Name: LargeSystemCache
+Type: REG_DWORD
+Value: 1
+Enable or disable LargeSystemCache
+--------------------
+Name: SystemPages
+Type: REG_DWORD
+Value: ffffffff (hexadecimal)
+Defines the number of system page table entries that are reserved for mapping I/O buffers and other information into the system address space. Each system page table entry maps one page.
+--------------------

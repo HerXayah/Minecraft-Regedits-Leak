@@ -1,0 +1,116 @@
+Windows Registry Editor Version 5.00
+
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\Cont]
+@="{C2FBB630-2971-11D1-A18C-00C04FD75D13}"
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHa]
+@="{C2FBB631-2971-11D1-A18C-00C04FD75D13}"
+
+[HKEY_CURRENT_USER\Control Panel\Desk]
+"AutoEndTasks"="1"
+"HungAppTimeout"="10"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="20"
+"LowLevelHooksTimeout"="10"
+
+[HKEY_CURRENT_USER\C]
+"MouseHoverTime"="8"
+
+[HKEY_CURRENT_USER\Software\Microso]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+
+
+]HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\C]
+“EnableSuperfetch”=-
+“EnablePrefetcher”=dword:00000003
+
+; Optimize ReadyBoot
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Co]
+"Start"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentCon]
+"WaitToKillServiceTimeout"="20"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Win]
+"MaxConnectionsPerServer"=dword:000000a
+"MaxConnectionsPer1_0Server"=dword:00000a
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Manag]
+“EnableSuperfetch”=dword:00000003
+“EnablePrefetcher”=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlS]
+“Start”=dword:00000000
+
+[HKLM:\System\CurrentControlSet\Control\Sessio]
+"DisablePagingExecutive"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlS]
+"DisablePagingExecutive"=dword:00000001
+"SizReqBuf"=dword:00017424
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"IRPStackSize"=dword:00000032
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcp]
+"Tcp1323Opts"dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\S]
+"EnableDynamicBacklog"dword:00000001
+"MinimumDynamicBacklog"dword:00000200
+"MaximumDynamicBacklog"dword:00020000
+"DynamicBacklogGrowthDelta"dword:00000100
+
+[HKCU_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Contro]
+"SecondLevelDataCache"dword:00000512
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentContro]
+"IoPageLockLimit"dword:00000192
+
+
+[-HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Cu]
+
+[HKEY_CLASSES_ROOT\*\shell\takeownership]
+@="Take ownership"
+"HasLUAShield"=""
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\*\shell\takeowners]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+
+[HKEY_CLASSES_ROOT\exefile\shell\takeow]
+@="Take ownership"
+"HasLUAShield"=""
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\exefile\shell\takeownershi]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+
+[HKEY_CLASSES_ROOT\dllfile\shell\ta]
+@="Take ownership"
+"HasLUAShield"=""
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\dllfile\shell\takeowners]
+@="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" && icacls \"%1\" /grant administrators:F"
+
+[HKEY_CLASSES_ROOT\Directory\shell\tak]
+@="Take ownership"
+"HasLUAShield"=""
+"NoWorkingDirectory"=""
+
+[HKEY_CLASSES_ROOT\Directory\shell\takeow]
+@="cmd.exe /c takeown /f \"%1\" /r /d y && icacls \"%1\" /grant administrators:F /t"
+"IsolatedCommand"="cmd.exe /c takeown /f \"%1\" /r /d y && icacls \"%1\" /grant administrators:F /t"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\SessionManager\Memory Mana]
+"EnablePrefetcher"=

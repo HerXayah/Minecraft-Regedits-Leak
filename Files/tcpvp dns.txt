@@ -1,0 +1,32 @@
+
+Kohi-Us /Low Kb\
+198.50.155.45
+198.50.239.232
+
+Kohi-Us /Better Reach\
+204.12.6.196
+204.12.5.221
+
+Kohi-Eu /Vertical Kb\
+92.222.8.108
+92.222.202.244
+
+kohi-Eu /Reach+\
+37.187.87.104
+37.187.87.57
+
+CtlServ-Eu /slow Kb\
+46.105.187.240
+Rien
+
+CtlServ-Us /Improve ItDetection\
+69.70.110.196
+69.70.213.250
+
+Sarefine-Eu /Host Italie\
+2.229.37.152
+88.149.172.219
+
+Sarefine-Us /Good Reach+\
+206.208.113.93
+209.79.65.197

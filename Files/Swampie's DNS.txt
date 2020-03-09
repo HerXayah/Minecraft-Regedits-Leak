@@ -1,0 +1,6 @@
+SWAMPIE'S DNS (0.3 velocity):  1.20.167.206
+              (Best Reach)     202.44.55.194
+
+
+
+You can add 8.8.4.4 below the DNS, but don't mix them.

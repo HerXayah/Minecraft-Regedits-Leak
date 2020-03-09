@@ -1,0 +1,42 @@
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ADF\Parameters]
+ "EnableDynamicBacklog"=dword:00000001
+ "MinimumDynamicBacklog"=dword:00000200
+ "MaximumDynamicBacklog"=dword:20000
+ "DynamicBacklogGrowthDelta"=dword:0000100
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+ "SizReqBuf"=dword:4410
+ "IRPStackSize"=dword:00000020
+ "MaxWorkItems"=dword:002000
+ "MaxMpxCt"=dword:000800
+ "Size"=dword:00000003
+ "DisableStrictNameChecking"=dword:00000001
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+ "DisablePagingExecutive"=dword:00000001
+ "LargeSystemCache"=dword:00000000
+ "SystemPages"=dword:FFFFFFFF
+ "IoPageLockLimit"=dword:000f0000
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Executive]
+ "AdditionalCriticalWorkerThreads"=dword:00000000
+ "AdditionalDelayedWorkerThreads"=dword:00000000
+ "WorkerFactoryThreadIdleTimeout"=dword:00000258
+ "UuidSequenceNumber"=dword:00295beb
+ "AdditionalDelayedWorkerThreads"=dword:0000010
+ "AdditionalCriticalWorkerThreads"=dword:00000010
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+ "MaxCmds"=dword:000800
+ "MaxThreads"=dword:0000001e
+ "MaxCollectionCount"=dword:00000020
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+ "ContigFileAllocSize"=dword:00000040
+ "NTFSDisableLastAccessUpdate"=dword:00000001
+ "ContigFileAllocSize"=dword:00000040
+ "DontVerifyRandomDrivers"=dword:00000001
+ [HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ MSMQ\Parameters]
+ "IgnoreOSNameValidation"=dword:00000001
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\SControl\SecurityProviders\SCHANNEL]
+ "ServerCacheTime"=dword:00000000
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa]
+ "DisableStrictNameChecking"=dword:000001
+ "DisableLoopbackCheck"=dword:000001
+ [HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\Connections\StatMon]
+ "ShowLanErrors"=dword:00000001

@@ -1,0 +1,7 @@
+REGEDIT_MINI_v2_BY_ELFLY_ALL_CREDIT_TO_HIM
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"IRPStackSize"=dword:00000040
+
+

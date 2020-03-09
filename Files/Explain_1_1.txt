@@ -1,0 +1,3 @@
+Edit the user from the regedit!
+
+Change it to your PC Name

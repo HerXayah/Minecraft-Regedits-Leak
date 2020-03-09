@@ -1,0 +1,35 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"ClearPageFileAtShutdown"=hex(b):01,00,00,00,00,00,00,00
+"NonPagedPoolQuota"=hex(b):00,00,00,00,00,00,00,00
+"NonPagedPoolSize"=hex(b):00,00,00,00,00,00,00,00
+"PagedPoolSize"=hex(b):00,00,00,00,00,00,00,00
+"PagedPoolQuota"=hex(b):00,00,00,00,00,00,00,00
+"PagingFiles"=hex(7):63,00,3a,00,5c,00,70,00,61,00,67,00,65,00,66,00,69,00,6c,\
+  00,65,00,2e,00,73,00,79,00,73,00,20,00,32,00,34,00,35,00,37,00,36,00,20,00,\
+  32,00,34,00,35,00,37,00,36,00,00,00,00,00
+"SessionViewSize"=hex(b):30,00,00,00,00,00,00,00
+"SessionPoolSize"=hex(b):04,00,00,00,00,00,00,00
+"SystemPages"=hex(b):00,00,00,00,00,00,00,00
+"PhysicalAddressExtension"=hex(b):01,00,00,00,00,00,00,00
+"GranularitySize"="AUTO"
+"144BitDdrChannelsEnabled"=hex(b):01,00,00,00,00,00,00,00
+"IncreaseDataQueueSizeEnabled"=hex(b):01,00,00,00,00,00,00,00
+"AllocatingInOutBuffersEnabled"=hex(b):01,00,00,00,00,00,00,00
+"ChunkSizeCachingEnabled"=hex(b):01,00,00,00,00,00,00,00
+"ThirdLevelDataCacheSharedBetweenThemProcessors"=hex(b):01,00,00,00,00,00,00,\
+  00
+"InterleavingModeFromBiosEnabled"=hex(b):01,00,00,00,00,00,00,00
+"SDRAM_DEVICES_ID"=hex(b):01,00,00,00,00,00,00,00
+"CLFLUSH"=hex(b):01,00,00,00,00,00,00,00
+"EnablePageCache"=hex(b):01,00,00,00,00,00,00,00
+"SupportToMoreAccessesToEachBankForMoreIndependentsThreads"="TRUE"
+"DataBufferSize"=hex(b):00,00,01,00,00,00,00,00
+"PageCacheSize"=hex(b):00,00,01,00,00,00,00,00
+"EnableQueueRate"=hex(b):01,00,00,00,00,00,00,00
+"IoPageLockLimit"=hex(b):00,00,00,08,00,00,00,00
+"DisablePagingExecutive"=hex(b):01,00,00,00,00,00,00,00
+"LargeSystemCache"=hex(b):01,00,00,00,00,00,00,00
+"ExistingPageFiles"=hex(7):5c,00,3f,00,3f,00,5c,00,43,00,3a,00,5c,00,70,00,61,\
+  00,67,00,65,00,66,00,69,00,6c,00,65,00,2e,00,73,00,79,00,73,00,00,00,00,00

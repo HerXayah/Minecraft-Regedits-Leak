@@ -1,0 +1,52 @@
+
+IPv4 DNS
+
+201.198.254.84 = Favorite
+197.158.242.26 = Auxiliary
+
+
+- At the bottom right click on "Advanced" and then go to "DNS" at the top and adds all Dns below:
+
+186.167.16.187
+210.211.125.19
+190221138218
+181.29.38.22
+202.166.211.67
+115.70.209.178
+212112105229
+81.18.151.41
+186.167.16.187
+177.23.32.133
+212.82.226.212
+212.82.225.7
+198.50.145.155
+192.34.38.14
+190.202.81.115
+8.8.8.8
+8.8.4.4
+200.68.64.20
+200.110.156.18
+46.244.10.98
+46.244.10.116
+186.125.131.18
+200.8.65.30
+81.253.149.2
+80.10.246.132
+85.214.43.157
+200.69.193.2
+158.69.57.22
+200.13.137.78
+4.4.2.2
+4.4.4.4
+
+- Then check:
+- "Append primary DNS suffix and connection specific"
+- "Append parent suffixes of the primary DNS suffix" and "Save this connection's addresses in DNS"
+- "Use the DNS suffix of this connection in DNS registration"
+- Then click on "OK"
+
+- Coche "Apply settings on exit" and click "OK" and then again "OK"
+
+- Finally go to "Network and Sharing Center", "Change adapter settings" then right click on your wi-fi "Disable" when it is off the reactant
+
+Enjoy! : D

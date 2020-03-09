@@ -1,0 +1,8 @@
+1)Executer le programme en tant qu'administrateur
+1,5)Cliquer sur "Modify all Netword adaptaters"
+2)Mettre son débit de download sur connection speed
+3)En bas à droite, cliquer sur custom
+4)Mettre la valeur 1500 dans "MTU" (c'est une valeur unviversel même si ta valeur c'est genre 1480 ca marche quand même)
+5)Cliquer ensuite sur optimal en bas à droite
+6)Tout en haut, go dans l'onglet "Advenced Settings", et cliquer en bas à droite sur optimal
+7)Cliquer sur "Apply Change" accepté si cela vous demande qlq chose et redémarrer le pc

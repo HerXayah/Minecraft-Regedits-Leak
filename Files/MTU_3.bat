@@ -1,0 +1,1 @@
+netsh interface ipv4 set subinterface "Ethernet" mtu=1500 store=persistent

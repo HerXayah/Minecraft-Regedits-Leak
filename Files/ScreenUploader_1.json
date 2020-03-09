@@ -1,0 +1,15 @@
+{
+  "name": "ScreenUploader",
+  "enabled": true,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Copy link to clipboard": true,
+    "Log link in chat": true,
+    "Disable vanilla notification": true
+  }
+}

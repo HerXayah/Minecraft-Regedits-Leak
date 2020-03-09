@@ -1,0 +1,45 @@
+REGEDIT_OP
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:430f
+"TCPDelAckTicks"=dword:6
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"TcpWindowSize"=dword:0005ae4c
+"Tcp1323Opts"=dword:00000003
+"DefaultTTL"=dword:7fff
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword­:0005ae4c
+"TcpTimedWaitDelay" dword:30
+"TcpNumConnections" dword:7fff
+"TcpMaxDupAcks" dword:2
+"TcpWindowSize" dword:7fff
+"WorldMaxTcpWindowsSize" dword:7
+"TCPInitialRtt" dword:7fff
+"IRPStackSize" dword:50
+"MSS" dword:1472	
+"MTU" dword:1472
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{9C1E752A-B125-4651-A60A-2620EDABB7D8}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+"TCPNoDelay"=dword:0000400f
+"TcpDelAckTicks"=dword:00000000
+"TcpAckFrequency"=dword:0000400f
+

@@ -1,0 +1,38 @@
+Windows Registry Editor Version 5.00
+
+#Optimisation DNS
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheEntryTtlLimit"=dword:0000fa00
+"MaxSOACacheEntryTtlLimit"=dword:0000012d
+"NegativeCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"NegativeSOACacheTime"=dword:00000000
+
+#Bande passante maxi
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+
+#Réseau plus rapide
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters]
+"SizReqBuf"=dword:0000ffff
+[-HEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace{D6277990-4C6A-11CF-8D87-00AA0060F5BF}]
+[-KEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Explorer\RemoteComputer\NameSpace{2227A280-3AEA-1069-A2DE-08002B30309D}]
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanworkstation\parameters]
+"MaxCmds"=dword:00000064
+"MaxThreads"=dword:00000064
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"EnableICMPRedirect"=-
+"DefaultTTL"=Dword:00000064
+"EnablePMTUBHDetect"=Dword:00000000
+"EnablePMTUDiscovery"=Dword:00000001
+"GlobalMaxTcpWindowSize"=Dword:00255552
+"KeepAliveTime"=Dword:00060000
+"SackOpts"=Dword:00000001
+"Tcp1323Opts"=Dword:00000003
+"TcpMaxDupAcks"=Dword:00000003
+"TcpRecSegmentSize"=Dword:00255552
+"TcpWindowSize"=Dword:00255552
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNumConnections"=dword:00fffffe

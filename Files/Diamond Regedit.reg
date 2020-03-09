@@ -1,0 +1,140 @@
+Windows Registry Editor Version 5.00
+
+;Leak by avalon
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"DesktopLivePreviewHoverTime"=dword:00000000
+"ExtendedUIHoverTime"=dword:00000000
+"EnableBalloonTips"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\ContentIndex]
+"StartupDelay"=dword:00009c40
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\WindowsUpdate]
+"NoAutoRebootWithLoggedOnUsers"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\WSearch]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\cisvc]
+"Start"=dword:00000004
+
+[HKEY_LOCAL_MACHINE/SYSTEM/CurrentControlSet/Control/Session Manager/Memory Management/PrefetchParameters]
+"Enableprefetcher"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Power]
+"HiberbootEnabled"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NtfsDisableLastAccessUpdate"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"AlwaysUnloadDll"=dword:00000001
+
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+@="{C2FBB630-2971-11D1-A18C-00C04FD75D13}"
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+@="{C2FBB631-2971-11D1-A18C-00C04FD75D13}"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NtfsDisableLastAccessUpdate"=dword:00000001
+"NtfsDisable8dot3NameCreation"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000003
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+"SmoothScroll"=dword:1
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+"SmoothScroll"=dword:1
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+"SmoothScroll"=dword:1
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+"SmoothScroll"=dword:1
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000001
+"SystemPages"=dword:ffffffff
+"IoPageLockLimit"=dword:983040
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control]
+"WaitToKillServiceTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control]
+"WaitToKillServiceTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="1000"
+
+[HKEY_USERS\S-1-5-19\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+
+[HKEY_USERS\S-1-5-20\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="5000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheEntryTtlLimit"=dword:0000FA00
+"MaxSOACacheEntryTtlLimit"=dword:0000012D
+"NegativeCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"NegativeSOACacheTime"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00004410
+"Size"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network card interface name}]
+"TcpWindowsSize"=dword: 'Custom Value'
+"GlobalMaxTcpWindowsSize"=dword: 'Custom Value'
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"GlobalMaxTcpWindowsSize"=dword: 'Custom Value'
+"MTU"=dword:  'Custom Value'

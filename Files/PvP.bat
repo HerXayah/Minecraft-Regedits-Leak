@@ -1,0 +1,1 @@
+netsh int ipv4 set subinterface "Local Area Connection" mtu=80 store=persistent

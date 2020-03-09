@@ -1,0 +1,23 @@
+1. Go to C:
+
+2.Go to "Windows"
+
+3.Search "system.ini"
+
+4.Open with NotePad++
+
+5.And add :
+[mci]
+page buffer=9000000Tbps
+load=9000000Tbps
+download=9000000Tbps
+save=9000000Tbps
+back=9000000Tbps
+search=9000000Tbps
+sound=1000000Tbps
+webcam=1000000Tbps
+voice=1000000Tbps
+faxmodemfast=9000000Tbps
+update=9000000Tbps
+
+6.Save and reboot pc ! 

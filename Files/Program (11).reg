@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM]
+"DedicatedSegmentSize"=hex(b):12,05,00,00,00,00,00,00

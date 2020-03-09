@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=hex(b):02,00,00,00,00,00,00,00
+"IRQ8Priority"=hex(b):01,00,00,00,00,00,00,00
+"IRQ16Priority"=hex(b):02,00,00,00,00,00,00,00
+
+
+
+
+
+
+
+

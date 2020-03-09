@@ -1,0 +1,40 @@
+Go in
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+Custom IoPageLockLimit
+
+   - 128 Mo RAM : 0001C000
+   - 256 Mo RAM : 0003C000
+   - 384 Mo RAM : 0005C000
+   - 512 Mo RAM : 00070000
+   - 1024 Mo RAM : 000F0000
+
+1Go = 1024 Mo
+1024 Mo = 000F0000 (hexadecimal)
+000F0000 (hexadecimal) = 983040 (decimal)
+
+so
+
+1go = 983040 decimal
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+EXAMPLE:
+
+If you have 8Go and you want put 4go in IoPageLockLimit
+
+4 x 983040 = 3932160
+
+Put in IoPageLockLimit 3932160 decimal.
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+--------------------
+Name: IoPageLockLimit
+Type: REG_DWORD
+Value: custom
+Specifies the maximum number of bytes that can be locked for I/O operations.
+--------------------
+

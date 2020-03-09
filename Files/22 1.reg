@@ -1,0 +1,3 @@
+REGEDITMC
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxConnectionsPerServer"=dword:00000016

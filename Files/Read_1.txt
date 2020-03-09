@@ -1,0 +1,27 @@
+BULLSHIT PROGRAM here is the code i think
+
+$latency = 2;
+
+get-wmiobject win32_networkadapter -filter "netconnectionstatus = 2" | select "GUID"
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces{B02DFB1B-C275-
+42DA-B853-CD2C7B36779A}" -Name TcpAckFrequency -Value $latency
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces{B02DFB1B-C275-
+42DA-B853-CD2C7B36779A}" -Name TCPNoDelay -Value 1
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces{B02DFB1B-C275-
+42DA-B853-CD2C7B36779A}" -Name NonBestEffortLimit -Value 0
+Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces{B02DFB1B-C275-
+42DA-B853-CD2C7B36779A}" -Name DefaultTTL -Value 64
+
+netsh int tcp set global rsc=disabled
+netsh int tcp set supplemental Internet congestionprovider=ctcp
+netsh int tcp set global chimney=disabled
+netsh int tcp set global autotuninglevel=restricted
+netsh int tcp set heuristics disabled
+netsh int tcp set global dca=enabled
+netsh int tcp set global rss=enabled
+netsh int tcp set global ecncapability=disabled
+netsh int tcp set global timestamps=disabled
+
+$adaptor = get-wmiobject win32_networkadapter -filter "netconnectionstatus = 2"
+$adaptor.Disable()
+$adaptor.Enable()

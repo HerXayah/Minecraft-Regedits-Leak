@@ -1,0 +1,93 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"StrictTimeWaitSeqCheck"=dword:00000001
+"TcpTimedWaitDelay"=dword:0000001e
+"DisableTaskOffload"=dword:00000000
+"EnableDCA"=dword:00000001
+"EnableWsd"=dword:00000000
+"TcpMaxDataRetransmissions"=dword:00000005
+"MaxUserPort"=dword:0000fffe
+"MaxFreeTcbs"=dword:0000ffff
+"SackOpts"=dword:00000001
+"EnablePMTUDiscovery"=dword:00000001
+"EnablePMTUBHDetect"=dword:00000001
+"Tcp1323Opts"=dword:00000001
+"DefaultTTL"=dword:000000ff
+"SackOpts"=dword:00000001
+"EnableICMPRedirect"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"DeadGWDetectDefault"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:000000FF
+"IPEnableRouter"dword:00000000
+"UseDomainNameDevolution"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:CUSTOM VALUE
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network_Key}]
+"TcpWindowSize"=dword:CUSTOM VALUE
+"MTU"=dword:CUSTOM VALUE
+"TCPNoDelay"=dword:00000001
+"TcpAckFrequency"=dword:00000001
+"TcpDelAckTicks"=dword:00000000
+"IPAutoconfigurationEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings\ZoneMap]
+"AutoDetect"=dword:00000000
+"UNCAsintranet"=dword:00000001
+"intranet"=dword:00000001
+"ProxyBypass"=dword:00000001
+"AutoDetect"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"HostsPriority"=dword:00000005
+"LocalPriority"=dword:00000004
+"NetbtPriority"=dword:00000007
+"DnsPriority"=dword:00000006
+"Class"=dword:00000008
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\NetBT\Parameters]
+"Size/Small/Medium/Large"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TcpNoDelay"=dword:0000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\QoS]
+"Do not use NLA"="1"
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"DisableBandwidthThrottling"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion]
+"SmoothScroll"dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion]
+"SmoothScroll"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"SmoothScroll"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPer1_0Server"dword:00000016
+"MaxConnectionsPerServer"dword:00000016
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPer1_0Server"dword:00000016
+"MaxConnectionsPerServer"dword:00000016
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPerServer"dword:00000016
+"MaxConnectionsPer1_0Server"=dword:00000016
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPer1_0Server"=dword:00000016
+"MaxConnectionsPerServer"=dword:00000016
+
+[HKEY_CURRENT_USER\Software]
+"S":S

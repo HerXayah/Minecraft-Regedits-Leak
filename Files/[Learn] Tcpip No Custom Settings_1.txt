@@ -1,0 +1,155 @@
+@Copyright RoyAL
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+IN HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+
+--------------------
+- DefaultTTL
+- REG_DWORD
+- 255 (decimal)
+Specifies the default Time to Live (TTL) value in the header of outgoing IP packets. The TTL determines how long an IP packet that has not reached its destination can remain on the network before it is discarded.
+--------------------
+- EnablePMTUDiscovery
+- REG_DWORD
+- 1 (decimal)
+Determines whether TCP uses a fixed, default maximum transmission unit (MTU) or attempts to detect the actual MTU.
+By discovering the Path MTU and limiting TCP segments to this size, TCP can eliminate fragmentation at routers connecting networks with different MTUs. Fragmentation reduces TCP throughput and increases network congestion.
+By default, this entry applies to all interfaces. However, the MTU can be reduced for any particular interface by changing the default value of the MTU entry in the subkey for that interface.
+--------------------
+- Tcp1323Opts
+- REG_DWORD
+- 1 (decimal)
+Determines whether TCP uses the timestamping and window scaling features described in RFC 1323, TCP Extensions for High Performance.
+Window scaling permits TCP to negotiate a scaling factor for the TCP receive window size, allowing for a very large TCP receive window of up to 1 GB. The TCP receive window is the amount of data the sending host can send at one time on a connection.
+Timestamps help TCP measure round trip time (RTT) accurately in order to adjust retransmission timeouts. The Timestamps option provides two timestamp fields of 4 bytes each in the TCP header, one to record the time the initial transmission is sent and one to record the time on the remote host.
+This entry is a 2-bit bitmask. The lower bit determines whether scaling is enabled; the higher bit determines whether timestamps are enabled. To enable a feature, set the bit representing the feature to 1. To disable a feature, set its bit to 0.
+--------------------
+- EnablePMTUBHDetect
+- REG_DWORD
+- 1 (decimal)
+Determines whether TCP tries to detect black hole routers during the Path MTU (maximum transmission unit) discovery process. Enabling black hole detection increases the maximum number of times TCP retransmits a given segment.
+If the value of this entry is 1, TCP recognizes when it has transmitted the same segment several times without receiving an acknowledgement. It reduces the maximum segment size (MSS) to 536 bytes, and it sets the Don't-Fragment bit. If, as a result, receipt of the segment is acknowledged, TCP continues this practice in all subsequent transmissions on the connection.
+--------------------
+- MaxUserPort
+- REG_DWORD
+- 65534 (decimal)
+Determines the highest port number TCP can assign when an application requests an available user port from the system. Typically, ephemeral ports (those used briefly) are allocated to port numbers 1024 through 5000.
+--------------------
+- MaxFreeTcbs
+- REG_DWORD
+- 65535 (decimal)
+Determines the number of TCP control blocks (TCBs) the system creates to support active connections. Because each connection requires a control block, this value determines how many active connections TCP can support simultaneously. If all control blocks are used and more connection requests arrive, TCP can prematurely release connections in the TIME_WAIT state in order to free a control block for a new connection.
+Normally, TCP does not release a connection or reuse its resources until the connection has remained closed for a period specified by the value of the TcpTimedWaitDelay entry. This interval is known as the TIME_WAIT or 2MSL (2 x maximum segment lifetime) state. However, if the system is supporting an unusually large number of connections and is running short of connection resources, TCP releases the connection before the value stored in the TcpTimedWaitDelay entry has expired.
+The default value for this entry is determined both by the amount of physical memory on the computer when TCP/IP starts and by the version of Windows running on the computer, as shown in the following table.
+--------------------
+- SackOpts
+- REG_DWORD
+- 1 (decimal)
+Enables and disables the Selective Acknowledgment (SACK) feature of Windows 2000 TCP/IP. SACK is specified in RFC 2018, TCP Selective Acknowledgement Options.
+SACK is an optimizing feature that lets you acknowledge receipt of individual blocks of data in a continuous sequence, rather than just the last sequence number. The recipient can tell the sender that one or more data blocks are missing from the middle of a sequence, and the sender can retransmit only the missing data.
+--------------------
+- TcpMaxDataRetransmissions
+- REG_DWORD
+- 5 (decimal)
+Determines how many times TCP retransmits an unacknowledged data segment on an existing connection. TCP retransmits data segments until they are acknowledged or until this value expires.
+TCP/IP adjusts the frequency of retransmissions over time. TCP establishes an initial retransmission interval by measuring the round trip time on the connection. The interval doubles with each successive retransmission on a connection, and it is reset to the initial value when responses resume.
+This entry is also used in the Windows algorithm for defining non-operational ( dead ) gateways.
+A given connection defines a gateway as dead (and switches to the next gateway in the list in stored in the value of the DefaultGateway or DhcpDefaultGateway entries) when a packet sent to the gateway must be retransmitted more than half of the number of times specified in the value of this entry. The system defines a gateway as dead when more than 25 percent of its connections have switched to the next default gateway in the list.
+Note Image Note
+This entry determines how many times TCP retransmits data segments. The maximum number of retransmissions of requests for new connections is determined by the value of the TcpMaxConnectRetransmissions entry.
+--------------------
+- EnableDCA
+- REG_DWORD
+- 1 (decimal)
+NETDMA provides services for offloading the memory copy operation performed by the networking subsystem, when receiving network packets, to a dedicated DMA engine.
+--------------------
+- EnableWsd
+- REG_DWORD
+- 0 (decimal)
+-------------------
+- DisableTaskOffload
+- REG_DWORD
+- 0 (decimal)
+Enable and Disable Task Offloading
+-------------------
+- TcpTimedWaitDelay
+- REG_DWORD
+- 30 (decimal)
+Determines the time that must elapse before TCP can release a closed connection and reuse its resources. This interval between closure and release is known as the TIME_WAIT state or 2MSL state. During this time, the connection can be reopened at much less cost to the client and server than establishing a new connection.
+RFC 793 requires that TCP maintains a closed connection for an interval at least equal to twice the maximum segment lifetime (2MSL) of the network. When a connection is released, its socket pair and TCP control block (TCB) can be used to support another connection. By default, the MSL is defined to be 120 seconds, and the value of this entry is equal to two MSLs, or 4 minutes. However, you can use this entry to customize the interval.
+Reducing the value of this entry allows TCP to release closed connections faster, providing more resources for new connections. However, if the value is too low, TCP might release connection resources before the connection is complete, requiring the server to use additional resources to reestablish the connection.
+Note Image Note
+Normally, TCP does not release closed connections until the value of this entry expires. However, TCP can release connections before this value expires if it is running out of TCP control blocks (TCBs). The number of TCBs the system creates is specified by the value of the MaxFreeTcbs entry.
+-------------------
+- StrictTimeWaitSeqCheck
+- REG_DWORD
+- 1 (decimal)
+Enable and disable TcpTimedWaitDelay
+-------------------
+- TcpCreateAndConnectTcbRateLimitDepth
+- REG_DWORD
+- 0 (decimal)
+"TcpCreateAndConnectTcbRateLimitDepth" from 1 to 0 in the kernel memory, and then the Half-open TCP connections limit has been removed immediately
+-------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network card interface name}
+
+How to find the "Network card interface name": https://prnt.sc/hjf1fd
+
+-------------------
+- TcpDelAckTicks
+- REG_DWORD
+- 0 (decimal)
+Specifies the time interval that defines the end of a segment stream. When this interval elapses between the receipt of TCP segments, TCP considers the segment stream to be complete, and it sends an ACK message to acknowledge the segment. Otherwise, TCP acknowledges every other segment only.
+This interval is used in TCP's delayed acknowledgment strategy, in accordance with RFC 1122, Requirements for Internet hosts—communication layers.
+-------------------
+- TCPNoDelay
+- REG_DWORD
+- 1 (decimal)
+Enable or Disable Nagle Algorithm
+-------------------
+- TcpNumConnections
+- REG_DWORD
+- 16777214 (decimal)
+Determines the maximum number of connections that TCP can have open simultaneously.
+If the value of this entry is 0, you cannot establish any connections.
+-------------------
+- IPAutoconfigurationEnabled
+- REG_DWORD
+- 0 (decimal)
+Determines whether the IP autoconfiguration feature is enabled for this interface.
+Autoconfiguration allows TCP/IP to configure an interface even when it cannot locate a Dynamic Host Configuration Protocol (DHCP) server. If TCP/IP cannot locate DCHP server, it configures the interface by using IP addresses from the Microsoft reserved Class B network (169.254.0.0), subnet mask 255.255.0.0. During autoconfiguration, TCP/IP continues trying to locate a DHCP server, and it abandons autoconfiguration if it finds one.
+IPAutoconfigurationEnabled also appears in the Parameters subkey, and its value applies, by default, to all interfaces. However, if this entry appears in any subkey of the Interfaces subkey, it takes precedence over the entry in the Parameters subkey when configuring the interface.
+-------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider
+
+-------------------
+- Class
+- REG_DWORD
+- 8 (decimal)
+-------------------
+- DnsPriority
+ REG_DWORD
+- 6 (decimal)
+-------------------
+- HostsPriority
+- REG_DWORD
+- 5 (decimal)
+-------------------
+- LocalPriority
+- REG_DWORD
+- 4 (decimal)
+-------------------
+- NetbtPriority
+- REG_DWORD
+- 7 (decimal)
+-------------------
+
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤

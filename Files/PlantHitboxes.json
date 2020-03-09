@@ -1,0 +1,11 @@
+{
+  "name": "PlantHitboxes",
+  "enabled": false,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {}
+}

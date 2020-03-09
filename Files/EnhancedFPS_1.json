@@ -1,0 +1,40 @@
+{
+  "name": "EnhancedFPS",
+  "enabled": true,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Disable Chat Background": true,
+    "Disable Firework Rendering": true,
+    "Disable Flame Particles": true,
+    "Disable Item Glint": true,
+    "Disable Liquid Particles": true,
+    "Disable Painting Rendering": true,
+    "Disable Redstone Dust Particles": true,
+    "Disable Smoke Particles": true,
+    "Disable XP Orb Rendering": true,
+    "Fast Math": true,
+    "Fast Render": true,
+    "Limit Chunk Updates": true,
+    "No TNT Explosions": true,
+    "No Weather": true,
+    "Reduce Block Light Values": true,
+    "Sky Lighting Fix": true,
+    "Disable All Block Rendering": false,
+    "Disable Block Break Particles": false,
+    "Disable Dropped Item Rendering": false,
+    "Disable Entity Fire": false,
+    "Disable Entity Shadow": false,
+    "Disable Falling Block Rendering": false,
+    "Disable ItemFrame Rendering": false,
+    "Disable Passive Entity Rendering": false,
+    "Disable Potion Particles": false,
+    "Disable PVP Particles": false,
+    "Entity Render Distance": 64,
+    "Simplify Tile Entities": false
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "name": "PotColors",
+  "enabled": true,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Speed": 8171462,
+    "Slowness": 5926017,
+    "Haste": 14270531,
+    "Mining Fatigue": 4866583,
+    "Strength": 9643043,
+    "Instant Health": 16262179,
+    "Instant Damage": 4393481,
+    "Jump Boost": 786297,
+    "Nausea": 5578058,
+    "Regeneration": 13458603,
+    "Resistance": 10044730,
+    "Fire Resistance": 14981690,
+    "Water Breathing": 3035801,
+    "Invisibility": 8356754,
+    "Blindness": 2039587,
+    "Night Vision": 2039713,
+    "Hunger": 5797459,
+    "Weakness": 4738376,
+    "Poison": 5149489,
+    "Wither": 3484199,
+    "Health Boost": 16284963,
+    "Absorption": 2445989,
+    "Saturation": 16262179
+  }
+}

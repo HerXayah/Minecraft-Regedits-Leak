@@ -1,0 +1,16 @@
+Steps:
+
+1) Open control Panel and click "System and Security"
+2) Click "System"
+3) Then Click "Advanced Settings"
+4) Click "Adjust for best performance".  Then click "advanced" tab on top
+5) Once under the advanced tab click "settings" under performance
+6) Under the advanced tab click "programs" to adjust for best performance. 
+
+ Click "Apply" and then "OK"
+
+Stop background apps (windows 10)
+Go to settings
+click privacy
+click background apps
+and change every single one to "off" (trust me you dont need them)

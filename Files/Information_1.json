@@ -1,0 +1,19 @@
+{
+  "name": "Information",
+  "enabled": true,
+  "location": {
+    "pos": "LEFT_TOP",
+    "translation": {
+      "x": 3,
+      "y": 4
+    }
+  },
+  "properties": {
+    "Color": "c",
+    "Simplify": false,
+    "Show Coords": true,
+    "Show FPS": true,
+    "Show Direction": true,
+    "Stealth Status": true
+  }
+}

@@ -1,0 +1,61 @@
+Go to start type in services right click the service you want to disable click properties change startup type to "disabled"
+Tip: to find services faster click on any service once and click the first letter of the service your trying to find, tap the button until your
+service is highlighted!
+
+Services to disable:
+
+Application Layer Gateway Service
+Application Management.  (Manual)
+Bluetooth Handsfree Service
+Bluetooth Support Service.
+BranchCache
+Certificate Propagation
+Credential Manager
+Cryptographic Services (Manual)
+Diagnostics Tracking Service
+Distributed Link Tracking Client
+Family Safety
+Homegroup Listener
+Homegroup Provider
+Human Interface Device Service
+Hyper-V (any hyper-v service can be disabled and has improved fps by over 50.  I left mine manual because I turned it off under system features.  If yours is running, I recommend disabling)
+Internet Connection Sharing (ICS).
+Internet Explorer ETW Collector Service.
+IP Helper
+Liveupdate
+Microsoft iSCSI Initiator Service
+Microsoft Keyboard Filter
+Net.Tcp Port Sharing Service
+Netlogon
+Network Access Protection Agent
+Offline Files
+Peer Name Resolution Protocol
+Peer Networking Identity Manager
+Printer Spooler (if you are not using a printer/fax on your PC)
+Printer Extensions and Notifications (if you are not using a printer/fax on your PC)
+Remote Procedure Call (RPC) Locator (Manual)
+Remote Registry (very important for security)
+Routing and Remote Access
+Secondary Logon (only disable if there's only one logon)
+Security Accounts Manager
+Security Center
+Sensor Monitoring Service (if your monitor adjust to lighting, leave on to keep that feature)
+Smart Card (if you use smart cards don't disable any smart card services)
+Smart Card Device Enumeration Service.
+Smart Card Removal Policy.
+SNMP Trap (manual)
+SSDP Discovery
+Storage Service
+TCP/IP NetBIOS Helper
+Themes
+Windows Biometric Service (manual)
+Windows Connect Now - Config Registrar (manaul, related to Wi-fi)
+Windows Defender Network Inspection Service (manual, I have it disabled under control panel)
+Windows Defender Service (manual, I have it disabled under control panel)
+Windows Firewall
+Windows Location Framework Service
+Windows Media Player Network Sharing Service (if you use windows media player, leave manual)
+WMI Performance Adapter
+Workstation
+
+

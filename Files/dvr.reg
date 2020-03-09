@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\System\GameConfigStore]
+"GameDVR_FSEBehaviorMode"=dword:00000002
+"GameDVR_Enabled"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\PolicyManager\default\ApplicationManagement\AllowGameDVR]
+"Behavior"=dword:00000020
+"highrange"=dword:00000001
+"lowrange"=dword:00000000
+"mergealgorithm"=dword:00000001
+"policytype"=dword:00000004
+"value"=dword:00000000

@@ -1,0 +1,96 @@
+All values:
+
+--------------------
+Location: HKEY_CURRENT_USER\Control Panel\Desktop
+Name: AutoEndTasks
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_CURRENT_USER\Control Panel\Desktop
+Name: HungAppTimeout
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_CURRENT_USER\Control Panel\Desktop
+Name: MenuShowDelay
+Type: REG_SZ
+Value: 8
+--------------------
+Location: HKEY_CURRENT_USER\Control Panel\Desktop
+Name: WaitToKillAppTimeout
+Type: REG_SZ
+Value: 2000
+--------------------
+Location: HKEY_CURRENT_USER\Control Panel\Desktop
+Name: LowLevelHooksTimeout
+Type: REG_SZ
+Value: 1000
+--------------------
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\ControlSet002\Control
+Name: WaitToKillServiceTimeout
+Type: REG_SZ
+Value: 1000
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control
+Name: WaitToKillServiceTimeout
+Type: REG_SZ
+Value: 1000
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control
+Name: WaitToKillServiceTimeout
+Type: REG_SZ
+Value: 1000
+--------------------
+
+--------------------
+Location: HKEY_USERS\S-1-5-19\Control Panel\Desktop
+Name: AutoEndTasks
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_USERS\S-1-5-19\Control Panel\Desktop
+Name: HungAppTimeout
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_USERS\S-1-5-19\Control Panel\Desktop
+Name: MenuShowDelay
+Type: REG_SZ
+Value: 8
+--------------------
+Location: HKEY_USERS\S-1-5-19\Control Panel\Desktop
+Name: WaitToKillAppTimeout
+Type: REG_SZ
+Value: 2000
+--------------------
+
+--------------------
+Location: HKEY_USERS\S-1-5-20\Control Panel\Desktop
+Name: AutoEndTasks
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_USERS\S-1-5-20\Control Panel\Desktop
+Name: HungAppTimeout
+Type: REG_SZ
+Value: 10
+--------------------
+Location: HKEY_USERS\S-1-5-20\Control Panel\Desktop
+Name: MenuShowDelay
+Type: REG_SZ
+Value: 8
+--------------------
+Location: HKEY_USERS\S-1-5-20\Control Panel\Desktop
+Name: WaitToKillAppTimeout
+Type: REG_SZ
+Value: 2000
+--------------------
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control
+Name: WaitToKillAppTimeout
+Type: REG_SZ
+Value: 2000
+--------------------

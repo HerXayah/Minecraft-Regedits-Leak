@@ -1,0 +1,15 @@
+{
+  "name": "Armor Status",
+  "enabled": true,
+  "location": {
+    "pos": "LEFT_MIDDLE",
+    "translation": {
+      "x": 2,
+      "y": -65
+    }
+  },
+  "properties": {
+    "Display as percentage": false,
+    "Show In Chat": true
+  }
+}

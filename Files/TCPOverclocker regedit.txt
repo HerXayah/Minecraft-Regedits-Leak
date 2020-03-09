@@ -1,0 +1,49 @@
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\Nsi{eb004a03-9b1a-11d4-9123-0050047759bc}\20] 
+@=hex:04,00,ff,fb,ff,ff,ff,ff 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\bam\UserSettings\S-1-5-21-1611996950-3962170705-3674038425-1001] 
+"\Device\HarddiskVolume2\Users\Luaar\Downloads\TCPOverclocker_v1.exe"=hex:b8,\
+   88,27,1d,34,f5,d3,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00 
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\Parameters] 
+"DefaultTTL"=dword:000000ff 
+"EnablePMTUDiscovery"=dword:00000001 
+"Tcp1323Opts"=dword:00000001 
+"EnablePMTUBHDetect"=dword:00000001 
+"MaxUserPort"=dword:0000fffe 
+"MaxFreeTcbs"=dword:0000ffff 
+"SackOpts"=dword:00000001 
+"TcpMaxDataRetransmissions"=dword:00000005 
+"EnableDCA"=dword:00000001 
+"EnableWsd"=dword:00000000 
+"DisableTaskOffload"=dword:00000000 
+"TcpTimedWaitDelay"=dword:0000001e 
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nsi{eb004a03-9b1a-11d4-9123-0050047759bc}\20] 
+@=hex:04,00,ff,fb,ff,ff,ff,ff 
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\bam\UserSettings\S-1-5-21-1611996950-3962170705-3674038425-1001] 
+"\Device\HarddiskVolume2\Users\Luaar\Downloads\TCPOverclocker_v1.exe"=hex:b8,\
+   88,27,1d,34,f5,d3,01,00,00,00,00,00,00,00,00,00,00,00,00,02,00,00,00
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Services\Tcpip\ServiceProvider] 
+"DnsPriority"=dword:00000006 
+"HostsPriority"=dword:00000005 
+"LocalPriority"=dword:00000004 
+"NetbtPriority"=dword:00000007
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nsi{eb004a00-9b1a-11d4-9123-0050047759bc}\6] 
+@=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,ff 
+@=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,ff,ff,ff,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+   00,00,00,00,00,00,00,00,00,00,00,00,00,ff,00,00,ff

@@ -1,0 +1,7 @@
+REGEDIT_IBLUECOMBO (iBlueCombo 1-7-2017)
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"IRPStackSize"=dword:00000040
+
+

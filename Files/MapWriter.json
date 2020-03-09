@@ -1,0 +1,23 @@
+{
+  "name": "MapWriter",
+  "enabled": false,
+  "location": {
+    "pos": "RIGHT_TOP",
+    "translation": {
+      "x": -2,
+      "y": 2
+    }
+  },
+  "properties": {
+    "Show Map": true,
+    "Size": 25,
+    "In-Game Waypoints": true,
+    "Waypoint Beam": true,
+    "Rotate Map": true,
+    "Circular Map": true,
+    "Faction Overlay": true,
+    "Player Arrow Size": 4,
+    "Linear Texture Scaling": true,
+    "Pixel Snapping": true
+  }
+}

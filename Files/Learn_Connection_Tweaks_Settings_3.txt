@@ -1,0 +1,38 @@
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+            
+              Change Your Bandwidth Reserve Setting
+
+Windows XP reserves about 20% of your bandwidth for Quality Of Service or QoS traffic. This type of traffic is not necessary at all times and you can utilize this 20% that Windows uses and re-route this extra bandwidth to your primary connection or services. Performing this tweak will yield a faster connection due to freeing up an extra 20% of bandwidth.
+
+Registry Editing Warning: This article is for educational purposes. By using this information you agree to be bound by the disclaimer. Editing the registry may render your system unstable. Please take the proper precautions to backup your system before editing the registry. Spyware-Techie.com and the author will not be responsible for any damages. Use at own risk.
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows
+Name: NonBestEffortLimit
+Type: REG_DWORD
+Value: 0
+--------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+                            Buffer Memory
+
+Go in HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters
+
+--------------------
+Name: IRPStackSize
+Type: REG_DWORD
+Value: 32 (hexadecimal)
+In Microsoft operating systems including Windows NT, Windows 2000 Server, Windows XP and Windows Server 2003, the IRPStackSize is a parameter that specifies the number of stack locations in I/O request packets (IRPs) that are used by the operating system. Each stack uses 36 bytes of memory for each receive buffer and you can increase the IRPStackSize, through the Windows registry for some transports, media access control (MAC) drivers, or for file system drivers. The default value of the IRPStackSize parameter is 15.
+--------------------
+Name: SizReqBuf
+Type: REG_DWORD
+Value: 4410 (hexadecimal)
+In File and Printer Sharing for Microsoft Networks, the SizReqBuf value determines how much data is buffered at one time to send to a client. The default values in Microsoft Windows 2000 and in Microsoft Windows Server 2003 provide acceptable levels of performance in typical scenarios. However, on a high-latency connection, you may want to use an increased SizReqBuf value.
+--------------------
+Name: Size
+Type: REG_SZ
+Value: 3
+--------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤

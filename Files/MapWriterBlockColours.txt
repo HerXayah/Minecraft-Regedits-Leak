@@ -1,0 +1,609 @@
+biome * ffffff ffffff ffffff
+biome 0 ffffff 8eb971 71a74d
+biome 1 ffffff 91bd59 77ab2f
+biome 2 ffffff bfb755 aea42a
+biome 3 ffffff 8ab689 6da36b
+biome 4 ffffff 79c05a 59ae30
+biome 5 ffffff 86b783 68a464
+biome 6 e0ffae 6a7039 6a7039
+biome 7 ffffff 8eb971 71a74d
+biome 8 ffffff bfb755 aea42a
+biome 9 ffffff 8eb971 71a74d
+biome 10 ffffff 80b497 60a17b
+biome 11 ffffff 80b497 60a17b
+biome 12 ffffff 80b497 60a17b
+biome 13 ffffff 80b497 60a17b
+biome 14 ffffff 55c93f 2bbb0f
+biome 15 ffffff 55c93f 2bbb0f
+biome 16 ffffff 91bd59 77ab2f
+biome 17 ffffff bfb755 aea42a
+biome 18 ffffff 79c05a 59ae30
+biome 19 ffffff 86b783 68a464
+biome 20 ffffff 8ab689 6da36b
+biome 21 ffffff 59c93c 30bb0b
+biome 22 ffffff 59c93c 30bb0b
+biome 23 ffffff 64c73f 3eb80f
+biome 24 ffffff 8eb971 71a74d
+biome 25 ffffff 8ab689 6da36b
+biome 26 ffffff 83b593 64a278
+biome 27 ffffff 88bb66 6ba940
+biome 28 ffffff 88bb66 6ba940
+biome 29 ffffff 507a32 59ae30
+biome 30 ffffff 80b497 60a17b
+biome 31 ffffff 80b497 60a17b
+biome 32 ffffff 86b87f 68a55f
+biome 33 ffffff 86b87f 68a55f
+biome 34 ffffff 8ab689 6da36b
+biome 35 ffffff bfb755 aea42a
+biome 36 ffffff bfb755 aea42a
+biome 37 ffffff 90814d 9e814d
+biome 38 ffffff 90814d 9e814d
+biome 39 ffffff 90814d 9e814d
+biome 129 ffffff 91bd59 77ab2f
+biome 130 ffffff bfb755 aea42a
+biome 131 ffffff 8ab689 6da36b
+biome 132 ffffff 79c05a 59ae30
+biome 133 ffffff 86b783 68a464
+biome 134 e0ffae 6a7039 6a7039
+biome 140 ffffff 80b497 60a17b
+biome 149 ffffff 59c93c 30bb0b
+biome 151 ffffff 64c73f 3eb80f
+biome 155 ffffff 88bb66 6ba940
+biome 156 ffffff 88bb66 6ba940
+biome 157 ffffff 507a32 59ae30
+biome 158 ffffff 80b497 60a17b
+biome 160 ffffff 86b783 68a464
+biome 161 ffffff 86b783 68a464
+biome 162 ffffff 8ab689 6da36b
+biome 163 ffffff bfb755 aea42a
+biome 164 ffffff bfb755 aea42a
+biome 165 ffffff 90814d 9e814d
+biome 166 ffffff 90814d 9e814d
+biome 167 ffffff 90814d 9e814d
+blocktype * * normal
+blocktype 2 * grass
+blocktype 8 * water
+blocktype 9 * water
+blocktype 18 * leaves
+blocktype 18 1 opaque
+blocktype 18 2 opaque
+blocktype 31 * grass
+blocktype 106 * foliage
+blocktype 169 * grass
+blocktype 1920 * grass
+blocktype 1923 * opaque
+blocktype 1924 * opaque
+blocktype 1925 * foliage
+blocktype 1926 * opaque
+blocktype 1932 * foliage
+blocktype 1962 * leaves
+blocktype 2164 * leaves
+blocktype 2177 * leaves
+blocktype 2200 * opaque
+blocktype 2204 * leaves
+blocktype 3257 * opaque
+blocktype 3258 * opaque
+blocktype 3259 * leaves
+blocktype 3272 * opaque
+blocktype 3278 * opaque
+block * * 00000000
+block 1 * ff666666
+block 2 * ff939393
+block 3 * ff866043
+block 3 2 ff573c1d
+block 4 * ff7e7e7e
+block 5 * ffaf8d5a
+block 5 1 ff765732
+block 5 2 ffcbbf84
+block 5 3 ffa57755
+block 5 4 ff822700
+block 5 5 ff49321f
+block 6 * 6a3d5c1f
+block 6 0 78437228
+block 6 1 51323820
+block 6 2 787aa053
+block 6 3 5e2e5912
+block 6 4 4e747515
+block 6 8 78437228
+block 6 9 51323820
+block 6 10 787aa053
+block 6 11 5e2e5912
+block 6 12 4e747515
+block 7 * ff636363
+block 8 * 8012bff4
+block 9 * 8012bff4
+block 10 * ffff6600
+block 11 * ffff6600
+block 12 * ffe8e2a1
+block 12 1 ffa05623
+block 13 * ff7b7977
+block 14 * ff989273
+block 15 * ff8c8c8c
+block 16 * ff585858
+block 17 * ff5b481e
+block 17 0 ff977a4d
+block 17 1 ff92764a
+block 17 2 ffa1875e
+block 17 3 ff967a4c
+block 17 4 ff5b4627
+block 17 5 ff32230d
+block 17 6 ffabadac
+block 17 8 ff5b4627
+block 17 9 ff32230d
+block 17 10 ffabadac
+block 17 12 ff5b4627
+block 17 13 ff32230d
+block 17 14 ffabadac
+block 18 * ff787878
+block 18 1 ff294523
+block 18 2 ff3c4e28
+block 18 3 ff726f69
+block 18 5 ff6c745d
+block 18 7 ff726f69
+block 18 9 ff6c745d
+block 18 11 ff726f69
+block 18 13 ff6c745d
+block 18 15 ff726f69
+block 19 * ffc1c157
+block 21 * ff55597c
+block 22 * ff39507c
+block 23 * ff4e4e4e
+block 23 1 ff5b5b5b
+block 23 9 ff5b5b5b
+block 24 * ffdad29e
+block 25 * ff694634
+block 26 * ff75b779
+block 26 0 ff198f1b
+block 26 1 ff198f1b
+block 26 2 ff198f1b
+block 26 3 ff198f1b
+block 26 4 ff198f1b
+block 26 5 ff198f1b
+block 26 6 ff198f1b
+block 26 7 ff198f1b
+block 27 * ab826c48
+block 27 8 ab986a47
+block 27 9 ab986a47
+block 27 10 ab986a47
+block 27 11 ab986a47
+block 27 12 ab986a47
+block 27 13 ab986a47
+block 27 14 ab986a47
+block 27 15 ab986a47
+block 28 * 9b786659
+block 28 8 9b865e52
+block 28 9 9b865e52
+block 28 10 9b865e52
+block 28 11 9b865e52
+block 28 12 9b865e52
+block 28 13 9b865e52
+block 28 14 9b865e52
+block 28 15 9b865e52
+block 29 * ff534d47
+block 29 0 ff4f4f4f
+block 29 1 ff736139
+block 29 6 ff736139
+block 29 7 ff736139
+block 29 8 ff4f4f4f
+block 29 9 ff464646
+block 29 14 ff736139
+block 29 15 ff736139
+block 30 * 39dbdbdb
+block 31 * 477a4f1a
+block 31 1 7c717171
+block 31 2 497a7a7a
+block 32 * 477a4f1a
+block 33 * ff534d47
+block 33 0 ff4f4f4f
+block 33 1 ff88653c
+block 33 6 ff88653c
+block 33 7 ff88653c
+block 33 8 ff4f4f4f
+block 33 9 ff464646
+block 33 14 ff88653c
+block 33 15 ff88653c
+block 34 * ff534d47
+block 34 0 ff88653c
+block 34 1 ff88653c
+block 34 8 ff88653c
+block 34 9 ff736139
+block 35 0 ffdcdcdc
+block 35 1 ffda7c3e
+block 35 2 ffb350bc
+block 35 3 ff6989c8
+block 35 4 ffb0a527
+block 35 5 ff41ad38
+block 35 6 ffcf8398
+block 35 7 ff404040
+block 35 8 ff9aa0a0
+block 35 9 ff2e6e88
+block 35 10 ff7e3db5
+block 35 11 ff2e388c
+block 35 12 ff4e321f
+block 35 13 ff34461b
+block 35 14 ff963330
+block 35 15 ff191616
+block 36 * ff88653c
+block 37 * 60ffff00
+block 38 * 60ff0000
+block 39 * 19896853
+block 40 * 21c13336
+block 41 * ffe2ce24
+block 42 * ffeaeaea
+block 43 * ff885547
+block 43 0 ffa0a0a0
+block 43 1 ffdad29e
+block 43 2 ffaf8d5a
+block 43 3 ff7e7e7e
+block 43 5 ff797979
+block 43 6 ff2d161a
+block 43 7 ffd5d1c2
+block 43 8 ffa0a0a0
+block 43 9 ffdad29e
+block 43 10 ffaf8d5a
+block 43 11 ff7e7e7e
+block 43 13 ff797979
+block 43 14 ff2d161a
+block 43 15 ffd5d1c2
+block 44 * ff885547
+block 44 0 ffa0a0a0
+block 44 1 ffdad29e
+block 44 2 ffaf8d5a
+block 44 3 ff7e7e7e
+block 44 5 ff797979
+block 44 6 ff2d161a
+block 44 7 ffd5d1c2
+block 44 8 ffa0a0a0
+block 44 9 ffdad29e
+block 44 10 ffaf8d5a
+block 44 11 ff7e7e7e
+block 44 13 ff797979
+block 44 14 ff2d161a
+block 44 15 ffd5d1c2
+block 45 * ff885547
+block 46 * ff8b584a
+block 47 * ffaf8d5a
+block 48 * ff737e73
+block 49 * ff312a52
+block 50 * 13826a3d
+block 51 * 49909090
+block 52 * 9b1f2d38
+block 53 * ffaf8d5a
+block 54 * ffaf8d5a
+block 55 * 27f3f3f3
+block 56 * ff7c949b
+block 57 * ff1ac2b4
+block 58 * ff815735
+block 59 * a6506306
+block 59 0 0408a702
+block 59 1 0d179804
+block 59 2 29258f05
+block 59 3 4c308406
+block 59 4 6a317706
+block 59 5 7c3b7107
+block 59 6 8b517406
+block 60 * ff4c280e
+block 60 0 ff774e2f
+block 61 * ff4e4e4e
+block 62 * ff4e4e4e
+block 63 * ffaf8d5a
+block 64 * ff896834
+block 65 * 8f7d6237
+block 66 * 657b705d
+block 66 0 8f796c58
+block 66 1 8f796c58
+block 66 2 8f796c58
+block 66 3 8f796c58
+block 66 4 8f796c58
+block 66 5 8f796c58
+block 67 * ff7e7e7e
+block 68 * ffaf8d5a
+block 69 * 13675740
+block 70 * ff666666
+block 71 * ffa4a4a4
+block 72 * ffaf8d5a
+block 73 * ff855555
+block 74 * ff855555
+block 75 * 135c3f28
+block 76 * 17945430
+block 77 * ff666666
+block 78 * ffeffbfb
+block 79 * 9f7aabff
+block 80 * ffeffbfb
+block 81 * c30e6d1a
+block 82 * ff9fa5b1
+block 83 * 8795c165
+block 84 * ff734e3b
+block 85 * ffaf8d5a
+block 86 * ffcc7e17
+block 87 * ff62282a
+block 88 * ff554134
+block 89 * ff927646
+block 90 * c05a0cc1
+block 91 * ffcc7e17
+block 92 * c3e5d2d3
+block 93 * ff989494
+block 94 * ffa19494
+block 95 0 67fdfdfd
+block 95 1 67d77d31
+block 95 2 67b14ad7
+block 95 3 676598d7
+block 95 4 67e6e631
+block 95 5 677dcc18
+block 95 6 84ed7ca2
+block 95 8 67989898
+block 95 9 674a7d98
+block 95 10 677d3db1
+block 95 11 67314ab1
+block 95 12 67654a31
+block 95 13 67657d31
+block 95 14 67ff343d
+block 95 15 67181818
+block 96 * db82602f
+block 97 * ff666666
+block 97 1 ff7e7e7e
+block 97 2 ff797979
+block 97 3 ff72766a
+block 97 4 ff767676
+block 97 5 ff747474
+block 98 * ff797979
+block 98 1 ff72766a
+block 98 2 ff767676
+block 98 3 ff747474
+block 99 * ff8e6b53
+block 99 0 ffd0af7c
+block 99 10 ffd0af7c
+block 99 11 ffd0af7c
+block 99 12 ffd0af7c
+block 99 13 ffd0af7c
+block 99 15 ffd1cdc3
+block 100 * ffb82e2d
+block 100 0 ffd0af7c
+block 100 10 ffd0af7c
+block 100 11 ffd0af7c
+block 100 12 ffd0af7c
+block 100 13 ffd0af7c
+block 100 15 ffd1cdc3
+block 101 * 736f6d6b
+block 103 * ff959724
+block 104 0 13009700
+block 104 1 13129202
+block 104 2 13258d04
+block 104 3 13388807
+block 104 4 134b8409
+block 104 5 135e7f0b
+block 104 6 13717a0e
+block 104 7 13847510
+block 104 8 13007112
+block 104 9 13126c15
+block 104 10 13256717
+block 104 11 1338621a
+block 104 12 134b5e1c
+block 104 13 135e591e
+block 104 14 13715421
+block 104 15 13844f23
+block 105 0 13009700
+block 105 1 13129202
+block 105 2 13258d04
+block 105 3 13388807
+block 105 4 134b8409
+block 105 5 135e7f0b
+block 105 6 13717a0e
+block 105 7 13847510
+block 105 8 13007112
+block 105 9 13126c15
+block 105 10 13256717
+block 105 11 1338621a
+block 105 12 134b5e1c
+block 105 13 135e591e
+block 105 14 13715421
+block 105 15 13844f23
+block 106 * 82747474
+block 107 * ffaf8d5a
+block 108 * ff885547
+block 109 * ff797979
+block 110 * ff6e6368
+block 111 * 830f3c16
+block 112 * ff2d161a
+block 113 * ff2d161a
+block 114 * ff2d161a
+block 115 * cc741513
+block 115 0 2c741123
+block 115 1 7c74121a
+block 115 2 7c74121a
+block 116 * ff422c31
+block 117 * ff7c007c
+block 118 * 6f454545
+block 119 * c05a0cc1
+block 120 * ff607b64
+block 121 * ffc4cf8a
+block 122 * ff0c090f
+block 123 * ff131a1d
+block 124 * ff2b3c51
+block 125 * ffaf8d5a
+block 125 1 ff765732
+block 125 2 ffcbbf84
+block 125 3 ffa57755
+block 125 4 ff822700
+block 125 5 ff49321f
+block 125 9 ff765732
+block 125 10 ffcbbf84
+block 125 11 ffa57755
+block 125 12 ff822700
+block 125 13 ff49321f
+block 126 * ffaf8d5a
+block 126 1 ff765732
+block 126 2 ffcbbf84
+block 126 3 ffa57755
+block 126 4 ff822700
+block 126 5 ff49321f
+block 126 9 ff765732
+block 126 10 ffcbbf84
+block 126 11 ffa57755
+block 126 12 ff822700
+block 126 13 ff49321f
+block 127 * 819d5922
+block 128 * ffdad29e
+block 129 * ff769872
+block 130 * ff312a52
+block 131 * 2d897f70
+block 132 * 1b818181
+block 133 * ff46e272
+block 134 * ff765732
+block 135 * ffcbbf84
+block 136 * ffa57755
+block 137 * ff7c007c
+block 138 * ff74e8e9
+block 139 * ff7e7e7e
+block 139 1 ff737e73
+block 140 * 31774233
+block 141 * 4d118f01
+block 141 0 0400b612
+block 141 1 0400b612
+block 141 2 0f00bc13
+block 141 3 0f00bc13
+block 141 4 2700c712
+block 141 5 2700c712
+block 141 6 2700c712
+block 142 * 6718ae21
+block 142 0 0400b612
+block 142 1 0400b612
+block 142 2 0f00bc13
+block 142 3 0f00bc13
+block 142 4 2700c712
+block 142 5 2700c712
+block 142 6 2700c712
+block 143 * ffaf8d5a
+block 144 * ff554134
+block 145 * 9f464242
+block 145 0 9f454242
+block 145 1 9f454242
+block 145 2 9f454242
+block 145 3 9f454242
+block 145 12 9f454242
+block 145 13 9f454242
+block 145 14 9f454242
+block 145 15 9f454242
+block 146 * ffaf8d5a
+block 147 * ffe2ce24
+block 148 * ffeaeaea
+block 149 * ffbcb7b4
+block 149 0 ff7b7b78
+block 149 1 ff7b7b78
+block 149 2 ff7b7b78
+block 149 3 ff7b7b78
+block 149 4 ff7b7b78
+block 149 5 ff7b7b78
+block 149 6 ff7b7b78
+block 149 7 ff7b7b78
+block 150 * ffbcb7b4
+block 151 * ff877862
+block 152 * ffab1c09
+block 153 * ff6b4b46
+block 154 * 6f454545
+block 155 * ffd5d1c2
+block 155 1 ffd1cec7
+block 155 2 ffd0ccc3
+block 155 3 ffd1cdc6
+block 155 4 ffd1cdc6
+block 156 * ffd5d1c2
+block 157 * 9b675247
+block 157 8 9b8a5347
+block 157 9 9b8a5347
+block 157 10 9b8a5347
+block 157 11 9b8a5347
+block 157 12 9b8a5347
+block 157 13 9b8a5347
+block 157 14 9b8a5347
+block 157 15 9b8a5347
+block 158 * ff4e4e4e
+block 158 1 ff5d5d5d
+block 158 9 ff5d5d5d
+block 159 0 ffefd1a1
+block 159 1 ffb65d37
+block 159 2 ffa159a2
+block 159 3 ff748fe4
+block 159 4 ffeabc4c
+block 159 5 ffb8b842
+block 159 6 fff4a1a1
+block 159 7 ff836057
+block 159 8 ffb39081
+block 159 9 ff5d84a3
+block 159 10 ff845299
+block 159 11 ff4b5aab
+block 159 12 ff92553a
+block 159 13 ff8f8f2e
+block 159 14 ff983e30
+block 159 15 ff583535
+block 160 0 67fdfdfd
+block 160 1 67d77d31
+block 160 2 67b14ad7
+block 160 3 676598d7
+block 160 4 67e6e631
+block 160 5 677dcc18
+block 160 6 84ed7ca2
+block 160 8 67989898
+block 160 9 674a7d98
+block 160 10 677d3db1
+block 160 11 67314ab1
+block 160 12 67654a31
+block 160 13 67657d31
+block 160 14 67ff343d
+block 160 15 67181818
+block 161 * ff1b4609
+block 162 * ff3a2d19
+block 162 0 ff996541
+block 162 1 ff614e31
+block 162 2 ff996541
+block 162 3 ff614e31
+block 162 4 ff84481b
+block 162 6 ff84481b
+block 162 8 ff84481b
+block 162 10 ff84481b
+block 162 12 ff84481b
+block 162 14 ff84481b
+block 163 * ff822700
+block 164 * ff49321f
+block 170 * ffa48312
+block 170 0 ffa78b10
+block 170 1 ffa78b10
+block 170 2 ffa78b10
+block 170 3 ffa78b10
+block 171 0 ffdcdcdc
+block 171 1 ffda7c3e
+block 171 2 ffb350bc
+block 171 3 ff6989c8
+block 171 4 ffb0a527
+block 171 5 ff41ad38
+block 171 6 ffcf8398
+block 171 7 ff404040
+block 171 8 ff9aa0a0
+block 171 9 ff2e6e88
+block 171 10 ff7e3db5
+block 171 11 ff2e388c
+block 171 12 ff4e321f
+block 171 13 ff34461b
+block 171 14 ff963330
+block 171 15 ff191616
+block 172 * ffb9724b
+block 173 * ff1d1d1c
+block 174 * ffa4c2f6
+block 175 * 1b416d2b
+block 175 1 5a888e7e
+block 175 2 54777777
+block 175 3 9e787878
+block 175 4 b9453a04
+block 175 5 8b355739
+block 1923 * ff000000
+block 1924 * ff000000
+block 1926 * ff000000
+block 1962 * ff000000
+block 2164 * ff000000
+block 2177 * ff000000
+block 2200 * ff000000
+block 2204 * ff000000
+block 3257 * ff000000
+block 3258 * ff000000
+block 3259 * ff000000
+block 3272 * ff000000
+block 3278 * ff000000

@@ -1,0 +1,10 @@
+Method: Unpark CPU : http://www.mediafire.com/file/qqx2gdk9xic2aiz/Unpark-CPU-App.zip/file
+Wait until the CPU Status is checked, then unpark all of them.
+
+Method: MSIAfterburner http://www.mediafire.com/file/ggej6t97fam64sz/MSIAfterburnerSetup.zip/file
+Configure settings until you're comftorable but don't max anything out or you'll pc will fuck up
+
+Method: Go to task manager and right click java, run as high. 
+
+If these methods aren't sufficient add one of the discords (jordan#2699 , dev#1932) and 
+more methods will be given :D

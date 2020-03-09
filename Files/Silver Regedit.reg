@@ -1,0 +1,19 @@
+Windows Registry Editor Version 5.00
+
+;Leak by Avalon
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00004410
+"Size"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network card interface name}]
+"TcpWindowsSize"=dword: 'Custom Value'
+"GlobalMaxTcpWindowsSize"=dword: 'Custom Value'
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"GlobalMaxTcpWindowsSize"=dword: 'Custom Value'
+"MTU"=dword:  'Custom Value'

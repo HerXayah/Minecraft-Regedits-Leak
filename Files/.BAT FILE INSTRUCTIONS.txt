@@ -1,0 +1,9 @@
+1. When opening the .bat file make sure to run it as administrator, if an windows defender
+prevents you from doing so, click more info, and run anyway. The file is not a rat and you
+can scan and look at the code yourself.
+
+2. After doing so, wait for every line of code to process, then click any key you wish.
+
+3. If you wish to close the file all you have to do is click a key again.
+
+4. ENJOY :D <3

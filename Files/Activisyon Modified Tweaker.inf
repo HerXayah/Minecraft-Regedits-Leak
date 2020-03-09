@@ -1,0 +1,17 @@
+[Version]
+signature=PRINNCE
+
+[DefaultInstall]
+DelReg=Delete_Old_Tweaks
+AddReg=Add_SpeedGuide_Tweaks
+
+[Delete_Old_Tweaks]
+HKLM,System\CurrentControlSet\Services\Tcpip\Parameters,TcpDelAckTicks
+HKLM,System\CurrentControlSet\Services\Tcpip\Parameters,TcpAckFrequency
+HKLM,System\CurrentControlSet\Services\VxD\MSTCP,DefaultTTL
+HKLM,System\CurrentControlSet\Services\ICSharing\Settings\General,InternetMTU
+
+[Add_SpeedGuide_Tweaks]
+HKLM,System\CurrentControlSet\Services\Tcpip\Parameters,TcpDelAckTicks,0,"0"
+HKLM,System\CurrentControlSet\Services\VxD\MSTCP,DefaultTTL,0,"64"
+HKLM,System\CurrentControlSet\Services\Tcpip\Parameters,TcpAckFrequency,0,"12"

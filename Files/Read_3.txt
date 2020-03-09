@@ -1,0 +1,3 @@
+Put "Swampie Regedit Tweaker" in your mods folder.
+This will only work with one of MY Regedits from http://regedit.tech/
+I don't take credit for the Tweaker, I do for the mod.

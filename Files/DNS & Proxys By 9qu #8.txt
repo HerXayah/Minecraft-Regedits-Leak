@@ -1,0 +1,40 @@
+Proxy:
+
+Ctlserv:151.80.110.144
+Kohi:kohi.rip
+
+BITS:
+
+REALTIME: AIR knockback better for str8line
+Normal : normal ^_^
+Lower : Best for strafe/fighting laggers players
+
+DNS:
+
+Ctlserv
+190.202.81.115
+81.241.235.214
+
+Kohi.eu
+134.247.141.18
+81.241.235.214
+
+Ctlserv/Badlion.eu
+80.10.246.2
+80.10.246.129
+
+Dns lag op reach verzide 3 pot 2 time qwith them
+158.69.57.22
+200.13.137.78
+
+Dns anti-Sheniiks/DagoldBrick/Kalipsotek/Moterb. and other ppl who has op laggy reach
+8.8.8.8
+8.8.4.4
+
+DNS for LA hosts
+208.67.222.222
+208.67.222.220
+
+DNS for CA hosts
+192.95.48.17
+192.99.5.38

@@ -1,0 +1,106 @@
+invertYMouse:false
+mouseSensitivity:0.3309859
+fov:-0.2
+gamma:0.0
+saturation:0.0
+renderDistance:8
+guiScale:2
+particles:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+maxFps:260
+fboEnable:true
+difficulty:3
+fancyGraphics:false
+ao:0
+clouds:true
+resourcePacks:["32x Red.zip","§fCory §5Block §7Overlay.zip","! Clear Blocks.zip","! ! RSMB ! !.zip","!Clear Glass Overlay.zip"]
+lastServer:eu.minemen.club
+lang:en_us
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+snooperEnabled:true
+fullscreen:true
+enableVsync:false
+hideServerAddress:false
+advancedItemTooltips:true
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:false
+chatHeightFocused:0.5140845
+chatHeightUnfocused:0.6549296
+chatScale:1.0
+chatWidth:0.5070422
+showInventoryAchievementHint:false
+mipmapLevels:4
+anisotropicFiltering:1
+streamBytesPerPixel:0.5
+streamMicVolume:1.0
+streamSystemVolume:1.0
+streamKbps:0.5412844
+streamFps:0.31690142
+streamCompression:1
+streamSendMetadata:true
+streamPreferredServer:
+streamChatEnabled:0
+streamChatUserFilter:0
+streamMicToggleBehavior:0
+forceUnicodeFont:false
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:44
+key_key.left:16
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:30
+key_key.inventory:18
+key_key.chat:28
+key_key.playerlist:15
+key_key.pickItem:-98
+key_key.command:53
+key_key.screenshot:60
+key_key.togglePerspective:-96
+key_key.smoothCamera:62
+key_key.sprint:58
+key_key.streamStartStop:64
+key_key.streamPauseUnpause:65
+key_key.streamCommercial:0
+key_key.streamToggleMic:0
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:20
+key_of.key.zoom:-97
+key_Hide / Unhide Coords:75
+key_Change Coords Screen Position:79
+key_Copy Coords to Clipboard:71
+key_Hide / Unhide Timer:76
+key_Start / Stop Timer:83
+key_Reset Timer to Zero:82
+key_Change Timer Screen Position:80
+key_Hide / Unhide FPS:77
+key_Change FPS Screen Position:81
+soundCategory_master:0.0397351
+soundCategory_music:0.0
+soundCategory_record:1.0
+soundCategory_weather:0.0
+soundCategory_block:1.0
+soundCategory_hostile:0.5070422
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_ambient:1.0

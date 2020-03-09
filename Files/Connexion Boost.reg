@@ -1,0 +1,30 @@
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\DnsClient]
+"EnableMulticast"=dword:0000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters]
+
+"DefaultTTL"=dword:00000040
+"KeepAliveTime"=dword:006ddd00
+"MaxUserPort"=dword:0000fffe
+"QualifyingDestinationThreshold"=dword:00000003
+"SynAttackProtect"=dword:00000001
+"Tcp1323Opts"=dword:00000001
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"TcpMaxDataRetransmissions"=dword:00000005
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:0000001
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:a
+"MaxConnectionsPer1_0Server"=dword:a
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultReceiveWindow=dword:15e00
+"DefaultSendWindow"=dword:bb800
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\Tcpip\Parameters]
+"EnableICMPRedirect"=dword:00000000

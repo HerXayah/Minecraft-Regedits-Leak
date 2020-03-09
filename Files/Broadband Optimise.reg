@@ -1,0 +1,14 @@
+REGEDIT
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\lanmanserver\parameters]
+"SizReqBuf"=dword:0000ffff
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TCPDelAckTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+"TcpAckFrequency"=dword:00000001
+"MaxUserPort"=dword:00065534
+"TcpMaxConnectRetransmissions"=dword:00000003

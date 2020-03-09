@@ -1,0 +1,20 @@
+Windows Registry Editor Version 5.00
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpAckFrequency"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000005
+"TCPDelAckTicks"=dword:00000000
+"Tcp1323Opts"=dword:00000001
+"MaxFreeTcbs"=dword:00065536 //
+"MaxUserPort"=dword:00065534 //
+"DefaultTTL"=dword:00000064  //
+"GlobalMaxTcpWindowSize"=dword:00065535	//
+"MaxConnectionsPerServer"=dword:00000016  //
+"MaxConnectionsPer1_0Server"=dword:00000016 //
+"IRPStackSize"=dword:00000032 //
+"SackOpts"=dword:00000001
+"TcpWindowSize"=dword:0005ae4c //
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000

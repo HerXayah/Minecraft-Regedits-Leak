@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+"CPU_Processor_CORE_LEVELS"=hex(b):ff,67,5f,51,00,00,00,00
+"x64_aRM_Level"=hex(b):00,00,70,00,00,00,00,00
+"MaxLOM_Channels"=hex(b):d4,30,00,00,00,00,00,00

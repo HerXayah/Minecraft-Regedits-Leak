@@ -1,0 +1,33 @@
+
+DNS IPV6
+
+0: 0: 0: 0: 0: ffff: 4624: 5 = Favorite
+0: 0: 0: 0: 0: ffff: 4624: 6 = Auxiliary
+
+
+- At the bottom right click on "Advanced" and then go to "DNS" at the top and adds all Dns below:
+
+2001: 4860: 4860 :: 8888
+2001: 4860: 4860 :: 8844
+0: 0: 0: 0: 0: ffff: b00a: 7d20
+0: 0: 0: 0: 0: ffff: 2e0e: f7e1
+2a02: 6B8 :: feed: 0ff
+2a02: 6B8: 0: 1 :: feed: 0ff
+2620: 0: ccc :: 2
+2620: 0: ccd :: 2
+2A00: 5881: 81: 81: 8100: 1000 :: 3
+2001: 418: 3H :: 1: 53
+2A01: 6e00: 10: 401 :: 56
+2A01: 6e00: 10: 401 :: 57
+
+- Then check:
+- "Append primary DNS suffix and connection specific"
+- "Append parent suffixes of the primary DNS suffix" and "Save this connection's addresses in DNS"
+- "Use the DNS suffix of this connection in DNS registration"
+- Then click on "OK"
+
+- Coche "Apply settings on exit" and click "OK" and then again "OK"
+
+- Finally go to "Network and Sharing Center", "Change adapter settings" then right click on your wi-fi "Disable" when it is off the reactant
+
+Enjoy! : D

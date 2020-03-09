@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\WOW6432Node\Microsoft\DirectDraw]
+"ForceRefreshRate"=hex(b):4d,00,00,00,00,00,00,00

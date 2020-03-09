@@ -1,0 +1,126 @@
+                  /*\ Tanks For 100 subs /*\
+
+Latence/Reach/NOKB
+202.57.191.101 [Thailande]
+202.57.134.196 [Thailande]
+
+Eu/Dns/NOKB
+88.84.173.101 [Norway]
+88.84.173.106 [Norway]
+
+Ca/Dns/LaggyReach
+206.172.48.131 [Canada]
+68.144.189.136 [Canada]
+
+De/Dns/Good -> Badlion
+87.234.59.172  [Germany]
+217.91.223.105 [Germany]
+
+Ch/Dns/BetterReach
+129.194.52.85  [Suisse]
+129.194.23.223 [Suisse]
+
+Kohi/Us/BetterNoKb
+24.244.157.48  [bahamas]  
+64.115.31.138  [New York]
+
+Sarefine.eu/BestSettings
+2.229.37.152    [Italy]
+88.149.172.219 [Stefania]
+
+Ctlserv.eu/SlowKB
+135.196.214.218 [london] 
+79.132.238.130  [bruxels]
+
+Private/OpReach
+69.57.236.44  [St Lucas]
+24.92.144.12  [St Lucas]
+
+PvpLounge/BIGReach
+177.23.32.133  [Host]
+177.53.31.250  [Host]
+
+For/100ms-140ms-
+201.198.254.84  [Host]
+201.207.101.139 [Host]
+
+For/70ms-100ms-
+209.59.110.237  [Host]
+204.188.168.26  [Host]
+
+MyDnsForStrafe/lower kb
+211.21.250.213  [Paris]
+112.187.139.202 [New York]
+
+TcpvpNodelay/NOKB/OPREACH
+41.188.49.248  [Private]
+41.188.49.206  [Private]
+
+Dns,Anti opreach/lowerkb
+14.136.14.46   [Honk kong]
+12.172.192.114 [Dallas]
+
+Dns/30-40ms/VeryGood on rushy.fr
+129.250.35.251 [rushy.fr]
+129.250.35.250 [rushy.fr]
+
+Eu_Us/Dns/AllServer
+82.163.142.4  [AllServer]
+95.211.158.131[AllServer] 
+
+Dns/Nokb_on_funcraftv2/rushy.fr
+176.10.125.32 [Rush]
+46.14.247.225 [Rush]
+
+FreeDns/Good->sarefine.us/
+37.235.1.174 [FreeDNS]
+37.235.1.177 [FreeDNS]
+
+Put_it_with/pvp.wtf/nokb
+59.24.145.124 [FR]
+59.27.117.28  [USA]
+
+Than_for/UsServer/
+58.6.115.42 [Australien]
+58.6.115.43 [Australien]
+
+TheTop10/Of_my _30dns/nokb/hit/detection/
+212.82.225.7  [Deutschland]
+212.82.226.212[Deutschland]
+
+Dns/slowKB/Reach++/
+82.229.244.191 [Frankreich]
+82.229.244.191 [Tschechien]
+
+Dns/LessKnockback++
+41.79.47.6    [georgia]
+41.79.226.122 [georgia]
+
+
+Put,this dns-after,you,join/ctlserv.fr
+201.247.101.10  [BigReach]
+201.247.112.147 [BigReach]
+
+Dns/NoKb/reahcop
+212.112.105.229 [Kyrgyzstan]
+* rien *
+
+StPierre/nokb/lowkb/dnsKB
+70.36.0.5 [StPierre]
+70.36.0.6 [StPierre]
+
+
+       Sorry que 28 si tu veux les 2 autres
+       ----> Skype: venvols <-----
+
+
+
+
+
+
+
+
+
+
+
+

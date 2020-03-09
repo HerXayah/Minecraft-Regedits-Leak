@@ -1,0 +1,28 @@
+Thank  You so much for the purchase, there are few things you MUST DO before you install it
+or you wont get any support at all!
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+IF  YOU DONT DO THEASE STEPS YOU WONT GET SUPPORT!!!!
+VVVVVVVVVVVVVVV
+
+Make a system restore point!
+
+First: Go to your computers properties by right clicking this computer (this pc) and clicking properties,
+next go to system protection and click on the create button! name the restore point how ever you want!
+and click ok, let it create!
+
+HOW TO UNDO THEM IN CASE OF LAG ETC
+
+To undo the regedit settings: go to the same location as where you created it click on the system restore button
+and select the restore point you made before, and run it, it will take a little bit of time, DONT WORRY!
+i wont remove any files or settings you have nothing important will be effected!
+
+
+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+
+
+IF  YOU MADE THE RESTORE POINT AND  you need help please dm @ElFlyPvP on twitter and i will respond if you
+give me a picture of you paying the money from paypal!
+
+as long as you did all the above steps to insure you can undo it if you have issues i will help you and trubleshoot your regedit
+settings, and hopefuly get the issues resolved!
+

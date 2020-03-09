@@ -1,0 +1,25 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT]
+"%ROOT%/CPU/Paged_Pool_Mbp"=hex(b):00,05,00,00,00,00,00,00
+"basicrender.sys_Mbps"=dword:00002000
+"Freemem_dmp_"=hex(b):24,00,00,00,00,00,00,00
+"intelppm.sys_Bandwidth"=hex(b):00,00,12,00,00,00,00,00
+"intelppm.sys_Break"=hex(b):00,00,00,00,00,00,00,00
+"Internet Connection%Host-LocalHost_Bandwidth_Stepping_Bits_Per_Picosecond%"=dword:00000316
+"Internet Connection/CHAP"=hex(b):1c,23,00,00,00,00,00,00
+"Internet Connection/DELAY"=hex(b):00,00,00,00,00,00,00,00
+"Internet Connection/http_Mbps"=hex(b):80,00,00,00,00,00,00,00
+"Internet Connection/Stream Host_Start_Milliseconds"=hex(b):01,00,00,00,00,00,\
+  00,00
+"kernel32.dll/8_Bit"=hex(b):99,99,99,99,00,00,00,00
+"Memory"=hex(b):fa,6f,f4,7f,00,00,00,00
+"monitor.sys"=hex(b):00,40,02,00,00,00,00,00
+"monitor.sys_Bandwidth"=hex(b):00,00,16,00,00,00,00,00
+"monitor.sys_Mbps"=hex(b):00,40,00,00,00,00,00,00
+"Monitor_DPI"=hex(b):40,07,49,17,00,00,00,00
+"NBsetting"=hex(b):00,00,08,00,00,00,00,00
+"PCI Express ROOT COMPLEX/DELAY_Nanoseconds"=hex(b):02,00,00,00,00,00,00,00
+"SATA 300/600"=hex(b):90,ff,a6,ff,09,00,00,00
+"Task_Commands"=hex(b):00,09,00,00,00,00,00,00
+"Users"=hex(b):22,ac,f8,48,00,00,00,00﻿

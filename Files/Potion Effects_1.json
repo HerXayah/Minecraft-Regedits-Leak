@@ -1,0 +1,19 @@
+{
+  "name": "Potion Effects",
+  "enabled": true,
+  "location": {
+    "pos": "RIGHT_TOP",
+    "translation": {
+      "x": -3,
+      "y": 78
+    }
+  },
+  "properties": {
+    "Show In Chat": true,
+    "Effect Name": true,
+    "Blink": true,
+    "Blink Duration": 10,
+    "Name Color": "f",
+    "Duration Color": "f"
+  }
+}

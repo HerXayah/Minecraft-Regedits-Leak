@@ -1,0 +1,42 @@
+@Copyright RoyAL
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+                               THE RWIN
+
+What is RWIN ??? => http://prntscr.com/hui74c
+
+RWIN VALUES:
+
+GlobalMaxTcpWindowsSize & TcpWindowSize need to have the same value !!!
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters
+Name: GlobalMaxTcpWindowsSize
+Type: REG_DWORD
+Value: (Calculation with RoyAL RWIN Calculator)
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network card interface name (https://prnt.sc/hjf1fd)}
+Name: TcpWindowSize
+Type: REG_DWORD
+Value: (Calculation with RoyAL RWIN Calculator)
+--------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤
+
+                              THE MTU
+
+What is MTU ??? => http://prntscr.com/ia3erd
+
+MTU:
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{Network card interface name (https://prnt.sc/hjf1fd)}
+Name: GlobalMaxTcpWindowsSize
+Type: REG_DWORD
+Value: 
+english: http://www.tp-link.com/us/FAQ-190.html
+French: https://www.youtube.com/watch?v=1lOT7Gefk1E
+--------------------
+
+¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤¤

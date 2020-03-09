@@ -1,0 +1,16 @@
+REGEDITMC
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters] 
+"EnableDCA"=dword:00000001 
+"EnableWsd"=dword:00000000 
+"EnableTCPA=dword:00000001 
+"DisableTaskOffload"=dword:00000000 
+"EnableConnectionRateLimiting"=dword:00000000 
+"TcPMaxDataRetransmissions"=dword:00000005 
+"TcpNumConnections"=dword:00000500 
+"TcpTimedWaitDelay"=dword:00000019 
+"SynAttackProtect"=dword:00000001 
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000 

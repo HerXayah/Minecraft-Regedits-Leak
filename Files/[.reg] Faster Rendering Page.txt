@@ -1,0 +1,21 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"SmoothScroll"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"SmoothScroll"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"SmoothScroll"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"SmoothScroll"=dword:00000001

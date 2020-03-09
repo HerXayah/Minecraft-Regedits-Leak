@@ -1,0 +1,14 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TCPDelAckTicks"=dword:00000000
+"Tcp1323Opts"=dword:00000001
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"DefaultTTL"=dword:00000064
+"MSS"=dword:000005b4
+"GlobalMaxTcpWindowSize"=dword:0003ebc0
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MTU"=dword:000005dc
+"IRPStackSize"=dword:00000032

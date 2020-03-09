@@ -1,0 +1,4 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\HARDWARE\DESCRIPTION\System\CentralProcessor]
+"CentralProcessor:Interrupt:Vector=00:Level=16:Affinity=CPU:Type=buffer"=dword:00002000

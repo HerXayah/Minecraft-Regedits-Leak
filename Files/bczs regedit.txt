@@ -1,0 +1,13 @@
+http://www.mediafire.com/file/u723w0nxurk9hlq/bcz_misplace_regedit.reg
+
+1. Copy and paste the link into your browser and download the regedit.
+
+2. Once you downloaded the regedit open it and run it.
+
+3. Once you have ran the regedit restart your computer.
+
+Another way to get smooth hits / kb is BITS. (Realtime)
+Recommended: If you do not know how to do it, run this file and it will do it for you:
+http://www.mediafire.com/file/8sk7zkl796cyg3e/bcz_misplace_batch.bat
+
+If you need help contact me on twitter or discord @bczgod. bcz#2337 (discord) // @sikegg. combos#7798 (discord) // iot#9856 (discord)

@@ -1,0 +1,2 @@
+To install the Regedit into your computer, all you have to do is run the Auto Regedit file. It will ask you if you want to allow this app to make changes, click yes and another box will popup, click yes to that as well and there you go! You have installed the custom regedit. for the DNS, there is a tutorial on how to use it here : https://www.youtube.com/watch?v=pwxvQBiAM5c
+you can contact me through my email : vqyyyy@gmail.com or direct message me on twitter @SwampieHacks. Enjoy :)

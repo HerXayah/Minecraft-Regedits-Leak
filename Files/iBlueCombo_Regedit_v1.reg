@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters]
+"TcpNoDelay"=dword:2
+"TCPDelAckTicks"=dword:0
+"TcpAckFrequency"=dword:1
+"Tcp1323Opts"=dword:3
+"MTU"=dword:1498
+"MSS"=dword:1458

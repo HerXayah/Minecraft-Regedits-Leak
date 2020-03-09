@@ -1,0 +1,15 @@
+Requis: Forge 1.7.10 / Lien: ( http://adfoc.us/serve/?id=27122857155424 )
+
+1. Installer Forge 1.7.10
+2. Faire "Windows"+"R"
+3. Taper "%appdata%"
+4. Aller dans le dossier "Java" pas le ".minecraft"
+5. Mettre le fichier "lib" dans le "Java"
+6. Placer le Mod "[1.7.10]bspkrsCore-universal-6.16" dans le dossier "mod".
+7. Lancer le jeu avec la version de forge 1.7.10
+8. En jeu, pour ouvrir le menu du Spooky Client, appuyer sur "!".
+
+/!\  Il est conseillé de mettre plusieurs mods tel que "ToggleSneak", "Armor Status" et d'autres dans votre dosser "mods". /!\
+
+
+Remarque: Lors du "Self Destruct" le fichier "lib" est automatiquement supprimé.

@@ -1,0 +1,18 @@
+{
+  "name": "VoiceChat",
+  "enabled": true,
+  "location": {
+    "pos": "LEFT_MIDDLE",
+    "translation": {
+      "x": 2,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Volume": 75.0,
+    "Microphone": "Primary Sound Capture Driver",
+    "Speaker": "Primary Sound Driver",
+    "Channels": "Local",
+    "Transmitting text": true
+  }
+}

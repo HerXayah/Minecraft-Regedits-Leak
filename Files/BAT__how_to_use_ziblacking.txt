@@ -1,0 +1,52 @@
+--------------------------------------------------------------
+All credits to @Ziblacking 
+The best for the servers style like : eu.potpvp.vip / Lounge
+Improuve your game smooth / make your pot go faster so less potlag and advantage in the most other FPS games
+Make you take less knoockback / make you biggest reach useless 8blocking combos 
+a little demonstration : https://www.youtube.com/watch?v=1B4Z9RdHODE
+
+(BUY "SMOOTH GAME AND BETTER PING" THING + "LAGSOFTWARE" FOR THE BEST EXPERICEN AS POSSIBLE)
+
+
+-------------------------------------------------------------
+
+
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+---> PLEASE RESPECT ME AND DON'T SHARE IT I TOOK OVER 5 YERS FOR FIND ALL OF THAT <---
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+--------------------------------------------------------------
+
+
+-MTU .BAT 
+
+-DOWNLOAD : http://www.mediafire.com/file/nxv3be6xbkugo7g/MTU.bat
+
+1. Open CMD
+2. do "ping 8.8.8.8 -f -l 1472" and put the Number down until get that http://prntscr.com/isann7
+3. So we get the MTU right now edit the .bat http://prntscr.com/isao28
+4. Change the MTU value http://prntscr.com/isao7t
+5. Open the MTU.BAT ad ADMINITRATOR http://prntscr.com/isaony
+6. done enjoy the game
+
+--------------------------------------------------------------
+
+-Enthernet .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/6habra8rxr6r99x/enthernet.bat
+
+1. Open as ADMIN http://prntscr.com/isapxk only one tiime
+2. done
+
+--------------------------------------------------------------
+
+-BITS .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/869ry1ywculkno0/BITS.bat
+
+1. Open as administrator every time you play and keep it open http://prntscr.com/isaqf2
+2. https://youtu.be/_IA4b2Hb8nQ
+3. Done enjoy your game :)
+
+&. 

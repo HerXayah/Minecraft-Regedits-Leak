@@ -1,0 +1,32 @@
+Instructions:
+
+------------------------------------------------------------------------
+
+Interfaces and values:
+(extremely updated and acquired) (put these in ALL interfaces)
+TcpDelAckTicks 2 DWORD
+TcpAckFrequency 1 DWORD
+TCPNoDelay 1 DWORD
+MTU - 100 DWORD
+MSS - 100 DWORD 
+MaxUserPort - 1 DWORD 
+DefaultTTL - 114 DWORD
+NetTick - 10
+
+------------------------------------------------------------------------
+
+(Written instructions if you don't know how to add regedit)
+
+1. Open up run (Windows Key + R) and type "regedit" (without quotes, and note that everything afterwards that is surrounded by quotes should be removed too) and then hit enter
+2. Go to the path "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces"
+3. For each folder under Interfaces, you need to do steps 4 and 5. Please note three things:
+ If the DWORD registry key is already there, just make sure it is set to the correct value. Capitalization MaTtErS, if you do not type the values with the EXACT correct capitalization, 
+it WILL NOT WORK. Do NOT, I REPEAT DO NOT, EDIT/DELETE ANYTHING I DO NOT TELL YOU TO TOUCH.
+4. Create two "DWORD" registry keys called "TcpAckFrequency" and "TCPNoDelay"
+How to create new DWORD registry keys - https://i.imgur.com//Zdi6d98.png
+5. Double-click on each new registry key and change the value from "0" to "1"(base hexadecimal)
+Examples of editing them (double click on the name or right click on the name and hit modify… - MAKE SURE YOU ARE USING HEXADECIMAL) - https://i.imgur.com//LIlPMOm.png https://i.imgur.com//OoMJKMS.png
+6. Confirm that you have done these keys ( https://i.imgur.com//3hRs3V2.png ) for all subfolders of the Interfaces folder (I have 4, you could have anywhere from 1 to 100. Also note that some of these might have nothing in them) 
+- https://i.imgur.com//LscZ34O.png
+7. Restart your computer (this is VERY important - these won't activate until you do so as most registry updates don't actually activate until windows reloads.
+ If you've ever wondered why you are asked to restart after installing a program - this is why)

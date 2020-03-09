@@ -1,0 +1,265 @@
+Windows Registry Editor Version 5.00
+
+;Z0Kya TcpIp
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{E30A87DB-183D-4028-B28F-2A7ADC705EAB}]
+"UseZeroBroadcast"=dword:ff
+"TCPNoDelay"=dword:1
+"TcpAckFrequency"=dword:5
+"TcpDelAckTicks"=dword:0
+"TcpWindowSize"=dword:92649
+"TcpInitialRTT"=dword:7fff
+"NameServer"="8.8.8.8,8.8.4.4"
+"MTU"=dword:5DC
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"DefaultTTL"=dword:FF
+"Tcp1323Opts"=dword:1
+"TcpTimedWaitDelay"=dword:1e
+"TcpMaxDupAcks"=dword:2
+"TcpFinWait2Delay"=dword:1e
+"TcpUseRFC1122UrgentPointe"=dword:0
+"TcpMaxDataRetransmissions"=dword:1
+"TcpMaxConnectRetransmissions"=dword:2
+"TcpMaxConnectResponseRetransmissions"=dword:2
+"TcpMaxSendFree"=dword:ffff
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:0
+"SynAttackProtect"=dword:1
+"SackOpts"=dword:1
+"StrictTimeWaitSeqCheck"=dword:1
+"NumTcbTablePartitions"=dword:8
+"MaxFreeTcbs"=dword:ffff
+"MaxUserPorts"=dowrd:fffe
+"MaxHashTableSize"=dword:10000
+"GlobalMaxTcpWindowSize"=dword:92649
+"EnableConnectionRateLimiting"=dword:0
+"EnableTCPA"=dword:1
+"EnablePMTUBHDetect"=dword:1
+"EnablePMTUDiscovery"=dword:1
+"EnableDeadDWDetect"=dword:1
+"DisableTaskOffload"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\QoS]
+Do not use NLA="1"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"Class"=dword:8
+"DnsPriority"=dword:6
+"HostsPriority"=dword:5
+"LocalPriority"=dword:4
+
+
+
+
+
+;Z0Kya MSMQ
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:00000001
+"IgnoreOSNameValidation"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\OCMsetup]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\Security]
+"SecureDSCommunication"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\setup]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Setup]
+
+
+
+
+
+;Z0Kya Fast Web
+[HKEY_LOCAL_MACHINE\Software\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+
+[HKEY_USERS\.DEFAULT\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:10
+"MaxConnectionsPer1_0Server"=dword:10
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"DisableBandwidthThrottling"=dword:00000001
+"DisableLargeMtu"=dword:00000000
+"MaxCmds"=dword:0000001e
+"MaxThreads"=dword:0000001e
+"MaxCollectionCount"=dword:00000020
+"KeepConn"=dword:00015180
+
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"EnableDynamicBacklog"=dwordd:00000001	
+"MinimumDynamicBacklog"=dwordd:00000020
+"MaximumDynamicBacklog"=dwordd:00001000
+"DynamicBacklogGrowthDelta"=dwordd:00000020
+"KeepAliveInterval"=dwordd:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000010
+"DnsCacheEnabled"=dword:00000001
+"DnsCacheEntries"=dword:00000200
+"DnsCacheTimeout"=dword:00015180
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+"MaxCacheEntryTtlLimit"=dword:0000fa00
+"MaxSOACacheEntryTtlLimit"=dword:0000012d
+"NegativeCacheTime"=dword:00000000
+"NetFailureCacheTime"=dword:00000000
+"NegativeSOACacheTime"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"SizReqBuf"=dword:0000ffff
+
+;Z0Kya Balloons 
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"EnableBalloonTips"=dword:00000000
+
+
+
+
+
+;Z0Kya Mouse
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseSensitivity"="10"
+"SmoothMouseXCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	C0,CC,0C,00,00,00,00,00,\
+	80,99,19,00,00,00,00,00,\
+	40,66,26,00,00,00,00,00,\
+	00,33,33,00,00,00,00,00
+"SmoothMouseYCurve"=hex:\
+	00,00,00,00,00,00,00,00,\
+	00,00,38,00,00,00,00,00,\
+	00,00,70,00,00,00,00,00,\
+	00,00,A8,00,00,00,00,00,\
+	00,00,E0,00,00,00,00,00
+
+[HKEY_USERS\.DEFAULT\Control Panel\Mouse]
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+
+
+
+
+
+;Z0Kya Keyboard
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="200"
+"AutoRepeatRate"="15"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="0"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+
+
+
+
+
+;Z0Kya Shutdown And Startup
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Dfrg\BootOptimizeFunction]
+"OptimizeComplete"="No"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"IoPageLockLimit"=dword:000F0000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NtfsDisableLastAccessUpdate"=dword:00000001
+"NtfsDisable8dot3NameCreation"=dword:00000001
+"Win95TruncatedExtensions"=dword:00000001
+"Win31FileSystem"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\CrashControl]
+"AutoReboot"=dword:00000000
+
+
+
+
+
+;Z0Kya Frame Booster
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000001
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Low Latency]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Latency Sensitive"="True"
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000002
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="True"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000002
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio]
+
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000005
+"Affinity"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"AlwaysUnloadDll"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"IRQ8Priority"=dword:00000001

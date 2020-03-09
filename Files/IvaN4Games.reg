@@ -1,0 +1,27 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\OfficialHawk\Minecraft]
+"Version"="1.7.10"
+"Path"="C:\\USER\\AppData\\Roaming\\.minecraft\\versions\\"
+"TcpAckFrequency"=dword:00000000
+"MTU"=dword:5DC
+"MSS"=dword:5C0
+"DefaultTTL"=dword:00000064
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:650
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000000
+"TcpMaxDupAcks"=dword:00000003
+"GlobalMaxTcpWindowSize"=dword:0036005f
+"MTU"=dword:5DC
+"MSS"=dword:5C0
+"MaxUserPort"=dword:00065534
+"MaxHashTableSize"=dword:00001000
+"TcpTimedWaitDelay"=dword:0000001e
+"DisableTaskOffload"=dword:00000001
+"EnableWsd"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpAckFrequency"=dword:650

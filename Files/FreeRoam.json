@@ -1,0 +1,13 @@
+{
+  "name": "FreeRoam",
+  "enabled": false,
+  "location": {
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {
+    "Roam Speed": 5.0
+  }
+}

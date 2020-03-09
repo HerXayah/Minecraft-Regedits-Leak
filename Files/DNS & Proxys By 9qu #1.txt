@@ -1,0 +1,50 @@
+Better Connection :
+
+212.73.209.34
+
+212.73.209.35
+
+
+Ziblackinggg less kb :
+
+208.67.222.222
+
+208.67.220.220
+
+
+S9_ Reach OP :
+
+x.x.x.x
+
+
+DNS Latence :
+
+195.46.39.39
+
+195.46.39.40
+
+
+Proxy CTL ? :
+
+151.80.110.144
+
+
+Usually results in no KB :
+
+198.50.145.155
+
+192.34.38.14
+
+
+Usually really good on kohi & badlion (tested)
+
+192.95.48.17
+
+192.99.5.38
+
+
+Very good on CTLServ.fr (tested)
+
+94.23.1.152
+
+93.17.89.246

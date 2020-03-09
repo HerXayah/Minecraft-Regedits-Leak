@@ -1,0 +1,1 @@
+:echo: netsh interface ip set interface "Wireless Network Connection" basereachable=60000 metric=1000 mtu=1500 routerdiscovery=disabled

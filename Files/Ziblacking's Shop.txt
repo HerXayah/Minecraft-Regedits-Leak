@@ -1,0 +1,183 @@
+--------------------------------------------------------------
+All credits to @Zibla 
+The best for the servers style like : eu.potpvp.vip / Lounge
+Improuve your game smooth / make your pot go faster so less potlag and advantage in the most other FPS games
+Make you take less knoockback / make you biggest reach useless 8blocking combos 
+a little demonstration : https://www.youtube.com/watch?v=1B4Z9RdHODE
+
+(BUY ".BAT THING" + "SOFTWARE" FOR THE BEST EXPERICEN AS POSSIBLE)
+
+
+-------------------------------------------------------------
+
+
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+---> PLEASE RESPECT ME AND DON'T SHARE IT I TOOK OVER 5 YERS FOR FIND ALL OF THAT <---
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+--------------------------------------------------------------
+
+
+[advice factory reset your computer before do all things for BETTER experience]
+
+
+--------------------------------------------------------------
+
+
+-Regedit
+Put a regedit simple as possible is the best not bullshit like orilation or other trash
+Mine :  http://prntscr.com/isagdb
+Not every complicate things are the best =)
+sometimes something simple is the best one
+
+
+--------------------------------------------------------------
+
+
+Softwares to download :
+ProcessHacker (installer) https://processhacker.sourceforge.io/downloads.php
+BITS v2 : http://www.mediafire.com/file/ap8epvai97m5ubc/BITS%20v2.bat
+
+-How to use them
+
+BITS v2 :
+IMPORTANT ---> [open it as adminitrator every time when you start your pc] <--- IMPORTANT
+1. http://prntscr.com/isa2z4
+2. do nothing just let it open when you play and don't close it, it wanna improuve ur performance alot
+
+
+
+ProcessHacker :
+IMPORTANT ---> [open as administrator every time when you start your pc] <--- IMPORTANT
+
+1. Install it -> Close it -> Open it as administrator http://prntscr.com/isa397
+2. Search Javaw.exe and right click on it and follow the screens http://prntscr.com/isa51m http://prntscr.com/isa58z
+3. Look for an svchost.exe (whatever can be good) right click on it and follow the screens http://prntscr.com/isa6mj http://prntscr.com/isa6r2
+4. Let the program open(open as ADMIN) everytime when you play or it's don't work 
+
+
+---------------------------------------------------------------
+
+
+-Enthernet Configuration (make your packet send faster and less chance to be disconnected in a game)
+Follow attentively the instruction or your pc can be done with the enthernet until a "Factory Reset"
+https://www.youtube.com/watch?v=mCRRLeaWPTs
+
+
+---------------------------------------------------------------
+
+
+-Gpedit.msc (make your packet send faster)
+
+1. Do windows + R ---> tape gpedit.msc
+2. http://prntscr.com/isab7m
+3. Right click on the QOS thing and click on the first option and follow next etapes
+4. http://prntscr.com/isabvt
+5. http://prntscr.com/isac41
+6. Open CMD and do : ping "your server where you play" http://prntscr.com/isacdp
+7. Copy the IP and put it http://prntscr.com/isacwm
+8. http://prntscr.com/isad0n after doing this it's done enjoy your game :)
+
+
+
+
+
+
+
+
+
+
+
+.BAT PART
+
+--------------------------------------------------------------
+
+
+-MTU .BAT 
+
+-DOWNLOAD : http://www.mediafire.com/file/nxv3be6xbkugo7g/MTU.bat
+
+1. Open CMD
+2. do "ping 8.8.8.8 -f -l 1472" and put the Number down until get that http://prntscr.com/isann7
+3. So we get the MTU right now edit the .bat http://prntscr.com/isao28
+4. Change the MTU value http://prntscr.com/isao7t
+5. Open the MTU.BAT ad ADMINITRATOR http://prntscr.com/isaony
+6. done enjoy the game
+
+--------------------------------------------------------------
+
+-Enthernet .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/6habra8rxr6r99x/enthernet.bat
+
+1. Open as ADMIN http://prntscr.com/isapxk only one tiime
+2. done
+
+--------------------------------------------------------------
+
+-BITS .BAT
+
+-DOWNLOAD : http://www.mediafire.com/file/869ry1ywculkno0/BITS.bat
+
+1. Open as administrator every time you play and keep it open http://prntscr.com/isaqf2
+2. https://youtu.be/_IA4b2Hb8nQ
+3. Done enjoy your game :)
+
+&. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+SOFTWARE PART
+
+--------------------------------------------------------------
+All credits to @Ziblacking 
+The best for the servers style like : eu.potpvp.vip / Lounge
+Improuve your game smooth / make your pot go faster so less potlag and advantage in the most other FPS games
+Make you take less knoockback / make you biggest reach useless 8blocking combos 
+a little demonstration : https://www.youtube.com/watch?v=1B4Z9RdHODE
+
+(BUY "Smooth Game And Better Pïng" + ".BAT's" FOR THE BEST EXPERICEN AS POSSIBLE)
+
+
+-------------------------------------------------------------
+
+
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+---> PLEASE RESPECT ME AND DON'T SHARE IT I TOOK OVER 5 YERS FOR FIND ALL OF THAT <---
+     VVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVVV
+
+
+--------------------------------------------------------------
+NetLimiter : 
+
+It's the most OP application for make y ou took LESS kb and a FUCKING AMAZING REACH
+
+Download : https://www.netlimiter.com/
+
+1. Install NetLimiter
+2. Open it and set that settings http://prntscr.com/isz31r [if u fell laggy in ts or other app just disable 'HIGH' when u use other apps]
+3. When you see a shit application opend just close it (every shit application let ONLY minecraft use ENTHERNET on your pc) http://prntscr.com/isz3cz
+4. Enjoy =)
+
+--------------------------------------------------------------
+
+You Can Also use Clumsy for make you lag (is more for fun)
+
+-Download : https://jagt.github.io/clumsy/download.html
+
+
+
+
+
+

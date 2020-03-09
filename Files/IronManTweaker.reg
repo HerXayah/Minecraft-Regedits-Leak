@@ -1,0 +1,35 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpMaxDataRetransmissions"=dword:00000003
+"SackOpts"=dword:00000001
+"TcpWindowSize"=dword:0000ffff
+"Tcp1323Opts"=dword:00000000
+"DefaultTTL"=dword:00000069
+"TcpMaxDupAcks"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:0000ffff
+"MaxUserPort"=dword:000fffe
+"TcpTimedWaitDelay"=dword:0000001e
+"EnableWsd"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces\{c56551ad-1cde-11e8-ba26-806e6f6e6963}]
+"TcpNoDelay"=dword:00000001
+"TcpAckFrequency"=dword:00000001
+"MTU"=dword:000005dc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00004410
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\Psched]
+"NonBestEffortLimit"=dword:00000000
+
+
+

@@ -1,0 +1,13 @@
+End-User License Agreement (EULA)
+
+1. Terms of use
+This product can be freely used for any personal non-commercial purposes. 
+You must not decompile, disassemble or otherwise reverse engineer this product.
+
+2. Warranties
+The author does not give warranty of any kind regarding operability or 
+compatibility with your hardware and software. The author will not be liable for
+any possible damage which may result from the use of this product.
+
+3. Distribution
+The product may be freely distributed. No commercial distribution allowed.

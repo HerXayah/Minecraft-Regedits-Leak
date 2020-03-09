@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER]
+"Server/Max_Connections_Per_Server/Url_Prefetch_Mbps"=hex(b):120
+"Max_Connections_Per1_0_Server/URL_Prefetch_Mbps"=hex(b):40
+"Max_Connections_Per_Server/Delay_Milliseconds"=hex(b):0
+"Max_Connection_Per_Server/Prefetch_Delay/Milliseconds"=hex(b):1

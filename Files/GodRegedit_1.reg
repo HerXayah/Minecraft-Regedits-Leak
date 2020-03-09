@@ -1,0 +1,73 @@
+Windows Registry Editor Version 5.00
+
+bcz_godregedit Discord bcz#7594
+Any form of copyright will be highly distributed
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"DefaultTTL"=dword:00000040
+"DisableTaskOffload"=dword:00000001
+"TcpMaxDupAcks"=dword:00000002
+"TcpNumConnections"=dword:00007fff
+"TcpInitialRTT"=dword:00007fff
+"TcpCreateAndConnectTcbRateLimitDepth"=dword:00000000
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:00065535
+"TcpWindowSize"=dword:01237500
+"TcpMaxDataRetransmissions"=dword:00000003
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableWsd"=dword:00000000
+"EnableTCPA"=dword:00000000
+"EnableDCA"=dword:00000001
+"EnableRSS"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultReceiveWindow=dword:00012800
+"DefaultSendWindow"=dword:00001280
+"EnableDynamicBacklog"=dword:00000001	
+"MinimumDynamicBacklog"=dword:00000020
+"MaximumDynamicBacklog"=dword:00001000
+"DynamicBacklogGrowthDelta"=dword:00000020
+"KeepAliveInterval"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Microsoft\CurrentVersion\Internet Settings]
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"DnsCacheEnabled"=dword:00000001
+"DnsCacheEntries"=dword:00000200
+"DnsCacheTimeout"=dword:00015180
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000004
+"HostsPriority"=dword:00000005
+"DnsPriority"=dword:00000006
+"NetbtPriority"=dword:00000007
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00017424
+"Size"=dword:00000003
+"MaxMpxCt"=dword:0000007d
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"MaxCmds"=dword:0000001e
+"MaxThreads"=dword:0000001e
+"MaxCollectionCount"=dword:00000020
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"LargeSystemCache"=dword:00000000
+"IoPageLockLimit"=dword:000f0000
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Psched]
+"NonBestEffortLimit"=dword:00000000

@@ -1,0 +1,682 @@
+Windows Registry Editor Version 5.00 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"TcpAckFrequency"=dword:00000001
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001 
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpAckFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\OfficialHawk]
+"TcpAckFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\OfficialHawk\Minecraft]
+"Version"="1.7.10"
+"Path"="C:\Users\emile\AppData\Roaming\.minecraft\"
+"TcpAckFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Mojang]
+"TcpAckFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+[HKEY_CURRENT_USER\SOFTWARE\Mojang\Minecraft]
+"TcpAckFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"NumTcbTablePartitions"=dword:0000000F
+"TCPNoDelay"=dword:00000001
+"TcpWindowSize"=dword:00100000 
+"SackOpts"=dword:00000001
+"TcpMaxDataRetransmissions"=dword:00000002
+"Tcp1323Opts"=dword:00000001
+"TCPTimedWaitDelay"=dword:0000001e
+"IRPStackSize"=dword:00000012
+"DefaultTTL"=dword:0000040
+"KeepAliveTime"=dword:ea60
+"KeepAliveInterval"=dword:3e8
+"TCPInitialRtt"=dword:0000012c
+"MaxConnectionsPer1_0Server"=dword:00000010
+"MaxConnectionsPerServer"=dword:00000010
+"MaxFreeTcbs"=dword:00010000
+"ArpTRSingleRoute"=dword:00000001
+"SynAttackProtect"=dword:00000001
+"MaxForwardBufferMemory"=dword:0x23f00
+"ForwardBufferMemory"=dword:0x23f00
+"NumForwardPackets"=dword:0x23f
+"MaxNumForwardPackets"=dword:0x23f
+"MaxUserPort"=dword:000FFFE
+"TcpMaxSendFree"=dword:FFFF
+"DeadGWDetectDefault"=dword:00000001
+"DontAddDefaultGatewayDefault"=dword:00000000
+"MaxMpxCt"=dword:0000007d
+"EnableICMPRedirect"=dword:00000001
+"CacheHashTableBucketSize"=dword:00001000
+"EnableWsd"=dword:0000000
+"EnableDynamicBacklog"=dword:00000001
+"TcpMaxDupAcks"=dword:00000002
+"TcpRecSegmentSize"=dword:00255552
+"EnablePMTUBHDetect"=dword:00000000
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:FFFFFFFF
+"MaxHashTableSize"=dword:00010000
+"DisableTaskOffload"=dword:0000000
+"WorldMaxTcpWindowsSize"=dword:FFFFFFFF
+"TCPAllowedPorts"=dword:00000001
+"NTEContextList"=dword:00000003
+"DisableLargeMTU"=dword:00000000
+"IGMPVersion"=dword:00000002
+"IGMPLevel"=dword:00000002
+"EnableDHCP"=dword:00000001
+"EnableWsd"=dword:00000000 
+"AllowUnqualifiedQuery"=dword:00000001
+"DisableMediaSenseEventLog"=dword:00000001
+"DisableRss"=dword:00000000
+"DisableTcpChimneyOffload"=dword:00000000
+"DnsOutstandingQueriesCount"=dword:000003e8
+"DnsQueryTimeouts"=REG_MULTI_SZ:"1 1 2 2 4 0"
+"EnableAddrMaskReply"=dword:00000000
+"EnableBcastArpReply"=dword:00000000
+"EnableConnectionRateLimiting"=dword:00000000
+"EnableDca"=dword:00000000 
+"EnableHeuristics"=dword:00000001
+"EnableIPAutoConfigurationLimits"=dword:00000000
+"EnableTCPA"=dword:00000000 
+"IPEnableRouter"=dword:00000000
+"QualifyingDestinationThreshold"=dword:ffffffff
+"StrictTimeWaitSeqCheck"=dword:00000001 
+"EnableDca"=dword:00000000
+
+[HKEY_CURRENT_USER\SOFTWARE\Mojang\Minecraft Launcher]
+"upgrade_id"=dword:36d34c28
+"launcher_pos"=hex:bd,01,00,00,73,00,00,00,68,02,00,00,92,02,00,00,00,00,00,00
+
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Games]
+"FpsAll"=dword:0000001
+"GameFluidity"=dword:0000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Intel\GMM]
+"DedicatedSegmentSize"=dword:00000512
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000000
+"EnableSuperfetch"=dword:00000000
+"SfTracingState"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Video]
+"PerfLevelSrc"=hex:3322
+"PowerMizerEnable"= hex:0
+"PowermizerLevel"= hex:1
+"PowermizerLevelAC"= :hex:1
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000001
+"HostsPriority"=dword:00000002
+"DnsPriority"=dword:00000003
+"NetbtPriority"=dword:00000004
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="8"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000001
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:00000001
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control]
+"WaitToKillServiceTimeout"="2000"
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Copy To]
+[HKEY_CLASSES_ROOT\AllFilesystemObjects\shellex\ContextMenuHandlers\Move To]
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="2"
+"HungAppTimeout"="1050"
+"MenuShowDelay"="8"
+"LowLevelHooksTimeout"="3400"
+[HKEY_CURRENT_USER\Control Panel\Mouse]
+"MouseHoverTime"="9"
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Explorer]
+"NoLowDiskSpaceChecks"=dword:00000045
+"LinkResolveIgnoreLinkInfo"=dword:00000001
+"NoResolveSearch"=dword:000000fff7
+"NoResolveTrack"=dword:00000001
+"NoInternetOpenWith"=dword:00000034
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NetBT\Parameters]
+"BcastNameQueryCount"=dword:00000003
+"BcastQueryTimeout"=dword:000002ee
+"CacheTimeout"=dword:000927c0
+"EnableLMHOSTS"=dword:00000001
+"NameServerPort"=dword:00000089
+"NameSrvQueryCount"=dword:00000003
+"NameSrvQueryTimeout"=dword:000005dc
+"NbProvider"="_tcp"
+"SessionKeepAlive"=dword:0036ee80
+"Size/Small/Medium/Large"=dword:00000001
+"TransportBindName"="\Device\"
+"UseNewSmb"=dword:00000001
+"EnableProxy"=dword:00000001
+"EnableProxyRegCheck"=dword:00000001
+"EnableDns"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Audio]
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="True"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000002
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Capture]
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+"Background Only"="True"
+"Priority"=dword:00000005
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Distribution]
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+"Background Only"="True"
+"Priority"=dword:00000004
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+"Background Only"="False"
+"Priority"=dword:00000008
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000001
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Playback]
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+"Background Only"="False"
+"Priority"=dword:00000003
+"BackgroundPriority"=dword:00000004
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Pro Audio]
+"Scheduling Category"="High"
+"SFIO Priority"="Normal"
+"Background Only"="False"
+"Priority"=dword:00000001
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Window Manager]
+"Scheduling Category"="Medium"
+"SFIO Priority"="Normal"
+"Background Only"="True"
+"Priority"=dword:00000005
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Affinity"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters]
+"TCPNoDelay"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\OCMsetup]
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MSMQ\Parameters\Security]
+"SecureDSCommunication"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile]
+"NetworkThrottlingIndex"=dword:ffffffff
+"SystemResponsiveness"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters]
+"CacheHashTableBucketSize"=dword:00000001
+"CacheHashTableSize"=dword:00000180
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\ADF\Parameters]
+"EnableDynamicBacklog"=dword:00000001
+"MinimumDynamicBacklog"=dword:00000200
+"MaximumDynamicBacklog"=dword:20000
+"DynamicBacklogGrowthDelta"=dword:0000100
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"SizReqBuf"=dword:4410
+"IRPStackSize"=dword:00000020
+"MaxWorkItems"=dword:002000
+"MaxMpxCt"=dword:000800
+"Size"=dword:00000003
+"DisableStrictNameChecking"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000000
+"SystemPages"=dword:FFFFFFFF
+"IoPageLockLimit"=dword:000f0000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Executive]
+"AdditionalCriticalWorkerThreads"=dword:00000000
+"AdditionalDelayedWorkerThreads"=dword:00000000
+"WorkerFactoryThreadIdleTimeout"=dword:00000258
+"UuidSequenceNumber"=dword:00295beb
+"AdditionalDelayedWorkerThreads"=dword:0000010
+"AdditionalCriticalWorkerThreads"=dword:00000010
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters]
+"MaxCmds"=dword:000800
+"MaxThreads"=dword:0000001e
+"MaxCollectionCount"=dword:00000020
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem]
+"NTFSDisable8dot3NameCreation"=dword:00000001
+"DontVerifyRandomDrivers"=dword:00000001
+"NTFSDisableLastAccessUpdate"=dword:00000001
+"ContigFileAllocSize"=dword:00000040
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\ MSMQ\Parameters]
+"IgnoreOSNameValidation"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\SControl\SecurityProviders\SCHANNEL]
+"ServerCacheTime"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Lsa]
+"DisableStrictNameChecking"=dword:000001
+"DisableLoopbackCheck"=dword:000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\Connections\StatMon]
+"ShowLanErrors"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"DefaultSendWindow"=dword:00100000
+"DefaultReceiveWindow"=dword:00100000
+"FastSendDatagramThreshold"=dword:00004000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\HomeGroup]
+"DisableHomeGroup"=dword:00000001
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows NT\DnsClient]
+"EnableMulticast"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NDIS\Parameters]
+"RssBaseCpu"=dword:00000001
+"MaxNumRssCpus"=dword:00000002
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\AFD\Parameters]
+"FastCopyReceiveThreshold"=dword:000005dc
+"FastSendDatagramThreshold"=dword:000005dc
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Class\{4D36E972-E325-11CE-BFC1-08002BE10318}\00xx]
+"SpeedDuplex"="0"
+"FlowControl"="3"
+"RSS"="1"    
+"TCPConnectionOffloadIPv4"="1"  
+"TCPConnectionOffloadIPv6"="1" 
+"IPChecksumOffloadIPv4"="3" 
+"TCPChecksumOffloadIPv4"="3"  
+"TCPChecksumOffloadIPv6"="3"  
+"UDPChecksumOffloadIPv4"="3" 
+"UDPChecksumOffloadIPv6"="3"
+"LsoV1IPv4"="1"              
+"LsoV2IPv4"="1"         
+"LsoV2IPv6"="1"
+"TCPUDPChecksumOffloadIPv4"="3"
+"TCPUDPChecksumOffloadIPv6"="3"
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Advanced]
+"CopyBufferSize"=dword:00010000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\System]
+"CopyFileBufferedSynchronousIo"=dword:00000001
+"CopyFileChunkSize"=dword:00004000
+"CopyFileOverlappedCount"=dword:00000010
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NlaSvc\Parameters]
+"ShowDomainEndpointInterfaces"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\NlaSvc\Parameters\Internet]
+"EnableActiveProbing"=dword:00000000
+"EnableNoGatewayLocationDetection"=dword:00000001
+"CorpLocationProbeTimeout"=dword:0000001E
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"EnablePrefetcher"=dword:00000002
+"EnableSuperfetch"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management]
+"DisablePagingExecutive"=dword:00000001
+"LargeSystemCache"=dword:00000000
+"MapAllocationFragment"=dword:00020000 
+"PhysicalAddressExtension"=dword:00000001
+"SystemCacheLimit"=dword:00000400
+"SystemPages"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\rdyboost]
+"Start"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\EMDMgmt]
+"GroupPolicyDisallowCaches"=dword:00000001
+"AllowNewCachesByDefault"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\SysMain]
+"Start"=dword:00000004
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\EMDMgmt]
+"GroupPolicyDisallowCaches"=dword:00000001
+"AllowNewCachesByDefault"=dword:00000000
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\LanmanWorkstation\Parameters]
+"ReconnectTimeout"=dword:00000005
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Network\SharedAccessConnection]
+"EnableControl"=dword:00000001
+"DeviceTimeout"=dword:000003e8
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Explorer]
+"NetLinkTimeout"=dword:000003e8
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment]
+"devmgr_show_nonpresent_devices"="1"
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\NetworkProvider]
+"RestoreConnection"=dword:00000001
+"RestoreTimeout"=dword:00000014
+"DeferConnection"=dword:00000001
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\GraphicsDrivers\Scheduler]
+"VsyncIdleTimeout"=dword:00000000
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Image File Execution Options\VSSVC.exe\PerfOptions]
+"CpuPriorityClass"=dword:00000003
+"IoPriority"=dword:00000003
+"PagePriority"=dword:00000005
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\<GUID>]
+"TcpACKFrequency"=dword:00000004
+"TcpDelAckTicks"=dword:00000000
+"TCPNoDelay"=dword:00000001
+"PerformRouterDiscovery"=dword:00000000
+"InterfaceMetric"=dword:00000000

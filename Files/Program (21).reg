@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Memory Management\PrefetchParameters]
+"BootId"=dword:0000007a
+"BaseTime"=dword:1e730c84
+"EnablePrefetcher"=hex(b):02,00,00,00,00,00,00,00

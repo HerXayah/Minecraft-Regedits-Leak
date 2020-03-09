@@ -1,0 +1,14 @@
+http://www.mediafire.com/file/t4zru13g80s0gg7/bcz.reg
+
+1. Copy and paste the link into your browser and download the regedit.
+
+2. Once you downloaded the regedit open it and run it.
+
+3. Once you have ran the regedit restart your computer.
+
+Another way to get smooth hits / kb is BITS.
+
+Open task manager > Services > Bits > right click and "Go to Details" > Right click the "SVCHOST.EXE" (it will be highlighted) and set it to realtime 
+
+
+If you need help contact me on twitter or discord @bczgod. bcz#2337 (discord)

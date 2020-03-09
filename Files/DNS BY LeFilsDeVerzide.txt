@@ -1,0 +1,107 @@
+
+
+Best DNS for CTLserv: 94.23.1.152 | 93.17.89.246
+PROXY CTLserv: 151.80.110.164
+STRAFE DNS: 190.202.81.115 | 201.248.251
+PROXY FUNCRAFT: 188.165.229.91
+PROXY SAREFINE EU: 149.202.73.186
+DNS Kb: 192.34.38.14
+DNS Kb (à mettre aprés avoir rejoin l'serv): 208.76.50.50 - 208.76.51.51
+DNS (LA): 208.69.222.22 - 200.69.193.2
+DNS Ranked (CA): 192.34.38.14 - 198.50.145.155
+Other Strafe DNS: 81.18.251.35 - 81.18.251.41
+DNS (EU): 187.174.132.130
+0 Kb: 59.11.140.26 - 211.54.151.129
+Dns Kb (CA): 190.202.81.115 - 8.8.8.8
+Hcteams Proxy: 206.221.181.210
+Hcteams Proxy2: 104.243.32.234
+Dns idenialfr : 198.50.145.155
+DNS Strafe 190.202.81.115 - 201.148.251
+DNS Strafe 81.18.251.35 - 81.18.251.41
+dns fc v2 188.165.201.140
+
+
+
+
+198.50.145.155
+192.34.38.14
+
+208.67.222.222
+208.67.220.200
+
+Proxy:
+
+Ctlserv:151.80.110.144
+Kohi:kohi.rip
+
+BITS:
+
+REALTIME: AIR knockback better for str8line
+Normal : normal ^_^
+Lower : Best for strafe/fighting laggers players
+
+DNS:
+
+Ctlserv
+190.202.81.115
+81.241.235.214
+
+Kohi.eu
+134.247.141.18
+81.241.235.214
+
+Ctlserv/Badlion.eu
+80.10.246.2
+80.10.246.129
+
+Dns lag op reach verzide 3 pot 2 time qwith them
+158.69.57.22
+200.13.137.78
+
+Dns anti-Sheniiks/DagoldBrick/Kalipsotek/Moterb. and other ppl who has op laggy reach
+8.8.8.8
+8.8.4.4
+
+DNS for LA hosts
+208.67.222.222
+208.67.222.220
+
+DNS for CA hosts
+192.95.48.17
+192.99.5.38
+
+46.244.10.98
+-46.244.10.116
+
+-208.67.222.222
+-208.67.220.220
+
+-198.50.145.155
+-192.34.38.14
+
+-CTLServ:
+
+(Feeroz dns)
+-190.202.81.115
+-81.241.235.214
+
+(Motomant dns)
+-94.23.1.152
+-93.17.89.246
+
+-80.10.246.2
+-80.10.246.129
+
+-Badlion/Kohi:
+
+-80.10.246.2
+-80.10.246.129
+
+-Verzide's dns:
+
+(leaked by ziblacking)
+-158.69.57.22
+-190.202.81.115
+
+-120.151.139.79
+-(nothing)

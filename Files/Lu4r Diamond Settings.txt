@@ -1,0 +1,15 @@
+Ping: 11 Ms
+
+MBPS Download: 100 MB
+
+MBPS Upload: 50 MB
+
+MTU: 1464 + 28 = 1492
+
+Wifi or Ethernet ?: Ethernet
+ 
+Your Network card Interface Name: Intel(R) Ethernet Connection (2) I218-V
+Or 
+{36AFC3D2-E0C6-4E4D-A0B2-B03C4B462459}
+
+raulmarino123@gmail.com

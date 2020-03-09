@@ -1,0 +1,25 @@
+*** INSTRUCTIONS ***
+
+REGEDIT INSTALATION 
+
+1. Extract the regedit onto your desktop.
+
+2. Double click on the regedit, and press allow for each instruction. 
+
+LATENCY METHOD 
+
+1. Press the arrow on the bottom right of your taskbar as displayed here; https://prnt.sc/ifwcd2
+
+2. Right click on this icon; https://prnt.sc/ifwcpg and select "Open Network & Internet Settings"
+
+3. Scroll down and select Network and Sharing, then click on the wifi or ethernet you are currently connected to.\
+
+4. Click Properties.
+
+5. Go to Internet Protocal Version 4 (TCP/IPv4)
+
+6. Click on Advanced
+
+7. Enter 1000 into the interface metric box located at the bottom.
+
+8. Press OK and Apply!

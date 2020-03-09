@@ -1,0 +1,69 @@
+All values:
+
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: MaxConnectionsPerServer
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: MaxConnectionsPer1_0Server
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: SmoothScroll
+Type: REG_DWORD
+Value: 1
+--------------------
+
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+Name: MaxConnectionsPerServer
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+Name: MaxConnectionsPer1_0Server
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion
+Name: SmoothScroll
+Type: REG_DWORD
+Value: 1
+--------------------
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion
+Name: MaxConnectionsPerServer
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion
+Name: MaxConnectionsPer1_0Server
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion
+Name: SmoothScroll
+Type: REG_DWORD
+Value: 1
+--------------------
+
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: MaxConnectionsPerServer
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: MaxConnectionsPer1_0Server
+Type: REG_DWORD
+Value: 10 (hexadecimal)
+--------------------
+Location: HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\CurrentVersion\Internet Settings
+Name: SmoothScroll
+Type: REG_DWORD
+Value: 1
+--------------------

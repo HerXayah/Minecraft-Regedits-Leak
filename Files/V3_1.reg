@@ -1,0 +1,138 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet]
+"GlobalMaxTcpWindowSize"=dword:63008 
+"TcpWindowSize"=dword:63008
+"Tcp1323Opts"=dword:1
+"TcpMaxDupAcks"=dword:2
+"EnablePMTUBHDetect"=dword:0
+"DeadGWDetectDefault"=dword:1
+"DefaultTTL"=dword:86
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"MaxFreeTcbs"=dword:00065535
+"MaxUserPort"=dword:00065534
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"MTU"=dword:5F8
+"MSS"=dword:5D0
+"TcpDelAckTicks"=1f 
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"HostsPriority"=dword:00000005
+"LocalPriority"=dword:00000004
+"NetbtPriority"=dword:00000007
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00017424
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000000 
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"MTU"=dword:5F8
+"MSS"=dword:5D0
+"TcpDelAckTicks"= 1f
+"SackOpts"=dword:00000001
+"EnablePMTUBHDetect"=dword:00000001
+"EnablePMTUDiscovery"=dword:00000001
+"GlobalMaxTcpWindowSize"=dword:63008 
+"TcpWindowSize"=dword:63008
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxConnectionsPerServer"=dword:00000010
+"MaxConnectionsPer1_0Server"=dword:00000000 
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"MTU"=dword:5F8
+"MSS"=dword:598
+"TcpDelAckTicks"=1f
+"SackOpts"=dword:00000001
+"EnablePMTUBHDetect"=dword:00000001
+"EnablePMTUDiscovery"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Multimedia\SystemProfile\Tasks\Games]
+"Affinity"=dword:00000000
+"Background Only"="False"
+"Clock Rate"=dword:00002710
+"GPU Priority"=dword:00000008
+"Priority"=dword:00000002
+"Scheduling Category"="High"
+"SFIO Priority"="High"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BITS]
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"TcpDelAckTicks" =dword:1f
+"MTU"=dword:5F8
+"MSS"=dword:5D0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\BITS\Performance]
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"TcpDelAckTicks" =dword:1f
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Internet Settings]
+"MaxConnectionsPerServer"=dword:000000a 
+"MaxConnectionsPer1_0Server"=dword:00000a
+
+[HKEY_CURRENT_USER\Software\Mojang]
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+
+[HKEY_CURRENT_USER\Software\JavaSoft]
+"TcpNoDelay"=dword:1
+"TcpAckFrequency"=dword:1
+"TcpDelAckTicks"=dword:1f
+
+[HKEY_CURRENT_USER\Software\JavaSoft\Java Runtime Environment]
+"TcpNoDelay"=dword:1 
+"TcpAckFrequency"=dword:1
+"TcpDelAckTicks"=dword: 1f
+
+[HKEY_CURRENT_USER\Software\Mojang\Minecraft]
+"TcpNoDelay"=dword-1
+"TcpAckFrequency"=dword:1
+"TcpDelAckTicks"=dword:1f
+
+[HKEY_CURRENT_USER\Software\JavaSoft]
+"TcpAckFrequency"=dword:1
+"TCPNoDelay"=dword=1
+"IRPStackSize"=dword:00000032
+"MTU"=dword:5F8
+"MSS"=dword:5D0
+
+
+[HKEY_CURRENT_USER\Software\JavaSoft\Java Runtime Environment]
+"TcpAckFrequency"=dword:1
+"TCPNoDelay"=dword:1
+"IRPStackSize"=dword:00000032
+"MTU"=dword:5F8
+"MSS"=dword:5D0
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters\Interfaces]
+"MouseSpeed"="0"
+"MouseThreshold1"="0"
+"MouseThreshold2"="0"
+
+[HKEY_CURRENT_USER\Control Panel\Accessibility\Keyboard Response]
+"AutoRepeatDelay"="200"
+"AutoRepeatRate"="15"
+"BounceTime"="0"
+"DelayBeforeAcceptance"="0"
+"Flags"="59"
+"Last BounceKey Setting"=dword:00000000
+"Last Valid Repeat"=dword:00000000
+"Last Valid Wait"=dword:000003e8
+

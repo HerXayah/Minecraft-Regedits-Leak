@@ -1,0 +1,140 @@
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+     Welcome to my FPS Boosting Guide! Here you will find some quick methods to get more FPS. It is a very short guide because it really does not require a lot of 
+     effort to boost your FPS in Minecraft anymore. It is very easy to do and it is a way not many people know about.
+
+     It is always recommended to do a System Restore before starting these instructions just in case this messes up your computer, but it shouldn't in most cases.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            COMPUTER SETTINGS
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Go to your File Explorer. If you can't locate it press Start+R and type in explorer.exe
+2. Right Click "This PC" on the left side of the File Explorer and press "Properties"
+3. On the left side, you will see a blue button saying "Advanced system settings". Press it
+4. Go on the "Advanced" tab. (You should automatically be there once you press "Advanced system settings".)
+5. Where it says "Performance. Visual effects, processor scheduling, memory usage, and virtual memory", press the Settings button underneath that section.
+6. On the "Visual Effects" tab, press "Custom" and apply these settings for best looks and performance.
+
+Animate controls and elements inside windows: Ticked
+Animate windows when minimizing and maximizing: Ticked
+Animations in the taskbar: Unticked
+Enable Peek: Unticked
+Fade or slide menus into view: Ticked
+Fade or slide ToolTips into view: Ticked
+Fade out menu items after clicking: Ticked
+Save taskbar thumbnail previews: Ticked
+Show shadows under mouse pointer: Unticked
+Show shadows under windows: Unticked
+Show thumbnails instead of icons: Unticked
+Show translucent selection rectangle: Ticked
+Show windows contents while dragging: Ticked
+Slide open combo boxes: Unticked
+Smooth edges of screen fonts: Ticked
+Smooth-scroll list boxes: Ticked
+Use drop shadows for icon labels on the desktop: Ticked
+
+7. Press "Apply" and then OK but do NOT exit.
+----------------------------------------------------
+1. Press on Settings again (where you just did everything above)
+2. Press the "Advanced" tab at the top.
+3. At the bottom, there is a button called "Change". Press it.
+4. Select the drive that you are using.
+5. Tick "Custom Size"
+6. Find your RAM, and times it by 1024. For example, I have 8GB of RAM so I times 1024 x 8 = 8192
+7. Times your NEW value by 2. For example, 8192 x 2 = 16384
+8. Type YOUR new number into the Initial Size and Maximum Size.
+"Initial size (MB): 16384"
+"Maximum size (MB): 16384"
+9. Do NOT tick any other boxes
+10. Press "Set" and then press "OK"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            HIGH PERFORMANCE                         	
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Press Start+R to open up the Run box
+2. Type in "powercfg.cpl" and then press Enter.
+3. Tick the box that says "High Performance". If it doesn't show up, untick "Hide Additional Plans" and then find it there.
+4. Close it
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            MINECRAFT v1.0
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Open Task Manager. Press CTRL+Shift+Esc at the same time to do so.
+2. Have Minecraft open.
+3. On Task Manager, press More details
+4. Go to the "Details" tab at the top
+5. Find javaw.exe (Click anywhere on Task Manager and then press J once on your keyboard and it should be there)
+6. Right click it and hover over "Set priority"
+7. Set the priority to "Realtime"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            MINECRAFT v1.1
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Open Task Manager. Press CTRL+Shift+Esc at the same time to do so.
+2. Have Minecraft open.
+3. On Task Manager, press More details
+4. Go to the "Processes" tab at the top (you should automatically be on there)
+5. Scroll down until you see TWO processes called "Minecraft Launcher (32 bit)"
+6. End the one closer to the bottom. It is always bigger in size under the "Memory" bar. It should be around 20 MB under Memory.
+7. Once you have ended the task, close Task Manager.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            MINECRAFT v1.2
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Open up the Minecraft Launcher.
+2. Press "Launch Options"
+3. Turn on "Advanced Settings"
+4. Click the version you use the most
+5. Turn on "JVM arguments"
+
+If you have more than 8 GB of RAM to spare, copy and paste this code
+-Xmx3G -Xms3G -Xmn768m -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=10000 -XX:ParallelGCThreads=10
+
+If you have less than 6 GB of RAM to spare, copy and paste this code
+-Xmx1500M -Xms1500M -Xmn128m -XX:+DisableExplicitGC -XX:+UseConcMarkSweepGC -XX:+UseParNewGC -XX:+UseNUMA -XX:+CMSParallelRemarkEnabled -XX:MaxTenuringThreshold=15 -XX:MaxGCPauseMillis=30 -XX:GCPauseIntervalMillis=150 -XX:+UseAdaptiveGCBoundary -XX:-UseGCOverheadLimit -XX:+UseBiasedLocking -XX:SurvivorRatio=8 -XX:TargetSurvivorRatio=90 -XX:MaxTenuringThreshold=15 -Dfml.ignorePatchDiscrepancies=true -Dfml.ignoreInvalidMinecraftCertificates=true -XX:+UseFastAccessorMethods -XX:+UseCompressedOops -XX:+OptimizeStringConcat -XX:+AggressiveOpts -XX:ReservedCodeCacheSize=2048m -XX:+UseCodeCacheFlushing -XX:SoftRefLRUPolicyMSPerMB=2000 -XX:ParallelGCThreads=10
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            CS:GO
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Open Task Manager. Press CTRL+Shift+Esc at the same time to do so.
+2. Have Overwatch open.
+3. On Task Manager, press More details
+4. Go to the "Details" tab at the top
+5. Find csgo.exe (Click anywhere on Task Manager and then press O once on your keyboard and it should be there)
+6. Right click it and hover over "Set priority"
+7. Set the priority to "Realtime"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            PUBG
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Open Task Manager. Press CTRL+Shift+Esc at the same time to do so.
+2. Have PlayerUnknown's Battlegrounds open.
+3. On Task Manager, press More details
+4. Go to the "Details" tab at the top
+5. Find Tslgame.exe AND TslGame_BE.exe (Click anywhere on Task Manager and then press T once on your keyboard and it should be there)
+6. Right click them and hover over the "Set priority" button
+7. Set both of their priorities to "Realtime"
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            AIMING GUIDE
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Press the Start/Windows key
+2. Type in "Mouse"
+3. Go to the "Pointer Options" tab at the top.
+4. Make sure it's at a comfortable speed and it's not too fast.
+5. Untick "Enhance Pointer Precision"
+-------------------------------------------------------------------
+1. Press the Start/Windows key
+2. Type in "Ease of Access Center"
+3. Scroll down a tiny bit and press the blue button saying "Make the mouse easier to use"
+4. Under the section which says "Control the mouse with the keyboard" press "Set up Mouse Keys"
+5. Where it says Pointer speed, find the "Acceleration" tab.
+6. Make sure it is at "Slow" for smoothest aim.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+                                                                                                            DELETING TRASH FILES
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+1. Press Start+R
+2. Type in "%temp%"
+3. Delete every file in there. If an error comes up, press Skip on all of them.
+4. Close it.
+5. Press Start+R
+6. Type in "prefetch"
+7. Delete every file in there.
+8. Delete your recycle bin.
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-
+     Your FPS has been boosted! Games and other stuff will load much faster and now you have a much better result than you will ever have of your computer.
+     I hope you enjoyed the experience and it was worth it. If you need ANY help at all, contact me on Twitter, Skype or Discord.
+     Telegram: @allaPvP
+     Discord: alla#9862
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-

@@ -1,0 +1,12 @@
+{
+  "name": "Notifications",
+  "enabled": true,
+  "location": {
+    "pos": "RIGHT_BOTTOM",
+    "translation": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "properties": {}
+}

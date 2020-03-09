@@ -1,0 +1,31 @@
+go in HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Dnscache\Parameters
+
+--------------------
+Name: CacheHashTableBucketSize
+Type: REG_DWORD
+Value: 1
+--------------------
+Name: CacheHashTableSize
+Type: REG_DWORD
+Value: 384 (decimal)
+--------------------
+Name: MaxCacheEntryTtlLimit
+Type: REG_DWORD
+Value: 64000 (decimal)
+--------------------
+Name: MaxSOACacheEntryTtlLimit
+Type: REG_DWORD
+Value: 301 (decimal)
+--------------------
+Name: NegativeCacheTime
+Type: REG_DWORD
+Value: 0
+--------------------
+Name: NetFailureCacheTime
+Type: REG_DWORD
+Value: 0
+--------------------
+Name: NegativeSOACacheTime
+Type: REG_DWORD
+Value: 0
+--------------------

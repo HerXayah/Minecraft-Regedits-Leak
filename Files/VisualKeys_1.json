@@ -1,0 +1,16 @@
+{
+  "name": "VisualKeys",
+  "enabled": true,
+  "location": {
+    "pos": "RIGHT_BOTTOM",
+    "translation": {
+      "x": -2,
+      "y": -2
+    }
+  },
+  "properties": {
+    "Keystrokes": true,
+    "Mouse Clicks": true,
+    "CPS Counter": true
+  }
+}

@@ -1,0 +1,59 @@
+﻿Windows Registry Editor Version 5.00
+
+-Made by Polskeh.
+Any form of copyright will be highly distributed.
+
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}]
+"System.ControlPanel.Category"="5"
+
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}\DefaultIcon]
+@="%SYSTEMROOT%\\regedit.exe"
+
+[HKEY_CLASSES_ROOT\CLSID\{77708248-f839-436b-8919-527c410f48b9}\Shell\Open\Command]
+@=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,6f,00,74,00,25,\
+  00,5c,00,72,00,65,00,67,00,65,00,64,00,69,00,74,00,2e,00,65,00,78,00,65,00,\
+  00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\ControlSet001\Control\PriorityControl]
+"Win32PrioritySeparation"=dword:00000026
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Nsi\{eb004a03-9b1a-11d4-9123-0050047759bc}\0]
+"0200"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+"1700"=hex:00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,00,00,00,02,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+00,00,00,ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,\
+ff,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Winsock]
+"HelperDllName"=hex(2):25,00,53,00,79,00,73,00,74,00,65,00,6d,00,52,00,6f,00,\
+  6f,00,74,00,25,00,5c,00,53,00,79,00,73,00,74,00,65,00,6d,00,33,00,32,00,5c,\
+  00,77,00,73,00,68,00,74,00,63,00,70,00,69,00,70,00,2e,00,64,00,6c,00,6c,00,\
+  00,00
+"MaxSockAddrLength"=dword:00000010
+"MinSockAddrLength"=dword:00000010
+"Mapping"=hex:08,00,00,00,03,00,00,00,02,00,00,00,01,00,00,00,06,00,00,00,02,\
+  00,00,00,01,00,00,00,00,00,00,00,02,00,00,00,00,00,00,00,06,00,00,00,02,00,\
+  00,00,02,00,00,00,11,00,00,00,02,00,00,00,02,00,00,00,00,00,00,00,02,00,00,\
+  00,00,00,00,00,11,00,00,00,02,00,00,00,03,00,00,00,ff,00,00,00,02,00,00,00,\
+  03,00,00,00,00,00,00,00
+"UseDelayedAcceptance"=dword:00000000
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Pshed]
+"NonBestEffortLimit"=dword:00000000
+
+[HKEY_CURRENT_USER\Control Panel\Desktop]
+"AutoEndTasks"="1"
+"HungAppTimeout"="1000"
+"MenuShowDelay"="8"
+"WaitToKillAppTimeout"="2000"
+"LowLevelHooksTimeout"="1000"
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\ServiceProvider]
+"LocalPriority"=dword:00000001
+"HostsPriority"=dword:00000002
+"DnsPriority"=dword:00000003
+"NetbtPriority"=dword:00000004
+

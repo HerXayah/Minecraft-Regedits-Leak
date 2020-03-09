@@ -1,0 +1,59 @@
+DNS 
+
+192.95.48.17
+192.99.5.38   /BadKohi/
+
+200.125.190.202
+200.125.190.164   /Latence/
+
+200.68.64.20
+200.110.156.18   /Good Kb+reach+latency/
+
+198.50.145.155
+192.34.38.14    /AucunKB/
+
+94.23.1.152
+93.17.89.246 Good On CtlServ.fr
+
+Proxy  (MushGay/"L"egias)
+
+All Proxy kohi.eu & Badlion.eu
+
+92.222.234.190
+51.254.49.220
+51.254.49.219
+51.254.49.221
+92.222.234.189
+51.254.49.217
+51.254.49.216
+51.254.49.215
+
+
+All Proxy Kohi.us
+
+158.69.57.22
+167.114.112.117
+158.69.57.23
+158.69.57.25
+158.69.57.89
+167.114.11.69
+158.69.57.28
+
+Proxy Ctlserv.fr
+
+151.80.110.164
+
+GOD Private VERZIDE/STIMPY US DNS ! 
+God Reach :
+
+186.125.131.18
+200.8.65.30
+
+186.125.131.18
+200.110.156.18
+
+Best Argentina DNS
+http://www.bestdns.org/for/ar/
+
+Best Venezuela DNS
+http://www.bestdns.org/for/ve/
