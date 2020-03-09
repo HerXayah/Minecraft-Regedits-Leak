@@ -1,0 +1,74 @@
+REGEDIT4
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\LanmanServer\Parameters]
+"IRPStackSize"=dword:00000032
+"SizReqBuf"=dword:00017424
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"MaxFreeTcbs"=dword:00065536
+"MaxUserPort"=dword:00065534
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{2C7B2EE4-D141-4A1C-97DA-E7C9EC9B9B3F}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpServer"="192.168.1.1"
+"Lease"=dword:0000a8c0
+"LeaseObtainedTime"=dword:57b56e73
+"T1"=dword:57b5c2d3
+"T2"=dword:57b6021b
+"LeaseTerminatesTime"=dword:57b61733
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000001
+"IPAddress"=hex(7):00,00
+"SubnetMask"=hex(7):00,00
+"DefaultGateway"=hex(7):00,00
+"DefaultGatewayMetric"=hex(7):00,00
+"DhcpIPAddress"="192.168.1.35"
+"DhcpSubnetMask"="255.255.255.0"
+"NameServer"="208.67.222.222,208.67.220.220,200.63.155.71,200.63.155.199,200.51.211.7,200.51.212.7,200.45.191.35,200.45.191.40,200.49.156.3,200.49.159.69,200.49.156.8,200.49.156.7,200.69.193.1,200.69.193.2,200.43.2.6,200.43.31.6,4.4.4.4,4.4.2.2"
+"TCPNoDelay"=dword:0000400f
+"TcpDelAckTicks"=dword:00000000
+"TcpAckFrequency"=dword:0000400f
+"DhcpInterfaceOptions"=hex:06,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,\
+  17,b6,57,c0,a8,01,01,03,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,\
+  b6,57,c0,a8,01,01,01,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,\
+  57,ff,ff,ff,00,36,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,57,\
+  c0,a8,01,01,35,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,33,17,b6,57,05,\
+  00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,01,00,00,00,6f,98,b5,57,0c,00,\
+  00,00,00,00,00,00,0b,00,00,00,00,00,00,00,33,17,b6,57,47,49,47,41,42,59,54,\
+  45,2d,50,43,00,33,00,00,00,00,00,00,00,04,00,00,00,00,00,00,00,33,17,b6,57,\
+  00,00,a8,c0,fc,00,00,00,00,00,00,00,00,00,00,00,00,00,00,00,6c,98,b5,57
+"DhcpGatewayHardware"=hex:c0,a8,01,01,06,00,00,00,b0,c5,54,a7,63,ee
+"DhcpGatewayHardwareCount"=dword:00000001
+"DhcpNameServer"="192.168.1.1"
+"DhcpDefaultGateway"=hex(7):31,00,39,00,32,00,2e,00,31,00,36,00,38,00,2e,00,31,\
+  00,2e,00,31,00,00,00,00,00
+"DhcpSubnetMaskOpt"=hex(7):32,00,35,00,35,00,2e,00,32,00,35,00,35,00,2e,00,32,\
+  00,35,00,35,00,2e,00,30,00,00,00,00,00
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{846ee342-7039-11de-9d20-806e6f6e6963}]
+
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\Tcpip\Parameters\Interfaces\{9C1E752A-B125-4651-A60A-2620EDABB7D8}]
+"UseZeroBroadcast"=dword:00000000
+"EnableDeadGWDetect"=dword:00000001
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"T1"=dword:00000000
+"T2"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+"TCPNoDelay"=dword:0000400f
+"TcpDelAckTicks"=dword:00000000
+"TcpAckFrequency"=dword:0000400f

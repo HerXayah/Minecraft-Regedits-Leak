@@ -1,0 +1,64 @@
+/*/*/*/*/*/*/*/*\ DNS IPV6 MADE TCPVPNODELAY /*/*/*/*/*/*/*/*/\copyright tcpvpnodelay !
+
+
+/*\ DNS FOR 1.9/1.8/1.7 /*\
+
+
+2a02:6b8::feed:a11
+2a02:6b8:0:1::feed:a11   /RU - TcpDns\
+
+2a02:6b8::feed:bad
+2a02:6b8:0:1::feed:bad  /ENG - TcpDns\
+
+2001:470:6c:521::2
+2001:470:6d:521::1   /FR - TcpDns\
+
+2001:67c:28a4::
+2002:d596:2a92:1:71:53::  /OVH - Tcpdns\ Heberger PAr Moi
+
+2001:468:c80:2101:0:100:0:22
+2001:468:c80:4101:0:100:0:42  /OPdns - AntiRush\
+
+2a00:1768:1005:1000:1000:1000:e621:4948
+2001:4ba0:cafe:383:a:dead:beef:b10b       /ExtremeDns - ImpossibleToTakeKb \
+
+2001:730:3ec2::10
+2001:730:3ec2::11     /LatencyDns WTFhitdetection\
+
+
+/*\ BYPASS DNS /*\
+
+0:0:0:0:0:ffff:5cde:eabe  /ByPass - Badlion\
+0:0:0:0:0:ffff:5cde:eabd 
+
+0:0:0:0:0:ffff:673b:a1fc
+0:0:0:0:0:ffff:673b:a1fc  /ByPass - PvPLougne\
+
+2001:470:6d:80:a5f6:5a97:a53:71cb
+2001:470:6d:80:c4f1:32a:4521:c34  /ByPass - Funcraft\
+
+0:0:0:0:0:ffff:a484:c94e
+0:0:0:0:0:ffff:9e45:7b6b  /ByPass - Evolded \ [Ce dns est bypass quand le server ouvre tu es dieu]
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

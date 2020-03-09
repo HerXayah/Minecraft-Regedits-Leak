@@ -1,0 +1,28 @@
+
+"TcpNoDelay" = 2000fff 
+"TcpAckFrequency" = 2000fff
+Best for 15-20 ms (improve latency)
+
+"TcpNoDelay" = 1
+"TcpAckFrequency" = 1
+Best Regedit for 70-120 ms (improve reach reduce kb)
+
+"TcpNoDelay" = 1250fef
+"TcpAckFrequency" = 251fef
+"TcpDelAckTicks" = 0
+Best Regedit at all (God reach)
+
+"TcpMaxDataRetransmissions" = dword: 3
+"SackOpts" = dword: 1
+"TcpWindowSize" = dword: 773
+"Tcp1323Opts" = dword: 3
+"EnablePMTUBHDetect" = dword: 0
+"EnablePMTUDiscovery" = dword: 1
+"GlobalMaxTcpWindowSize" = dword­: 773
+Really god latency (air knockbacks and better reach)
+
+"TcpNoDelay" = 630fff
+"TcpAckFrequency" = 630fff
+"TcpWindowSize" = dword: 630fff
+"TcpDelAckTicks" = 0
+Best ping regedit (good hitdetection + better knockbacks)

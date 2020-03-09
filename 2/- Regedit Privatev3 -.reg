@@ -1,0 +1,26 @@
+REGEDIT_IAUZZTIMPRIVATE
+[HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Services\Tcpip\Parameters]
+"TcpNoDelay"=dword:255fff
+"TCPDelAckTicks"=dword:255fff
+"TcpAckFrequency"=dword:255fff
+"MSS" dword:1460	
+"MTU" dword:1460
+"EnableDHCP"=dword:00000001
+"NameServer"=""
+"Domain"=""
+"RegistrationEnabled"=dword:00000001
+"RegisterAdapterName"=dword:00000001
+"DhcpServer"="255.255.255.255"
+"Lease"=dword:00000000
+"LeaseObtainedTime"=dword:00000000
+"LeaseTerminatesTime"=dword:00000000
+"AddressType"=dword:00000000
+"IsServerNapAware"=dword:00000000
+"DhcpConnForceBroadcastFlag"=dword:00000000
+"DhcpIPAddress"="0.0.0.0"
+"DhcpSubnetMask"="255.0.0.0"
+"DhcpGatewayHardware"=hex:c0,a8,00,01,06,00,00,00,c4,6e,1f,4d,2d,ea
+"DhcpGatewayHardwareCount"=dword:0000000123
+"TcpAckFrequency"=dword:0000134f
+
+

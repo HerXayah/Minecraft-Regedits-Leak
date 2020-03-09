@@ -1,0 +1,45 @@
+﻿/*\ ON Casee Minecraft Release - GRATUIT ! - /*\
+
+-Dns Ipv6-
+
+O0op Reach
+2001:4860:4860::8888 
+2001:4860:4860::8844 
+
+NOKB
+2620:0:ccc::2 -
+2620:0:ccd::2 
+
+Best HitDetedtion
+2a01:6e00:10:401::56 
+2a01:6e00:10:401::57
+
+NOKB/OPREACH
+2a00:5881:8100:1000::3
+2001:418:3ff::1:53
+
+Hcteams/reach++
+0:0:0:0:0:ffff:bd32:919b
+0:0:0:0:0:ffff:808:404
+
+
+Dns - God
+FreeDns/Good->sarefine.us/
+37.235.1.174 [FreeDNS]
+37.235.1.177 [FreeDNS]
+
+Than_for/UsServer/
+58.6.115.42 [Australien]
+58.6.115.43 [Australien]
+
+Dns/LessKnockback++
+41.79.47.6    [georgia]
+41.79.226.122 [georgia]
+
+StPierre/nokb/lowkb/dnsKB
+70.36.0.5 [StPierre]
+70.36.0.6 [StPierre]
+
+TcPvPrivate°2/thebest/
+195.20.192.11 [host]
+195.20.193.11 [host]
