@@ -12,7 +12,7 @@
 
 # Disclaimer
 Im not responsible for any damage that your pc has after using these files/tweaks.
-You use them on your own caution. Please do a registry backup before using
+You use them on your own caution. Please do a registry backup before using.
 
 # Introduction
 Hey im Akira and i collected the .reg and .bat files you can see above.
